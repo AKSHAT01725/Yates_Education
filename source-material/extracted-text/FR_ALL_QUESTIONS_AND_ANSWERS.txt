@@ -1,0 +1,6577 @@
+FR STUDENT PRACTICE BANK
+==============================================================================
+
+
+##############################################################################
+FR Mock B - Questions S21.pdf
+##############################################################################
+FR — FINANCIAL REPORTING
+SOURCE: FR Mock B - Questions S21.pdf
+PAGES: 20
+
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 1 OF 20
+==============================================================================
+Time allowed: 3 hours 15 minutes
+This question paper is divided into three sections:
+Section A:
+All 15 questions are compulsory and MUST be
+attempted
+Section B:
+All 15 questions are compulsory and MUST be
+attempted
+Section C:
+BOTH questions are compulsory and MUST be
+attempted
+Do NOT open this question paper until instructed by the supervisor.
+Do NOT record any of your answers on the question paper.
+Please note that the real exam is a computer based exam.
+Therefore, the questions in this paper version reflect the question
+formats of a computer based exam.
+Financial Reporting
+September 2021
+MOCK B
+Kaplan Publishing/Kaplan Financial
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 2 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+2
+KAPLAN PUBLISHING
+© Kaplan Financial Limited, 2021
+The text in this material and any others made available by any Kaplan Group company does not amount to
+advice on a particular matter and should not be taken as such. No reliance should be placed on the content
+as the basis for any investment or other decision or in connection with any advice given to third parties.
+Please consult your appropriate professional adviser as necessary. Kaplan Publishing Limited, all other Kaplan
+group companies, the International Accounting Standards Board, and the IFRS Foundation expressly disclaim
+all liability to any person in respect of any losses or other claims, whether direct, indirect, incidental,
+consequential or otherwise arising in relation to the use of such materials.
+Acknowledgements
+These materials are reviewed by the ACCA examining team. The objective of the review is to ensure that the
+material properly covers the syllabus and study guide outcomes, used by the examining team in setting the
+exams, in the appropriate breadth and depth. The review does not ensure that every eventuality,
+combination or application of examinable topics is addressed by the ACCA Approved Content. Nor does the
+review comprise a detailed technical check of the content as the Approved Content Provider has its own
+quality assurance processes in place in this respect.
+This Product includes proprietary content of the International Accounting Standards Board which is overseen
+by the IFRS Foundation, and is used with the express permission of the IFRS Foundation under licence. All
+rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in
+any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior
+written permission of Kaplan Publishing and the IFRS Foundation.
+The IFRS Foundation logo, the IASB logo, the IFRS for SMEs logo, the “Hexagon Device”, “IFRS Foundation”,
+“eIFRS”, “IAS”, “IASB”, “IFRS for SMEs”, “IFRS”, “IASs”, “IFRSs”, “International Accounting Standards” and
+“International Financial Reporting Standards”, “IFRIC” and “IFRS Taxonomy” are Trade Marks of the IFRS
+Foundation.
+Trade Marks
+The IFRS Foundation logo, the IASB logo, the IFRS for SMEs logo, the “Hexagon Device”, “IFRS Foundation”,
+“eIFRS”, “IAS”, “IASB”, “IFRS for SMEs”, “NIIF” IASs” “IFRS”, “IFRSs”, “International Accounting Standards”,
+“International Financial Reporting Standards”, “IFRIC”, “SIC” and “IFRS Taxonomy”.
+Further details of the Trade Marks including details of countries where the Trade Marks are registered or
+applied for are available from the Foundation on request.
+This product contains material that is ©Financial Reporting Council Ltd (FRC). Adapted and reproduced with
+the kind permission of the Financial Reporting Council. All rights reserved. For further information, please
+visit www.frc.org.uk or call +44 (0)20 7492 2300.
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 3 OF 20
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+
+3
+SECTION A
+ALL 15 QUESTIONS ARE COMPULSORY AND MUST BE ATTEMPTED
+1
+Maud’s net profit for the year ended 31 December 20X2 is $565,000.
+At the start of the year Maud had 6,000,000 shares in issue. On 1 September 20X2, Maud
+made a bonus issue of 1 share for every 8 held. There were no other share issues during the
+period. Maud reported a basic earnings per share figure for the year ended 31 December
+20X1 of 11.0 cents.
+What is Maud’s basic earnings per share for the year ended 31 December 20X2, and the
+restated comparative for 31 December 20X1?
+
+20X2 figure
+20X1 Comparative
+A
+8.4 c
+9.8 c
+B
+8.4 c
+12.4 c
+C
+9.0 c
+9.8 c
+D
+9.0 c
+12.4 c
+2
+On 1 October 20X8 Paula acquired 80% of the one million equity shares in Stella, by way of a
+share exchange of 2 new shares in Paula for every 5 acquired in Stella. On this date the fair
+value of Stella's net assets was $2,000,000, Paula’s share price was $5.40, and the fair value
+of the non-controlling interest in Stella was $850,000. In the year ended 31 March 20X9
+goodwill had been impaired by $200,000. Paula measures goodwill using the fair value
+method.
+What is the value of goodwill arising on the acquisition of Stella at 1 October 20X8?
+A
+$128,000
+B
+$578,000
+C
+$272,000
+D
+$378,000
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 4 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+4
+KAPLAN PUBLISHING
+3
+On 1 April 20X7 Priya acquired 100% of Skyla for $6 million cash.
+At the date of acquisition a fair value exercise was performed and the fair values of Skyla's
+net assets at that date were:
+
+$000
+Property
+3,500
+Plant
+2,200
+Intangible: brand
+700
+Other net assets
+900
+
+––––––
+
+7,300
+
+––––––
+How should the purchase of Skyla be reflected in the consolidated statement of financial
+position?
+A
+Record the net assets at their values shown above and credit consolidated goodwill
+with $1.3 million.
+B
+Record the net assets at their values shown above and credit profit or loss with
+$1.3 million.
+C
+Ignoring the brand ($700,000), record the remaining assets at their values shown
+above and credit profit or loss with $600,000.
+D
+Ignoring the brand ($700,000), record the remaining assets at their values shown
+above and credit consolidated goodwill with $600,000.
+4
+Which of the following should be accounted for using equity accounting in the consolidated
+financial statements of Prima plc?
+A
+An investment of 40% of the ordinary shares in Artim. The remaining 60% of Artim’s
+shares are owned by Rhoswen plc, who treats Artim as a subsidiary.
+B
+An investment of 30% of the ordinary shares in Akasma. Prima has one representative
+on Akasma's board of directors.
+C
+An investment of 18% of the ordinary shares of Adora.
+D
+An investment in 35% of the non-voting irredeemable preference shares of Ajax.
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 5 OF 20
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+
+5
+5
+On 1 July 20X8 Tamsin received a government grant of $500,000 towards the cost of an item
+of plant that was purchased on that date. Extracts from the statement of financial position
+at 31 March 20X9 are shown below:
+
+20X9
+20X8
+
+$000
+$000
+Non-current liabilities
+
+Government grants
+1,250
+1,100
+Current liabilities
+
+Government grants
+850
+650
+How would government grants be treated in the statement of cash flows for the year ended
+31 March 20X9 in both the operating activities (to arrive at cash generated from
+operations) and investing activities sections?
+
+Operating activities
+Investing activities
+A
+$500,000 added back
+$150,000 inflow
+B
+$150,000 added back
+$500,000 inflow
+C
+$500,000 deducted
+$150,000 inflow
+D
+$150,000 deducted
+$500,000 inflow
+6
+In the year ended 31 March 20X6 Connect revalued its properties at the year-end for the first
+time.
+Which of the following ratios would be distorted when comparing the year-on-year
+performance and position of Connect?
+(i)
+Current ratio
+(ii)
+Asset turnover
+(iii)
+Gearing
+(iv)
+Return on capital employed
+A
+All of the above
+B
+(i), (ii) and (iii)
+C
+(ii) and (iv)
+D
+(ii), (iii) and (iv)
+7
+Comparability is identified in the IASB's Conceptual Framework as an enhancing qualitative
+characteristic.
+Which of the following WILL improve comparability?
+A
+Recording a transaction according to its substance rather than its legal form
+B
+Restating the prior year earnings per share figure following a rights issue of shares
+during the current year
+C
+Including assets held for sale within property, plant and equipment on the statement
+of financial position until sold
+D
+Recording a change in an accounting estimate in the current year’s financial
+statements
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 6 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+6
+KAPLAN PUBLISHING
+8
+Which of the following accounting treatments provides an example of relevance in
+accordance with the IASB's Conceptual Framework?
+A
+Restating the financial statements of the previous year when a prior year error has
+been discovered
+B
+Treating redeemable preference shares as a liability within the financial statements
+C
+Valuing inventory within the financial statements using FIFO rather than average cost
+D
+Separately disclosing discontinued operations within the financial statements
+9
+On 31 March 20X8 Jing's closing inventory was valued at its cost of $5 million, including some
+damaged goods. The damaged items cost $390,000 and are no longer expected to achieve
+their normal selling price, which is calculated to achieve a mark-up of 20%. These goods will
+have to be sold at a discount of 30% on normal selling price.
+What value should be included for total inventory in Jing's statement of financial position
+as at 31 March 20X8?
+A
+$4,937,600
+B
+$4,883,000
+C
+$4,610,000
+D
+$4,951,250
+10
+On 1 April 20X8 Danielle acquired a machine via a lease agreement, and paid $45,000
+immediately, being the first of five equal annual rentals in advance. The present value of the
+remaining lease payments at 1 April 20X8 was $155,000. The lease has an implicit interest
+rate of 10%, and the machine has a useful life of five years.
+What amount in total is charged to Danielle's statement of profit or loss for the year ended
+31 March 20X9 in respect of the above lease?
+A
+$40,000
+B
+$46,500
+C
+$55,500
+D
+$60,000
+11
+At 1 April 20X8 Swizzle had a property in its financial statements that had originally cost $27.5
+million (land $2.5 million, buildings $25 million), and now had accumulated buildings
+depreciation of $10 million. On 1 April 20X8, the directors decided to revalue the land and
+buildings for the first time, and accepted the report of an independent surveyor who valued
+the land at $4 million and the buildings at $19.5 million on that date. The remaining life of
+the buildings at 1 April 20X8 was 15 years.
+What will be the amount of depreciation charged to profit or loss for the year ended
+31 March 20X9?
+A
+$1,300,000
+B
+$1,666,667
+C
+$1,833,333
+D
+$1,566,667
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 7 OF 20
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+
+7
+12
+IAS 36 Impairment outlines indicators of when an entity's assets may have become impaired.
+Which of the following are NOT internal indicators of impairment?
+(i)
+The asset’s market value has declined more than would be expected from the passage
+of time.
+(ii)
+Damage to, or obsolescence of, the asset.
+(iii)
+Changes in the economic environment of the business in which the asset is employed.
+(iv)
+Changes in the way the asset is used by the entity.
+A
+(iii) and (iv) only
+B
+(i) and (ii) only
+C
+(i) and (iii) only
+D
+(ii) and (iv) only
+13
+Which of the following is NOT true concerning the treatment of borrowing costs under IAS
+23 Borrowing costs?
+A
+Only borrowing costs on a qualifying asset can be capitalised
+B
+Capitalisation of borrowing costs should be suspended if construction is suspended for
+an extended period
+C
+Borrowing costs can continue to be capitalised once activities to prepare the asset for
+use are complete, if the asset is not yet in use
+D
+Borrowing costs capitalised are net of any temporary investment income from the
+funds borrowed
+14
+The balance on Olaf’s development expenditure as at 31 March 20X8 was $16 million (original
+cost $20 million, accumulated amortisation $4 million).
+The development costs relate to a product called the Stone, which was being amortised over
+five years.
+A review of the sales of the Stone in late March 20X9 showed them to be below forecast. An
+impairment test concluded that the fair value of the development expenditure at 31 March
+20X9 was only $9 million, and the Stone was only expected to sell for a further two years.
+What amount will be charged to profit or loss in respect of the impairment of the
+development expenditure for the year ended 31 March 20X9?
+A
+$4 million
+B
+$3 million
+C
+$7 million
+D
+$1 million
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 8 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+8
+KAPLAN PUBLISHING
+15
+Jim is an entity that is preparing its financial statements for the year ended 31 March 20X9.
+On 24 April 20X9, prior to the authorisation of the financial statements, the internal audit
+department discovered a fraud by an employee, who had been making payments to a
+fictitious supplier during the year to 31 March 20X9. Investigation showed that the total
+amount of the fraud amounted to $790,000, which is considered to be material.
+How should the fraud be treated in the financial statements for the year ended 31 March
+20X9 in accordance with IAS 10 Events After the Reporting Date?
+A
+Disclosed as a non-adjusting event
+B
+Identified as a non-adjusting event, but resulting in adjustment because the going
+concern status of Jim is affected
+C
+Ignored as the discovery was after the reporting date
+D
+Treated as an adjusting event in the financial statements
+
+(Total: 30 marks)
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 9 OF 20
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+
+9
+SECTION B
+ALL 15 QUESTIONS ARE COMPULSORY AND MUST BE ATTEMPTED
+Each question is worth 2 marks.
+The following scenario relates to questions 16 – 20.
+On 1 April 20X6 Payne acquired 75% of Scannell’s equity shares, when Scannell’s retained earnings
+were $48 million.
+Payne paid $70 million cash, with a further $8.47 million payable on 31 March 20X8. Payne has a
+cost of capital of 10%.
+Payne measures the non-controlling interest at fair value, and at the date of acquisition the non-
+controlling interest in Scannell had a fair value of $24 million.
+The fair values of the net assets of Scannell were equal to their carrying amounts, with the
+exception of a building, which had a carrying amount of $8 million but a fair value of $12 million. At
+the date of acquisition, the building was deemed to have a remaining useful life of 20 years.
+On 1 January 20X7, Payne also acquired 30% of the 50 million equity shares of Aaron paying $3 in
+cash per acquired share. Aaron made a profit of $24 million for the year ended 31 March 20X7, and
+had retained earnings of $40 million as at 31 March 20X7.
+Extracts from the statements of financial position for Payne and Scannell at 31 March 20X7 are
+shown below:
+Payne
+Scannell
+Non-current assets
+$000
+$000
+Property, plant and equipment
+180,000
+60,000
+
+–––––––
+–––––––
+Equity
+
+Equity shares of $1 each
+150,000
+20,000
+Retained earnings
+243,500
+84,000
+
+–––––––
+–––––––
+
+16
+What is the value of goodwill on the acquisition of Scannell?
+A
+$29 million
+B
+$33 million
+C
+$30.47 million
+D
+$49 million
+17
+When a gain on bargain purchase (negative goodwill) arises, IFRS 3 Business Combinations
+requires an entity to review the measurement of all elements of the goodwill calculation.
+Once confirmed, what is the correct accounting treatment of the negative goodwill?
+A
+It is credited to profit or loss
+B
+It is credited to other comprehensive income
+C
+It is deducted from positive goodwill
+D
+It is credited directly to retained earnings
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 10 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+10
+KAPLAN PUBLISHING
+18
+What is the carrying amount of the investment in Aaron on Payne’s consolidated statement
+of financial position at 31 March 20X7?
+A
+$45m
+B
+$46.8m
+C
+$51m
+D
+$52.2m
+19
+What is the carrying amount of Payne’s consolidated property, plant and equipment at
+31 March 20X7?
+A
+$225m
+B
+$240m
+C
+$243.8m
+D
+$247.6m
+20
+What is the correct treatment of any professional fees incurred on the acquisition of a
+subsidiary?
+A
+Capitalise as an intangible asset
+B
+Write off as an expense in the statement of profit or loss
+C
+Deduct from the cost of investment in the calculation of goodwill
+D
+Add to the cost of investment in the calculation of goodwill
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 11 OF 20
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+
+11
+The following scenario relates to questions 21 – 25.
+Tariq has a year end of 30 November and owns an item of plant which it uses to manufacture steel
+girders. The plant cost $150,000 on 1 December 20X5 and at that date had an estimated useful life
+of five years.
+A review of the plant on 1 June 20X8 concluded that its fair value was $105,000 and that it would
+last for a further three and a half years.
+Tariq uses the revaluation model for its plant, but does not make an annual transfer from the
+revaluation surplus to retained earnings in respect of the additional depreciation charged.
+On 30 November 20X8, Tariq was informed by a major customer that it would no longer be placing
+orders with Tariq. As a result Tariq reviewed its forecasts and estimated that net cash inflows
+earned from the plant for the next three years would be:
+
+$
+Year ended 30 November
+20X9
+44,000
+
+20Y0
+36,000
+
+20Y1
+40,000
+Tariq’s cost of capital is 8% which results in the following discount factors:
+Value of $1 at 30 November
+20X9 0.93
+20Y0 0.86
+20Y1 0.79
+Tariq also owns Rasa, a 100% subsidiary, which is treated as a cash generating unit. On 30 November
+20X8, an impairment review of Rasa revealed impairment to Rasa’s assets of $350,000. The carrying
+amounts of the assets of Rasa immediately before the impairment were:
+
+$
+Goodwill
+
+200,000
+Factory building
+
+400,000
+Plant
+
+350,000
+Receivables and cash
+
+250,000
+
+––––––––
+
+1,200,000
+
+––––––––
+Note: Receivables and cash are stated at their recoverable amounts.
+21
+Prior to considering any impairment, what is the carrying amount of Tariq’s plant and the
+balance on the revaluation surplus at 30 November 20X8?
+
+Plant carrying
+amount
+Revaluation
+surplus
+
+$000
+$000
+A
+90
+Nil
+B
+60
+30
+C
+90
+30
+D
+60
+Nil
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 12 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+12
+KAPLAN PUBLISHING
+22
+What is the value in use of Tariq’s plant as at 30 November 20X8?
+A
+$103,480
+B
+$90,000
+C
+$111,880
+D
+$120,000
+23
+What is the carrying amount of Rasa’s plant at 30 November 20X8 after the impairment
+loss has been correctly apportioned between its assets?
+A
+$247,917
+B
+$280,000
+C
+$221,053
+D
+$350,000
+24
+Which of the following are TRUE in accordance with IAS 36 Impairment of Assets?
+(1)
+A cash generating unit is the smallest identifiable group of assets for which individual
+cash flows can be identified and measured.
+(2)
+When considering the impairment of a cash generating unit, the calculation of the
+carrying amount and the recoverable amount does not need to be based on exactly
+the same group of assets.
+(3)
+When it is not possible to calculate the recoverable amount of a single asset, then that
+of its cash generating unit should be measured instead.
+A
+(1) and (2)
+B
+(2) and (3)
+C
+All of them
+D
+(1) and (3)
+25
+In accordance with IAS 36 Impairment of Assets, which of the following explains the
+impairment of an asset and how to calculate its recoverable amount?
+An asset is impaired when
+A
+its recoverable amount exceeds its carrying amount and the recoverable amount is the
+higher of its fair value less costs of disposal and its value in use
+B
+its carrying amount exceeds its recoverable amount and the recoverable amount is the
+higher of its fair value less costs of disposal and its value in use
+C
+its carrying amount exceeds its recoverable amount and the recoverable amount is the
+lower of its fair value less costs of disposal and its value in use
+D
+its recoverable amount exceeds its carrying amount and the recoverable amount is the
+lower of its fair value less costs of disposal and its value in use
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 13 OF 20
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+
+13
+The following scenario relates to questions 26 – 30.
+Stankovic is preparing its financial statements for the year ended 31 December 20X5. The following
+issues are relevant:
+1
+Financial asset
+Stankovic acquired a short-term speculative investment in 10,000 of the equity shares of
+another entity on 1 January 20X5 at a cost of $3.50 each. Transaction costs of 1% of the
+purchase price were incurred.
+On 31 December 20X5 the fair value of these shares was $4.50 each.
+Where possible, Stankovic makes an irrevocable election for the fair value movements on
+financial assets to be reported in other comprehensive income.
+2
+Financial liability
+Stankovic issued a $40 million 5% loan note on 1 July 20X5. Interest is payable annually on
+30 June. The loan note is redeemable on 30 June 20X9 at a substantial premium, the impact
+of which is to increase the effective rate of interest on the loan note to 7%.
+3
+Revenue
+
+On 1 January 20X5, Stankovic sold a machine for $20 million. The sales price included
+maintenance of the machine until 31 December 20X7 (i.e. three years after the sale date).
+The list price of the machine (without maintenance) is $20.5 million, and Stankovic normally
+charges $1.5 million per annum for maintenance.
+26
+Which of the following meet the definition of a financial asset in accordance with IFRS 9
+Financial Instruments?
+(1)
+An equity instrument of another entity.
+(2)
+A contract to exchange financial instruments with another entity under conditions
+which are potentially favourable.
+(3)
+A contract to exchange financial instruments with another entity under conditions
+which are potentially unfavourable.
+(4)
+Cash.
+A
+(1) and (2) only
+B
+(1), (2) and (4)
+C
+(1), (3) and (4)
+D
+(4) only
+27
+In respect of the financial asset of Stankovic, what is the net impact in the statement of
+profit or loss for the year ended 31 December 20X5?
+A
+$9,650 gain
+B
+$10,350 gain
+C
+$10,000 gain
+D
+$nil gain
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 14 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+14
+KAPLAN PUBLISHING
+28
+In respect of the financial liability of Stankovic, what is the finance cost to be recognised in
+the statement of profit or loss for the year ended 31 December 20X5?
+A
+$2.8 million
+B
+$2 million
+C
+$1.4 million
+D
+$1 million
+29
+What is the amount of revenue which Stankovic should recognise in its statement of profit
+or loss for the year ended 31 December 20X5 relating to the contract for the supply and
+maintenance of its product?
+A
+$20 million
+B
+$17.6 million
+C
+$16.4 million
+D
+$3.6 million
+30
+Which of the following is not one of the five steps for revenue recognition within IFRS 15
+Revenue From Contracts With Customers?
+A
+Identify the performance obligations
+B
+Identify the contract
+C
+Allocate the performance obligations
+D
+Determine the transaction price
+
+(Total: 30 marks)
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 15 OF 20
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+
+15
+SECTION C
+BOTH QUESTIONS ARE COMPULSORY AND MUST BE ATTEMPTED
+31
+HEYWOOD
+Below are the summarised financial statements for the years to 31 December 20X6 and 20X7
+of Heywood, a company which manufactures bottles for many different drinks companies.
+Note: The statements for the year to 31 December 20X7 have not been audited.
+Heywood Statement of profit or loss for the year ended 31 December
+
+20X7
+
+20X6
+
+$m
+
+$m
+Revenue
+300
+
+120
+Cost of sales
+(270)
+
+(90)
+
+––––
+
+––––
+Gross profit
+30
+
+30
+Operating expenses
+(28)
+
+(10)
+Finance costs
+(10)
+
+(2)
+
+––––
+
+––––
+(Loss)/profit before tax
+(8)
+
+      18
+Income tax
+     2
+
+(6)
+
+––––
+
+––––
+Profit for the year
+(6)
+
+        12
+
+––––
+
+––––
+Statement of financial position for Heywood as at 31 December 20X7
+
+20X7
+
+20X6
+
+$m
+$m
+
+$m
+$m
+Non-current assets
+
+Land and buildings
+
+5
+
+5
+Plant and equipment
+
+58
+
+38
+
+––––
+
+––––
+
+63
+
+43
+Current assets
+
+Inventories
+18
+
+12
+
+Trade and other receivables
+94
+
+25
+
+Deferred expenditure
+6
+
+–
+
+Bank
+Nil
+
+8
+
+––––
+
+––––
+
+118
+
+45
+
+––––
+
+––––
+
+181
+
+88
+
+––––
+
+––––
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 16 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+16
+KAPLAN PUBLISHING
+Equity & liabilities
+
+Equity
+
+Share capital
+
+25
+
+25
+Other components of equity
+
+10
+
+11
+Retained earnings
+
+(12)
+
+8
+
+––––
+
+––––
+
+23
+
+44
+Non-current liabilities
+
+Lease
+
+32
+
+19
+
+Current liabilities
+
+Trade payables
+80
+
+15
+
+Lease
+12
+
+10
+
+Bank overdraft
+34
+
+–
+
+––––
+
+––––
+
+126
+
+25
+
+––––
+
+––––
+
+181
+
+88
+
+––––
+
+––––
+The following ratios have been calculated for Heywood for the year ended 31 December
+20X6:
+Return on capital employed (equity plus debt)
+27.4%
+Gross profit margin
+25%
+Operating profit margin
+16.7%
+Asset turnover
+1.6 times
+Current ratio
+1.8 : 1
+Gearing (debt to debt plus equity)
+39.7%
+Note that debt includes all lease liabilities.
+Further information:
+(i)
+Plant and equipment is made up as follows:
+
+20X7
+20X6
+
+$m
+$m
+Owned plant
+18
+10
+Right-of-use assets
+40
+28
+(ii)
+The directors were disappointed in the profit for the year to 31 December 20X6 and
+held a board meeting in January 20X7 to discuss future strategy. The Managing
+Director was insistent that the way to improve the company’s results was to increase
+sales and market share. As a result the following actions were implemented:
+–
+An aggressive marketing campaign through trade journals costing $12 million
+was undertaken. Owing to expected long-term benefits $6 million of this has
+been included within current assets in the statement of financial position at
+31 December 20X7, deferring half of the marketing costs to a later period.
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 17 OF 20
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+
+17
+–
+A ‘price promise’ to undercut any other supplier’s price was announced in the
+advertising campaign.
+–
+Following a competitive tendering process, a major contract with Koola Drinks
+was agreed, accounting for a substantial proportion of the company’s output.
+–
+The credit period for receivables was extended from two to three months.
+(iii)
+A preliminary review by the Board of the accounts on 31 December 20X7 concluded
+that the company’s performance had deteriorated rather than improved. There was
+particular concern over the prospects of renewing the bank overdraft facility because
+the maximum agreed level of $30 million had been exceeded.
+Required:
+(a)
+Calculate ratios for the year ended 31 December 20X7 equivalent to those provided
+above.
+(6 marks)
+(b)
+Prepare a report for Heywood’s board, analysing the company’s performance and
+position, focusing on the effects of the implementation of the actions referred to in
+points (i) to (iii) above.
+(14 marks)
+
+(Total: 20 marks)
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 18 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+18
+KAPLAN PUBLISHING
+32
+CHESTNUT
+The trial balance below has been prepared for Chestnut, following preparation of the draft
+statement of profit or loss for the year ended 31 March 20X5.
+
+$000
+$000
+Share capital of $1 shares
+
+42,000
+Share premium
+
+8,000
+Property – at valuation 1 April 20X4
+60,000
+
+Plant and equipment – cost
+60,000
+
+Plant and equipment – accumulated depreciation 1 April 20X4
+
+22,000
+Equity dividend paid
+12,500
+
+6% preference shares of $1 each (note (ii))
+
+52,000
+Convertible loan note (note (iii))
+
+10,000
+Convertible loan note interest paid (note (iii))
+400
+
+Inventory at 31 March 20X5
+35,250
+
+Trade receivables
+41,375
+
+Bank
+34,350
+
+Trade payables
+
+42,000
+Draft profit for the year ended 31 March 20X5
+
+40,125
+Preference dividend paid (note (ii))
+3,000
+
+Retained earnings – 1 April 20X4
+
+12,125
+Revaluation surplus – 1 April 20X4
+
+9,000
+Income tax (note (iv))
+875
+
+Deferred tax (note (iv))
+
+10,500
+
+–––––––
+–––––––
+
+247,750
+247,750
+
+–––––––
+–––––––
+The following notes are relevant:
+(i)
+Non-current assets
+The property had a remaining life of 20 years as at 1 April 20X4. The company’s policy
+is to revalue its property at each year-end, and at 31 March 20X5 it was professionally
+valued at $62 million. Ignore deferred tax on the revaluation.
+All plant is to be depreciated at 25% per annum using the reducing balance method.
+At 31 March 20X5, Chestnut decided to replace all its plant and equipment and put all
+of it up for sale. Due to the market for such machinery at this date, the sale was
+considered highly probable. In May 20X5 the plant was sold for $32 million.
+All depreciation is to be charged to cost of sales.
+(ii)
+The 6% preference shares were issued at par on 1 April 20X3 for $50 million. They are
+redeemable at a large premium which gives them an effective finance cost of 10% per
+annum.
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 19 OF 20
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+
+19
+(iii)
+On 1 April 20X4 Chestnut issued a $10 million 4% convertible loan note, repayable or
+convertible to ordinary shares on 31 March 20X8. Interest is payable annually in
+arrears. Chestnut chose to issue the convertible loan note as it meant that there would
+be a lower interest payment than the 8% interest rate charged on similar loan notes
+with no conversion option. The present value of $1 payable at the end of each year,
+based on discount rates of 4% and 8% are:
+
+4%
+8%
+Year
+1
+0.96
+0.93
+
+2
+0.92
+0.86
+
+3
+0.89
+0.79
+
+4
+0.85
+0.74
+(iv)
+The directors have estimated the provision for income tax for the year to 31 March
+20X5 at $5.7 million. The required deferred tax provision at 31 March 20X5 is
+$7 million, and all adjustments to deferred tax should be taken to the statement of
+profit or loss. The balance of current tax in the trial balance represents the under/over
+provision of the income tax liability for the year ended 31 March 20X4.
+(v)
+On 1 August 20X4 Chestnut issued 8 million shares at their full market price of $2.
+Required:
+(a)
+Calculate the adjusted profit (to the nearest $000) for Chestnut for the year ended
+31 March 20X5.
+(5 marks)
+(b)
+Prepare the statement of financial position for Chestnut as at 31 March 20X5.
+
+(Notes to the financial statements are not required. Please work to the nearest
+$000.)
+(12 marks)
+(c)
+Calculate the basic earnings per share for Chestnut for the year ended 31 March
+20X5. State your answer in cents to 1 decimal place.
+(3 marks)
+
+(Total: 20 marks)
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 20 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+20
+KAPLAN PUBLISHING
+
+
+##############################################################################
+MARKING GUIDE: FR Mock B - Answers S21.pdf
+##############################################################################
+FR — ANSWER / MARKING GUIDE
+SOURCE: FR Mock B - Answers S21.pdf
+PAGES: 20
+
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 1 OF 20
+==============================================================================
+ACCA
+FR
+Financial
+Reporting
+September 2021
+Mock B – Answers
+To gain maximum benefit, do not refer to these answers until
+you have completed the mock questions and submitted them
+for marking.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 2 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+2
+KAPLAN PUBLISHING
+© Kaplan Financial Limited, 2021
+The text in this material and any others made available by any Kaplan Group company does not amount to
+advice on a particular matter and should not be taken as such. No reliance should be placed on the content
+as the basis for any investment or other decision or in connection with any advice given to third parties.
+Please consult your appropriate professional adviser as necessary. Kaplan Publishing Limited, all other Kaplan
+group companies, the International Accounting Standards Board, and the IFRS Foundation expressly disclaim
+all liability to any person in respect of any losses or other claims, whether direct, indirect, incidental,
+consequential or otherwise arising in relation to the use of such materials.
+Acknowledgements
+These materials are reviewed by the ACCA examining team. The objective of the review is to ensure that the
+material properly covers the syllabus and study guide outcomes, used by the examining team in setting the
+exams, in the appropriate breadth and depth. The review does not ensure that every eventuality,
+combination or application of examinable topics is addressed by the ACCA Approved Content. Nor does the
+review comprise a detailed technical check of the content as the Approved Content Provider has its own
+quality assurance processes in place in this respect.
+This Product includes proprietary content of the International Accounting Standards Board which is overseen
+by the IFRS Foundation, and is used with the express permission of the IFRS Foundation under licence. All
+rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in
+any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior
+written permission of Kaplan Publishing and the IFRS Foundation.
+The IFRS Foundation logo, the IASB logo, the IFRS for SMEs logo, the “Hexagon Device”, “IFRS Foundation”,
+“eIFRS”, “IAS”, “IASB”, “IFRS for SMEs”, “IFRS”, “IASs”, “IFRSs”, “International Accounting Standards” and
+“International Financial Reporting Standards”, “IFRIC” and “IFRS Taxonomy” are Trade Marks of the IFRS
+Foundation.
+Trade Marks
+The IFRS Foundation logo, the IASB logo, the IFRS for SMEs logo, the “Hexagon Device”, “IFRS Foundation”,
+“eIFRS”, “IAS”, “IASB”, “IFRS for SMEs”, “NIIF” IASs” “IFRS”, “IFRSs”, “International Accounting Standards”,
+“International Financial Reporting Standards”, “IFRIC”, “SIC” and “IFRS Taxonomy”.
+Further details of the Trade Marks including details of countries where the Trade Marks are registered or
+applied for are available from the Foundation on request.
+This product contains material that is ©Financial Reporting Council Ltd (FRC). Adapted and reproduced with
+the kind permission of the Financial Reporting Council. All rights reserved. For further information, please
+visit www.frc.org.uk or call +44 (0)20 7492 2300.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 3 OF 20
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+ 3
+SECTION A
+1
+A
+Basic Earnings per Share: 565,000/(6,000,000 + 750,000) = 8.4¢
+Comparative: 11c × 8/9 = 9.8¢
+Bonus issues are treated as if the shares had always been in issue. The bonus issue would
+have increased the number of shares in issue by 6m × 1/8 = 750,000 shares.
+The bonus fraction is the number of shares after the bonus issue/number of shares before
+the bonus issue = 9/8 Comparatives are restated by multiplying the prior year EPS figure by
+the inverse of the Bonus Fraction, i.e. 8/9.
+2
+B
+
+$
+Cost of investment:
+Share exchange ((1,000,000 × 80%) × 2/5) × $5.40
+
+1,728,000
+Fair value of NCI
+850,000
+
+–––––––––
+
+2,578,000
+Less: net assets at acquisition
+(2,000,000)
+
+–––––––––
+Goodwill on acquisition (1.10.X8)
+578,000
+
+–––––––––
+3
+B
+
+$000
+Cost of investment
+6,000
+Net assets at acquisition
+(7,300)
+
+–––––––
+Bargain purchase (negative goodwill)
+1,300
+
+–––––––
+Negative goodwill is taken as a gain to the statement of profit or loss.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 4 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+4
+KAPLAN PUBLISHING
+4
+B
+Significant influence is assumed with a shareholding of between 20 and 50% and is confirmed
+as Prima is involved in Akasma’s decision-making with a seat on the board of directors
+Akasma should be equity accounted in the consolidated financial statements.
+In relation to Artim, Prima holds 40% of the shares so significant influence would be assumed,
+but the other 60% are owned by one company which in turn will control Artim, therefore
+Prima has no significant influence.
+For Adora, Prima holds less than 20% of the shares, so would be assumed to have no
+significant influence over Adora so there is no need to equity account or consolidate This
+investment would be held as a financial instrument.
+For Ajax, 35% of the preference shares gives no influence or control over Ajax so there is no
+need to equity account or consolidate This investment would be held as a financial
+instrument.
+5
+D
+The figure under operating activities will represent the adjustment to profit before tax, and
+is therefore the non-cash grant amortisation, calculated below The figure under investing
+activities will represent the actual cash received during the year, given in the question as
+$500,000.
+
+$000
+
+$000
+(β) Grant amortisation
+150
+b/f NCL government grants
+1,100
+
+b/f CL government grants
+650
+
+Grant received
+500
+c/f NCL government grants
+1,250
+
+c/f CL government grants
+850
+
+––––––
+
+––––––
+
+2,250
+
+2,250
+
+––––––
+
+––––––
+6
+D
+The current ratio would not be affected as it considers current assets and liabilities The
+revaluation would increase the equity section of the statement of financial position, and
+affect any ratios that include equity or capital employed.
+7
+B
+Restating the earnings per share will enable a like-for-like comparison.
+8
+D
+Information is relevant if it has predictive or confirmatory value Disclosing discontinued
+operations enables users to identify those transactions/events that will not continue in
+subsequent accounting periods, so has predictive value.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 5 OF 20
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+ 5
+9
+A
+Inventory should be valued at the lower of cost and net realisable value (NRV) In this case
+the damaged items have a NRV below cost, and this reduction in value needs to be reflected
+within the final total inventory value.
+
+$
+Cost of damaged goods
+390,000
+Plus normal mark-up 20%
+78,000
+
+––––––––
+Normal selling price
+468,000
+Less discount 30%
+(140,400)
+
+––––––––
+Net realisable value
+327,600
+
+––––––––
+Inventory needs to be written down by the difference between cost and NRV, $62,400.
+Final value of inventory is therefore 5,000,000 – 62,400 = $4,937,600.
+10
+C
+1
+Depreciation – 200,000/5 years = $40,000
+2
+Lease interest:
+Year
+b/f
+Interest 10%
+c/f
+20X9
+155,000
+15,500
+170,500
+Therefore total charge = $40,000 + $15,500 = $55,500.
+11
+A
+$19,500,000/15 years = $1,300,000
+The original cost of the property is irrelevant to the calculation, which should be based on
+the latest valuation of the building and the latest estimate of remaining life.
+12
+C
+Damage/obsolescence and a change in the way an asset is used are internal indicators that
+an entity's assets may have become impaired Market values and economic environment
+changes are external factors.
+13
+C
+Borrowing costs should be capitalised during the period of construction of a qualifying asset
+If construction is halted, either temporarily or permanently, the capitalisation also ceases
+Any income arising from temporary investment of surplus funds during the period of
+construction is deducted from the borrowing costs capitalised.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 6 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+6
+KAPLAN PUBLISHING
+14
+B
+
+$000
+Carrying amount b/f
+($20m – $4m)
+16,000
+Amortisation to 31 March 20X9
+($20m/5 years)
+(4,000)
+
+–––––––
+Carrying amount at 31 March 20X9
+
+12,000
+Fair value at 31 March 20X9
+
+(9,000)
+
+–––––––
+Impairment
+
+3,000
+
+–––––––
+15
+D
+Adjusting events are those events that arise between the reporting date and the date on
+which the financial statements are authorised for issue, and which provide additional
+evidence of conditions that existed at the reporting date The fraud was committed before
+the reporting date, so the financial statements will be adjusted.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 7 OF 20
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+ 7
+SECTION B
+16
+A
+$29 million
+Cost of investment
+
+$m
+Cash
+
+   70
+Deferred consideration
+8.47 × 1/1.1²
+     7
+Non-controlling interest
+Per question
+   24
+Net assets
+
+Share capital
+20
+
+Retained earnings
+48
+
+Fair value adjustment
+    4
+
+($12m – $8m)
+––––
+
+(72)
+
+–––––
+
+ 29
+
+–––––
+17
+A
+The gain on bargain purchase reflects the fact that nets assets have been acquired at a price
+below their fair value As such, this represents a realised gain and is included within the profit
+or loss for the year.
+18
+B
+$46.8M
+
+$m
+Cost of investment
+50m × 30% × $3
+ 45.0
+Post-acquisition profit
+24 × 3/12 × 30%
+  1.8
+
+––––
+
+46.8
+
+––––
+The investment in Aaron is measured at initial cost plus the parent’s share of post-acquisition
+profit Retained earnings at the year-end are irrelevant here because we are told the profit
+earned during the year.
+19
+C
+
+$m
+Payne
+
+180
+Scannell
+
+60
+Fair value adjustment
+($12m – $8m)
+4
+Fair value depreciation
+4 × 1/20
+(0.2)
+
+–––––
+
+243.8
+
+–––––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 8 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+8
+KAPLAN PUBLISHING
+20
+B
+Professional fees incurred should be written off as an expense in the statement of profit or
+loss.
+21
+C
+
+Plant
+carrying
+amount
+Revaluation
+surplus
+
+$000
+$000
+1 December 20X5 Cost
+
+150
+
+Depreciation to 1 June 20X8
+$150,000 × 2½/5
+(75)
+
+–––––
+
+Carrying amount 1 June 20X8
+
+75
+
+Revaluation gain
+(balancing figure)
+30
+30
+
+–––––
+
+Fair value 1 June 20X8
+
+105
+
+Depreciation to 30 November 20X8
+$105,000 × 6 months/
+3½ years
+
+(15)
+
+–––––
+–––––
+Carrying amount 30 November 20X8
+
+90
+30
+
+–––––
+–––––
+22
+A
+
+Year ended
+Cash
+flow
+$000
+Discount
+factor
+at 8%
+Present
+value
+$
+30 November 20X9
+44,000
+0.93
+40,920
+30 November 20Y0
+36,000
+0.86
+30,960
+30 November 20Y1
+40,000
+0.79
+31,600
+
+–––––––
+
+103,480
+
+–––––––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 9 OF 20
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+ 9
+23
+B
+
+Carrying
+amount
+before
+impairment
+
+Impairment
+
+Carrying
+amount
+after
+impairment
+
+$000
+
+$000
+
+$000
+Goodwill
+200
+
+200
+
+–
+Factory building
+400
+
+80
+
+320
+Plant
+350
+
+70
+
+280
+Receivables and cash
+250
+
+–
+
+250
+
+–––––
+
+––––
+
+––––
+
+1,200
+
+350
+
+850
+
+–––––
+
+––––
+
+––––
+Impairment is first allocated against goodwill, then pro-rata against the remaining assets,
+excluding cash and receivables which are outside the scope of IAS 36. The goodwill
+impairment accounts for $200,000 of the total impairment of $350,000, leaving $150,000 to
+be apportioned between the factory building and plant, based on their carrying amounts
+before the impairment.
+The impairment charged against the plant is calculated:
+$150,000 × 350/(350 + 400) = $70,000
+24
+D
+Statement 1 is the definition of a cash generating unit Cash generating units are considered
+when the recoverable amount of an individual asset cannot be determined The assets
+comprising a cash generating unit must be considered consistently when comparing carrying
+amount and recoverable amount, so Statement 2 is untrue.
+25
+B
+An asset is impaired when its carrying amount is overstated The recoverable amount
+represents the cash flow from the most advantageous use of the asset, hence the higher of
+fair value less costs of disposal and value in use.
+26
+B
+A contract to exchange financial instruments with another entity under conditions which
+are potentially unfavourable is an example of a financial liability.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 10 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+10
+KAPLAN PUBLISHING
+27
+A
+The investment is speculative, so the election to measure at Fair Value through Other
+Comprehensive Income is not available, and the investment would be carried at Fair Value
+through Profit or Loss Transaction costs are therefore not included within the initial
+recognition value, but instead are taken to profit or loss as an expense of $350.
+Cost of shareholding is 10,000 × $3.50 = $35,000
+Fair value at 31 December 20X5 10,000 × $4.50 = $45,000
+Gain = $45,000 – $35,000 = $10,000
+Net impact in the statement of profit or loss = $10,000 gain less $350 expense = $9,650.
+28
+C
+The finance cost would be calculated using the effective rate of interest for six months.
+$40 million × 7 × 6/12 = $1.4 million
+29
+B
+The standard selling price for the machine is $20.5 million and for the maintenance
+$1.5 million per annum, a total standard sales value of $25 million The agreed selling price
+for the package is $20 million, a discount of 20% against the standard price This discount is
+apportioned between the performance obligations (delivery and maintenance) on the basis
+of standard price.
+
+$000
+
+Machine: $20.5m less 20%
+16,400
+
+Maintenance: $1.5m × 3 years less 20%
+3,600
+($1.2m per annum)
+
+––––––
+
+Agreed selling price
+20,000
+
+––––––
+
+Revenue is recognised on the basis of satisfaction of performance obligations. By
+31 December 20X5 Stankovic has delivered the machine and provided one year of
+maintenance The total revenue to be recognised in the year is $16.4m goods + $1.2m
+maintenance = $17.6m.
+30
+C
+The five stages of revenue recognition under IFRS 15 are to:
+(i)
+Identify the contract
+(ii)
+Identify the performance obligations under the contract
+(iii)
+Identify the contract price
+(iv)
+Allocate the price to the performance obligations
+(v)
+Recognise revenue as the performance obligations are satisfied
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 11 OF 20
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+ 11
+SECTION C
+31
+HEYWOOD
+(a)
+Ratios for Heywood for the year ended 31 December 20X7
+Return on capital employed
+3.0%
+((30 – 28) / (23 + 32 + 12)) × 100
+Gross profit margin
+10%
+(30/300) × 100
+Operating profit margin
+0.7%
+((30 – 28)/300) × 100
+Asset turnover
+4.5 times
+(300/(23 + 32 + 12))
+Current ratio
+0.9 : 1
+(118/126)
+Gearing (debt to debt + equity)
+65.7%
+(32 + 12)/(23 + 32 + 12))
+(b)
+Report
+To
+The Directors, Heywood
+Subject Company performance for the year to 31 December 20X7
+
+Introduction
+
+This report is in response to your request to assess the financial performance of
+Heywood for the year to 31 December 20X7, in the light of the strategic action
+implemented following the board meeting in January 20X7 The strategy was designed
+to increase sales and market share, and, to the extent that sales have increased from
+$120m to $300m, this has been successful However, profitability has suffered and this
+report attempts to identify the main reasons for this.
+
+Profitability
+
+The primary profitability ratio is the return on capital employed (ROCE) Unfortunately
+this has declined in the period from 32% to a poor 3% The actions taken by the Board
+to reduce prices to beat the competition, including the ‘price promise’ and winning the
+competitive tender, would be expected to have squeezed margins and thus stimulate
+greater sales and more efficient use of assets
+
+The ROCE comprises two elements, profitability (operating margin) and efficiency
+(asset turnover) The board’s plan was to sacrifice profitability in order to stimulate
+efficiency, the intention being to increase efficiency to such a degree that overall ROCE
+would be improved.
+
+The anticipated effects occurred, but unfortunately the increase in sales of 150%
+($120m to $300m) and the related net asset turnover increase from 1.9 to 4.5 times,
+was insufficient to compensate for an operating margin that declined to only 0.7% The
+board appear to have been overenthusiastic in their price-cutting strategy, a strategy
+that is not sustainable in the long term Although they may seek alternative remedies,
+such as cost-cutting or negotiating bulk discount with suppliers, the board need to re-
+visit their pricing strategy, and consider re-negotiating some contracts.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 12 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+12
+KAPLAN PUBLISHING
+
+The deferral of the marketing costs is controversial and difficult to justify The directors
+have attempted to justify the deferral by referring to the ‘expected long-term
+benefits’, but, even though there may be some future benefit, this would be extremely
+difficult to measure, and would therefore not appear to be adequate justification for
+the deferral It would have perhaps been possible to defer recognition of the
+expenditure if this was simply a prepayment of expenditure, with the journals
+containing the marketing campaign not published until after 31 December 20X7, but
+this does not seem to be the case The impact of the deferral has been to reduce costs
+and thus reduce the loss in the current year by $6 million Had the marketing costs been
+written off as incurred, a more prudent approach, the loss for the year before tax
+would have risen to $14 million.
+
+Liquidity and working capital
+
+The liquidity position of the company also gives cause for concern with the current
+ratio deteriorating from an acceptable figure of 1.8 in 20X6 to a much less secure 0.9
+in 20X7 A current ratio below 1 indicates that the entity has insufficient assets to pay
+its liabilities as they fall due Although these ratios will have been calculated based on
+year-end figures, and may be distorted by movements around the year-end, such a
+sharp drop is worrying.
+
+The cause of this deterioration seems to lie principally in the new credit policy Revenue
+rose by 150%, whereas receivables have increased by 276% ($25m to $94m) An
+increase in the level of receivables days is to be expected, given the new policy, but
+this huge increase seems to indicate extremely poor credit management, extremely
+powerful customers, or some combination of the two The decision to offer increased
+periods of credit to this degree is very questionable.
+
+The increased receivables appear to have been funded by delaying payments to
+suppliers and a decline in the bank balance from $8 million in hand to a $34 million
+overdraft.
+
+Payables have increased dramatically from $15 million in 20X6 to $80 million in 20X7
+This increased  ‘free ‘ credit is being taken to cushion the impact of the considerable
+rise in receivables Heywood must ensure that it is adhering to credit terms agreed to
+avoid damaging its relationship with suppliers
+
+Inventory-holding efficiency has improved, with the value of inventory only rising by
+50% ($12m to $18m), compared to a 200% increase ($90m to $270m) in cost of sales
+On the surface this is indicative of efficient low inventory levels but it may be that
+suppliers are becoming unwilling to supply goods on credit due to the time Heywood
+is taking to pay them Heywood is then being forced to buy goods for cash, and
+therefore only buying inventory when it needs it immediately
+
+Solvency
+
+Gearing also gives cause for concern, with a substantial increase from 39.7% in 20X6
+to 65.7% in 20X7, indicating significant increase in levels of risk The gearing level would
+be even higher if the overdraft was considered as part of long-term borrowing, a
+realistic suggestion as there seems little prospect of it being paid off in the near future
+If the deferred expenditure had been written off during the year this would also have
+increased gearing due to lower equity.
+
+Increased production has led to a requirement for greater investment in non-current
+assets From the information provided, the overdraft has exceeded its agreed limit and
+therefore it may be assumed that this is the main reason for some of the assets having
+been acquired under leases.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 13 OF 20
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+ 13
+
+The more worrying aspect of this is that due to poor profitability, interest payments
+which were covered by a factor of 10 (20/2) in 20X6, are not covered in 20X7 This
+position is not sustainable for very long, especially when one considers that it is cash
+that pays interest rather than profit, and Heywood has no cash.
+
+From analysis of the retained earnings balance we can calculate that Heywood paid a
+dividend of $14 million during the year Although there may have been good reason for
+this, it seems at best imprudent given the cash situation A smaller dividend would have
+gone some way to easing the current cash situation.
+
+Conclusion
+
+There is little point in increasing turnover and market share if this cannot be done
+profitably It is advisable to reverse the marketing strategy as soon as possible, but the
+company will find it much more difficult to increase prices and keep customers than it
+was to attract customers with loss-making prices Other methods of developing sales
+and customer loyalty should be implemented.
+
+The present trading position cannot continue A change of strategy is needed, possibly
+a rights issue could be considered, coupled with an injection of long term debt finance
+Although shareholders may be tempted by a rights issue, given the recent dividend, it
+seems unlikely that many debt investors will be keen to lend to a company with such
+a poor interest cover Without some sort of capital injection, the company is likely to
+fail in the very near future, and the current performance and position is unlikely to
+tempt many investors The actions implemented by the Board in 20X7 have turned out
+to be disastrous.
+
+Marking scheme
+
+Marks
+(a)
+1 mark per ratio
+6
+
+––––
+(b)
+1 mark per relevant comment
+
+Profitability, max
+5
+
+Liquidity, max
+5
+
+Solvency, max
+4
+
+––––
+
+14
+
+––––
+Total
+
+20
+
+––––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 14 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+14
+KAPLAN PUBLISHING
+32
+CHESTNUT
+(a)
+Adjusted profit for the year ended 31 March 20X5
+
+$000
+Draft profit per trial balance
+
+40,125
+Depreciation
+- Property (W1)
+(3,000)
+
+- Plant & equipment (W1)
+(9,500)
+Finance costs
+- Convertible loan (W2)
+(698)
+
+- Preference shares (W3)
+(5,200)
+Income tax expense (W4)
+
+(3,075)
+
+–––––––
+Profit for the year
+
+18,652
+
+–––––––
+(b)
+Statement of financial position as at 31 March 20X5
+
+$000
+$000
+Non-current assets
+
+Property  (W1)
+
+62,000
+Current assets
+
+Inventory
+35,250
+
+Trade receivables
+41,375
+
+Bank
+34,350
+
+–––––––
+
+110,975
+
+Asset held for sale  (W1)
+28,500
+
+–––––––
+
+139,475
+
+–––––––
+
+201,475
+
+–––––––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 15 OF 20
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+ 15
+Equity
+$000
+$000
+Ordinary share capital
+
+42,000
+Share premium
+
+8,000
+Convertible option  (W2)
+
+1,272
+Revaluation surplus (9,000 + 5,000 (W1))
+
+14,000
+Retained earnings (12,125 + 18,652 – 12,500)
+                                           b/f         profit     dividend
+
+18,277
+
+–––––––
+
+83,549
+Non-current liabilities
+
+6% preference shares (W3)
+54,200
+
+Convertible loan (W2)
+9,026
+
+Deferred tax (W5)
+7,000
+
+–––––––
+
+70,226
+Current liabilities
+
+Taxation (W4)
+5,700
+
+Trade payables
+42,000
+
+–––––––
+
+47,700
+
+–––––––
+
+201,475
+
+–––––––
+(c)
+Earnings per share
+Profit for the year/weighted average number of
+shares
+18,652/39,333 (W6) = 47.4¢
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 16 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+16
+KAPLAN PUBLISHING
+Workings
+(W1) Non-current assets
+
+Tutorial note
+The property is to be revalued at the year-end, so depreciate first and then revalue.
+
+Property
+Plant and
+equipment
+
+$000
+$000
+Cost/valuation 1 April 20X4
+60,000
+60,000
+Accumulated depreciation 1 April 20X4
+
+(22,000)
+
+–––––––
+
+38,000
+Depreciation: $60,000 × 1/20
+(3,000)
+
+$38,000 × 25%
+
+(9,500)
+
+–––––––
+–––––––
+
+57,000
+28,500
+
+–––––––
+Revaluation gain: other comprehensive income
+5,000
+
+–––––––
+
+Valuation 31 March 20X5
+62,000
+
+–––––––
+
+As plant is held for sale, transfer to current assets and measure at the lower of carrying
+amount ($28,500) and fair value less costs to sell ($32,000) Therefore carry in current
+assets at $28,500.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 17 OF 20
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+ 17
+(W2)  Convertible loan note
+
+Tutorial note
+The convertible loan note needs to be split into its liability and equity components.
+The liability component is calculated by taking the present value of the payments to be
+made, discounted at the market rate of a similar loan note without conversion options.
+The payments will therefore be discounted at 8%.
+
+Year ended 31 March
+Cash flows
+Factor at
+8%
+Present
+value
+
+$000
+
+$000
+20X5 interest (10,000 × 4%)
+400
+0.93
+372
+20X6 interest
+400
+0.86
+344
+20X7 interest
+400
+0.79
+316
+20X8 interest + capital redemption
+400 + 10,000
+0.74
+7,696
+
+–––––––
+Total value of liability component
+
+8,728
+Equity component (balancing figure)
+
+1,272
+
+–––––––
+Proceeds of issue
+
+10,000
+
+–––––––
+
+The initial double entry is:
+
+$000
+
+Dr Cash
+10,000
+
+Cr Liability
+8,728
+
+Cr Equity
+1,272
+
+The liability element is then carried at amortised cost as shown below.
+Year
+b/f
+Interest 8%
+Interest paid 4%
+c/f
+
+$000
+$000
+$000
+$000
+20X5
+8,728
+698
+(400)
+9,026
+
+(finance costs –
+adjust profit)
+
+(non-current
+liability in SFP)
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 18 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+18
+KAPLAN PUBLISHING
+(W3) Preference shares
+Year
+b/f
+Interest @ 10%
+Payment
+c/f
+
+$000
+$000
+$000
+$000
+ 31 March 20X4
+52,000
+5,200
+(3,000)
+54,200
+
+To finance costs
+Per trial balance
+To NCL
+(W4) Income tax expense
+
+$000
+Year-end estimate, per note (iv)
+5,700
+Under provision, per trial balance
+875
+Decrease in deferred tax (W5)
+(3,500)
+
+–––––––
+
+3,075
+
+–––––––
+(W5) Deferred tax
+
+$000
+Deferred tax c/fwd (Non-current liability on SFP)
+7,000
+Deferred tax b/fwd
+(10,500)
+
+–––––––
+Decrease in deferred tax
+(3,500)
+
+–––––––
+(W6) Weighted average number of shares
+
+No of
+shares
+Proportion
+Weighted
+average
+Brought forward
+34,000
+× 4/12
+11,333
+Issue
+8,000
+
+–––––––
+
+Trial balance
+42,000
+× 8/12
+28,000
+
+–––––––
+
+–––––––
+
+39,333
+
+–––––––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 19 OF 20
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+ 19
+Marking scheme
+
+Marks
+(a)
+Profit adjustments
+
+Draft profit
+½
+
+Property depreciation
+½
+
+Plant and equipment depreciation
+½
+
+Convertible loan finance cost
+1
+
+Preference shares finance cost
+1
+
+Income tax (½ under provision, ½ current year, ½ deferred tax)
+1½
+
+–––
+
+5
+
+–––
+(b)
+Statement of financial position
+
+Property
+1
+
+Inventory
+½
+
+Receivables
+½
+
+Bank
+½
+
+Asset held for sale (0 if in PPE, 0 if $32,000)
+1
+
+Share capital
+½
+
+Share premium
+½
+
+Conversion option
+½
+
+Revaluation surplus
+1
+
+Retained earnings
+1
+
+Convertible loan (1 for initial liability, ½ for adjustment)
+1½
+
+Redeemable preference shares
+1½
+
+Deferred tax
+1
+
+Trade payables
+½
+
+Taxation
+½
+
+–––
+
+12
+
+–––
+(c)
+Earnings per share
+
+Calculation (own figure rule)
+1
+
+Number of shares
+1
+
+Weighting (months)
+1
+
+–––
+
+3
+
+–––
+Total
+
+20
+
+–––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 20 OF 20
+==============================================================================
+FR: FINANCIAL REPORTING
+20
+KAPLAN PUBLISHING
+
+
+##############################################################################
+FR Mock D - Questions J21.pdf
+##############################################################################
+FR — FINANCIAL REPORTING
+SOURCE: FR Mock D - Questions J21.pdf
+PAGES: 14
+
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 1 OF 14
+==============================================================================
+ACCA MOCK D
+Kaplan Publishing/Kaplan Financial
+FR
+Financial Reporting
+June 2021
+Question paper
+Please note that the real exam is a computer based exam.
+Therefore, the questions in this paper reflect the question formats
+of a computer based exam.
+Time allowed
+3 hours and 15 minutes
+Section A: All FIFTEEN questions are compulsory and MUST be
+attempted.
+Section B: All FIFTEEN questions are compulsory and MUST be
+attempted.
+Section C: BOTH questions are compulsory and MUST be attempted.
+Do NOT open this paper until instructed by the supervisor.
+This question paper must not be removed from the examination
+hall.
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 2 OF 14
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+2
+KAPLAN PUBLISHING
+British Library Cataloguing-in-Publication Data
+A catalogue record for this book is available from the British Library.
+Published by:
+Kaplan Publishing UK
+Unit 2 The Business Centre
+Molly Millar’s Lane
+Wokingham
+Berkshire
+RG41 2QZ
+© Kaplan Financial Limited, 2021
+The text in this material and any others made available by any Kaplan Group company does not amount to
+advice on a particular matter and should not be taken as such. No reliance should be placed on the content
+as the basis for any investment or other decision or in connection with any advice given to third parties.
+Please consult your appropriate professional adviser as necessary. Kaplan Publishing Limited, all other Kaplan
+group companies, the International Accounting Standards Board, and the IFRS Foundation expressly disclaim
+all liability to any person in respect of any losses or other claims, whether direct, indirect, incidental,
+consequential or otherwise arising in relation to the use of such materials.
+Acknowledgements
+These materials are reviewed by the ACCA examining team. The objective of the review is to ensure that the
+material properly covers the syllabus and study guide outcomes, used by the examining team in setting the
+exams, in the appropriate breadth and depth. The review does not ensure that every eventuality,
+combination or application of examinable topics is addressed by the ACCA Approved Content. Nor does the
+review comprise a detailed technical check of the content as the Approved Content Provider has its own
+quality assurance processes in place in this respect.
+This Product includes propriety content of the International Accounting Standards Board which is overseen
+by the IFRS Foundation, and is used with the express permission of the IFRS Foundation under licence. All
+rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in
+any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior
+written permission of Kaplan Publishing and the IFRS Foundation.
+The IFRS Foundation logo, the IASB logo, the IFRS for SMEs logo, the “Hexagon Device”, “IFRS Foundation”,
+“eIFRS”, “IAS”, “IASB”, “IFRS for SMEs”, “IFRS”, “IASs”, “IFRSs”, “International Accounting Standards” and
+“International Financial Reporting Standards”, “IFRIC” and “IFRS Taxonomy” are Trade Marks of the IFRS
+Foundation.
+Trade Marks
+The IFRS Foundation logo, the IASB logo, the IFRS for SMEs logo, the “Hexagon Device”, “IFRS Foundation”,
+“eIFRS”, “IAS”, “IASB”, “IFRS for SMEs”, “NIIF” IASs” “IFRS”, “IFRSs”, “International Accounting Standards”,
+“International Financial Reporting Standards”, “IFRIC”, “SIC” and “IFRS Taxonomy”.
+Further details of the Trade Marks including details of countries where the Trade Marks are registered or
+applied for are available from the Foundation on request.
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 3 OF 14
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+3
+SECTION A
+All FIFTEEN questions are compulsory and MUST be attempted
+1
+The carrying amount of Roger’s property, plant and equipment at 31 December 20X5 was
+$2,890,000.  At 31 December 20X6, this had risen to $3,070,000.
+During the year ended 31 December 20X6, Roger revalued one property upwards by
+$500,000, and sold another property for $948,000, recognising a profit on disposal of
+$200,000.  Depreciation charged during the year amounted to $380,000.
+What amount did Roger spend on the purchase of property, plant and equipment in the
+year ended 31 December 20X6?
+A
+$1,008,000
+B
+$808,000
+C
+$1,308,000
+D
+$1,208,000
+2
+Extracts from Yoyo’s financial statements for the years ended 31 December 20X3 and 20X2
+show the following:
+
+20X3
+20X2
+
+$000
+$000
+Statement of financial position
+
+Non-current liabilities: Deferred tax
+1,900
+1,750
+Current liabilities: Taxation
+2,800
+2,900
+
+Statement of profit or loss
+
+Taxation
+2,500
+3,000
+What amount of tax was paid by Yoyo in the year ended 31 December 20X3?
+$ _____________,000
+3
+Which of the following foreign currency items should be retranslated at the year-end
+according to IAS 21 The Effects of Changes in Foreign Exchange Rates?
+Item
+Retranslated
+Not retranslated
+Inventory
+
+Cash
+
+Loan
+
+Plant and machinery, measured under the
+cost model
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 4 OF 14
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+4
+KAPLAN PUBLISHING
+4
+When determining the transaction price under IFRS 15 Revenue from Contracts with
+Customers which of the following should NOT be considered?
+A
+The existence of a significant financing component within the contract
+B
+Non-cash consideration
+C
+Consideration payable to a customer for a distinct good or service from that customer
+D
+Variable consideration
+5
+Which of the following transactions has been correctly treated in the financial statements
+of Groan for the year ended 30 June 20X6?
+A
+$6 million was received in respect of the sale of Groan’s head office to a bank on 1 July
+20X5. The sale agreement states that Groan will continue to occupy the building, and
+can buy it back for $7.146 million on 1 July 20X9, equivalent to an annual 6% finance
+charge.  Groan has derecognised the head office, and included the profit on disposal
+in its statement of profit or loss.
+B
+Groan has included within revenue $3 million in respect of the sale of computers.  This
+amount comprises $1.8 million for the computers, and $1.2 million for an associated
+three-year service package.
+C
+Groan has included within revenue $750,000 of agency sales made through an online
+platform, on which Groan will earn 10% sales commission.
+D
+Groan factored receivable balances totalling $600,000 to a debt factor on 1 January
+20X6 in a ‘without recourse’ agreement.  Groan has derecognised the full amount of
+the $600,000 receivables balance.
+6
+Amit reported a basic earnings per share figure for the year ended 31 December 20X5 of
+45 cents.  During the year ended 31 December 20X6, Amit made a 1 for 4 rights issue at a
+price of $1.80, when the market price of the shares was $2.00.
+What is the restated comparative basic earnings per share figure for Amit as reported
+within the financial statements for the year ended 31 December 20X6? (to one decimal
+place)
+________________ cents
+7
+Which of the following is NOT an adjusting event per IAS 10 Events after the Reporting
+Period in the financial statements for the year ended 31 March 20X7 which were approved
+on 11 June 20X7?
+A
+The discovery of a material error in the financial statements on 24 May 20X7
+B
+An abnormally large movement in foreign exchange rates during May 20X7
+C
+The insolvency of a major customer on 17 April 20X7
+D
+An amount received on 3 June 20X7 in relation to an insurance claim that was being
+negotiated at the reporting date
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 5 OF 14
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+5
+8
+Walsh has prepared the following information from its financial statements at 31 May 20X8.
+Revenue
+$438,000
+Working capital cycle
+57 days
+Inventory holding days
+62 days
+Payables payment days
+53 days
+What was the value of Walsh’s receivables balance at 31 May 20X8?
+A
+$63,600
+B
+$79,200
+C
+$69,600
+D
+$57,600
+9
+Complete the sentence:
+An asset is impaired if its carrying amount is greater than its  _________________.
+Choose from: Fair value less cost to sell, Replacement cost, Recoverable amount, Value in
+use
+10
+Which of the following is not a criterion for classification of an asset as held for sale under
+IFRS 5 Assets Held for Sale and Discontinued Operations?
+A
+Asset is available for immediate sale
+B
+Asset is no longer in use by the entity
+C
+Asset is expected to be sold within 12 months
+D
+Management have a committed plan to sell the asset
+11
+According to the IASB Conceptual Framework which concept ensures that excessive
+dividends are not paid in times of rising prices?
+A
+Going concern
+B
+Financial capital maintenance
+C
+Physical capital maintenance
+D
+Reserves retention
+12
+At 1 April 20X6 Palmer owned a herd of cattle with a carrying amount of $48,000.  At
+31 March 20X7 the fair value of the herd had risen to $54,000.  Palmer pays commission of
+3% on any cattle sales.
+What gain will be taken to Palmer’s statement of profit or loss for the year ended 31 March
+20X7?
+$______________
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 6 OF 14
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+6
+KAPLAN PUBLISHING
+13
+On 31 July 20X3 Pride sold its entire 80% shareholding in Stride for $260,000, at which date
+the net assets of Stride were $200,000.  Pride had acquired the shares some years previously
+when Stride’s net assets were $140,000, recognising goodwill of $20,000 at acquisition.  Pride
+measures the non-controlling interest using the fair value method, and at acquisition the
+non-controlling interest in Stride was $24,000.  Goodwill had not been impaired by the date
+of disposal.
+What gain will be recognised in Pride’s consolidated statement of profit or loss in respect
+of the disposal of its shareholding in Stride?
+A
+$76,000
+B
+$4,000
+C
+$64,000
+D
+$40,000
+14
+Which of the following would be treated as a change in accounting policy under IAS 8
+Accounting Policies, Changes in Accounting Estimates and Errors?
+A
+A change in the residual value of a two-year old machine
+B
+A change from the straight-line to reducing balance method of depreciation
+C
+A change in the presentation of plant depreciation from operating expenses to cost of
+sales
+D
+A change in the total useful life of a two-year old machine from four years to six years
+15
+Which of the following statements about intangible assets is true according to IAS 38
+Intangible Assets?
+A
+All intangible assets are subject to annual impairment review
+B
+Intangible assets can never be measured using the revaluation model
+C
+Internally generated brands can only be recognised as assets if intended to be used for
+the foreseeable future
+D
+Research costs should always be written off as an expense to profit or loss
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 7 OF 14
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+7
+SECTION B
+All FIFTEEN questions are compulsory and MUST be attempted
+The following scenario relates to questions 16–20
+On 1 January 20X4 Bee purchased 75% of Wasp’s 1 million $1 shares for $3.2 million cash, plus
+$1 million payable in three years’ time.  The share price of Wasp as at 1 January 20X4 was $1.75,
+and Wasp had retained earnings at this date of $2.9 million, and no other components of equity.
+All of Wasp’s net assets at this date were equal to their carrying amounts, with the exception of a
+property with a carrying amount of $1.1 million, and a fair value of $1.6 million.
+Bee measures the non-controlling interest at acquisition at fair value, and for this purpose the share
+price of Wasp at acquisition represents fair value.
+During the year ended 31 December 20X4, Wasp sold goods to Bee totalling $750,000, all at a
+margin of 20%.  Half of these goods remain in the year-end inventories of Bee.
+Bee has a cost of capital of 9%, giving the following discount factors:
+Year 1
+0.92
+Year 2
+0.84
+Year 3
+0.77
+
+16
+What is the fair value of the non-controlling interest as at 1 January 20X4?
+$________________
+17
+What is the fair value of consideration payable by Bee?
+A
+$4,200,000
+B
+$3,970,000
+C
+$4,040,000
+D
+$3,200,000
+18
+What is the impact of the adjustment for unrealised profit on the consolidated statement
+of financial position balances at 31 December 20X4?  Choose THREE from the options
+below.
+A
+Debit
+Inventory
+$75,000
+B
+Debit
+Group retained earnings
+$75,000
+C
+Debit
+Group retained earnings
+$56,250
+D
+Debit
+Non-controlling interest
+$18,750
+E
+Credit
+Inventory
+$75,000
+F
+Credit
+Group retained earnings
+$75,000
+G
+Credit
+Group retained earnings
+$56,250
+H
+Credit
+Non-controlling interest
+$18,750
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 8 OF 14
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+8
+KAPLAN PUBLISHING
+19
+What is the fair value of Wasp’s net assets at 1 January 20X4?
+$_____________,000
+20
+According to IFRS 10 Consolidated Financial Statements which of the following is not
+necessary in order to conclude that an investee is controlled by an investor?
+A
+Power over the investee
+B
+Ownership of the majority of voting rights in the investee
+C
+Exposure, or rights, to variable returns from its involvement with the investee
+D
+The ability to use its power over the investee to affect the amount of the investor’s
+returns
+The following scenario relates to questions 21–25
+Bob Ltd has entered into the following transactions during the year ended 31 December 20X6:
+On 1 January 20X6 Bob Ltd issued a $4 million 3% convertible loan at par, with interest payable
+annually in arrears. The rate for a similar loan with no conversion option is 6%. The loan is repayable
+in full after four years on 31 December 20X9, or may be converted to equity on the basis of 70
+shares per $100 of loan.
+On 15 December 20X6 Bob Ltd purchased 100,000 shares in Cob Ltd (representing a 2%
+shareholding), for $4.50 per share, incurring transaction fees of $15,000. These shares are held for
+trading purposes.  As at 31 December 20X6, the shares are trading at $5 each.
+On 1 October 20X6 Bob Ltd purchased 90,000 shares in Fred Ltd (representing a 6% shareholding),
+for $7 per share, incurring transaction costs of $20,000.
+The present value of $1 payable at the end of the year, based on rates of 3% and 6% is as follows:
+End of year
+3%
+6%
+1
+0.97
+0.94
+2
+0.94
+0.89
+3
+0.92
+0.84
+4
+0.89
+0.79
+
+21
+Which of the following is NOT a financial asset?
+A
+Cash
+B
+Trade receivable
+C
+Equity investment
+D
+Prepayment for insurance
+22
+What is the equity element of the convertible loan at the date of issue?
+$___________________
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 9 OF 14
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+9
+23
+How should the liability element of the convertible loan be measured?
+A
+Fair value through other comprehensive income
+B
+Amortised cost
+C
+Fair value plus costs to transfer
+D
+Fair value through profit or loss
+24
+What is the gain/(loss) to be recognised in relation to the shares in Cob Ltd as at
+31 December 20X6, and where would this be presented in the financial statements?
+A
+$50,000 gain in the statement of profit or loss
+B
+$50,000 gain in other comprehensive income
+C
+$35,000 gain in the statement of profit or loss
+D
+$35,000 gain in other comprehensive income
+25
+Assuming that Bob Ltd made an irrevocable election on acquisition with regard to the
+measurement of the investment in Fred Ltd, what is the initial measurement of this
+investment as at 1 October 20X6?
+$___________________
+The following scenario relates to questions 26–30
+Tree has entered into the following lease agreements during the year ended 31 December 20X1.
+On 1 January 20X1 Tree acquired plant under a four-year lease agreement. The present value of the
+future lease payments as at 1 January 20X1 was $2,300,000.  Rentals of $725,000 are payable
+annually in arrears. The interest rate implicit in the lease is 10%.
+On 1 July 20X1 Tree entered into a lease for a set of thirty tablet computers. The lease agreement
+specifies that $7,500 is payable annually in arrears for the next two years, commencing 30 June
+20X2.  Tree has elected to apply the recognition exemption permitted under IFRS16 Leases.
+On 1 September 20X1 Tree sold its head office to Oak for $5 million.  At this date, the head office
+had a carrying amount of $3.5 million.  The sale represents the satisfaction of a performance
+obligation in accordance with IFRS 15 Revenue from Contracts with Customers.  Tree enters into a
+contract with Oak for the right to use the office for the next three years.  The present value of the
+future lease payments under this agreement as at 1 September 20X1 is $4.5 million.
+26
+According to IFRS 16 Leases which of the following would NOT be included in the initial cost
+of a right-to-use asset?
+A
+Lease payments made at or before the lease commencement date
+B
+Any initial direct costs incurred by the lessee
+C
+The purchase price of the asset
+D
+Initial measurement of the lease liability
+27
+What would be the non-current lease liability as at 31 December 20X1 in respect of the
+leased plant?
+$_________________
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 10 OF 14
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+10
+KAPLAN PUBLISHING
+28
+Assuming that Tree applied the exemption available in IFRS 16 Leases, what expense would
+be recognised in the statement of profit or loss of Tree in respect of the tablet computers
+for the year ended 31 December 20X1?
+A
+$3,750
+B
+$7,500
+C
+$11,250
+D
+$15,000
+29
+At what value is the right-of-use asset in respect of the head office recognised as at
+1 September 20X1?
+$_____________
+30
+If the sale of the head office did not represent the satisfaction of a performance obligation
+in accordance with IFRS 15 Revenue from Contracts with Customers which TWO of the
+following statements would be true at 1 September 20X1?
+A
+The head office should be derecognised
+B
+Tree should recognise a right-of-use asset equivalent to the present value of the lease
+payments
+C
+The sale proceeds should be treated as a financial liability
+D
+Tree should continue to recognise the head office at its existing carrying amount
+E
+Tree should increase the value of the head office to reflect the sales price of $5 million
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 11 OF 14
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+11
+SECTION C
+BOTH questions are compulsory and MUST be attempted
+31
+The following trial balance relates to Cavern as at 30 September 20X7:
+
+$000
+$000
+Equity shares of $1 each
+
+45,000
+Other components of equity (share premium)
+
+6,000
+8% loan note (note (i))
+
+30,600
+Retained earnings – 30 September 20X6
+
+6,600
+Revaluation surplus
+
+7,000
+Land and buildings at valuation – 30 September 20X6:
+
+Land ($7 million) and building ($36 million) (note (ii))
+43,000
+
+Plant and equipment at cost (note (ii))
+67,400
+
+Accumulated depreciation plant and equipment – 30 September 20X6
+13,400
+Equity investments (note (iii))
+15,800
+
+Current assets
+48,800
+
+Bank
+
+4,600
+Deferred tax (note (iv))
+
+4,000
+Current tax (note (iv))
+900
+
+Trade payables
+
+21,700
+Draft profit for the year
+
+37,000
+
+–––––––
+–––––––
+
+175,900
+175,900
+
+–––––––
+–––––––
+The following notes are relevant:
+(i)
+The 8% loan note was issued on 1 October 20X5 at its nominal value of $30 million.
+The loan note will be redeemed on 30 September 20X9 at a premium which gives the
+loan note an effective finance cost of 10% per annum.
+(ii)
+Cavern revalues its land and building at the end of each accounting year. At
+30 September 20X7 the relevant value to be incorporated into the financial statements
+is $41.8 million. The building’s remaining life at the beginning of the current year
+(1 October 20X6) was 18 years. Cavern does not make an annual transfer from the
+revaluation surplus to retained earnings in respect of the realisation of the revaluation
+surplus.  Ignore deferred tax on the revaluation surplus.
+
+Plant and equipment includes an item of plant bought for $10 million on 1 October
+20X6 that will have a 10-year life (using straight-line depreciation with no residual
+value). Production using this plant involves toxic chemicals which will cause
+decontamination costs to be incurred at the end of its life. The present value of these
+costs using a discount rate of 10% at 1 October 20X6 was $4 million. Cavern has not
+provided any amount for this future decontamination cost. All other plant and
+equipment is depreciated at 12.5% per annum using the reducing balance method.
+No depreciation has yet been charged on any non-current asset for the year ended
+30 September 20X7.  All depreciation is charged to cost of sales.
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 12 OF 14
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+12
+KAPLAN PUBLISHING
+(iii)
+The equity investments had a fair value of $13.5 million on 30 September 20X7. There
+were no acquisitions or disposals of these investments during the year ended
+30 September 20X7.  The equity investments are measured at fair value through profit
+or loss in accordance with IFRS 9 Financial Instruments.
+(iv)
+A provision for income tax for the year ended 30 September 20X7 of $5.6 million is
+required. The balance on current tax represents the under/over provision for the year
+ended 30 September 20X6. At 30 September 20X7 the tax base of Cavern’s net assets
+was $15 million less than their carrying amounts.  Changes in deferred tax should be
+taken to the statement of profit or loss.  Cavern’s tax rate is 25%.
+Required:
+(a)
+Prepare a statement of adjusted profit for Cavern for the year ended 30 September
+20X7.
+(6 marks)
+(b)
+Prepare the statement of financial position of Cavern as at 30 September 20X7.
+
+(11 marks)
+(c)
+Calculate the basic earnings per share for Cavern for the year ended 30 September
+20X7.
+(3 marks)
+
+(Total: 20 marks)
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 13 OF 14
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+13
+32
+Greenwood is a publicly listed entity. During the year ended 31 March 20X7 the directors
+decided to cease operations of one of its activities and put the assets of the operation up for
+sale (the discontinued activity has no associated liabilities). The cessation qualifies as a
+discontinued operation and has been accounted for accordingly.
+Note: The statement of profit or loss figures down to the profit for the period from
+continuing operations are those of the continuing operations only.
+Statement of profit or loss for the years ended 31 March
+
+20X7
+20X6
+Continuing operations:
+$000
+$000
+Revenue
+27,500
+21,200
+Cost of sales
+(19,500)
+(15,000)
+
+–––––––
+–––––––
+Gross profit
+8,000
+6,200
+Operating expenses
+(2,900)
+(2,450)
+
+–––––––
+–––––––
+Profit from operations
+5,100
+3,750
+Finance costs
+(600)
+(250)
+
+–––––––
+–––––––
+Profit before taxation
+4,500
+3,500
+Income tax expense
+(1,000)
+(800)
+
+–––––––
+–––––––
+Profit for the period from continuing operations
+3,500
+2,700
+Profit/(loss) from discontinued operations
+(1,500)
+320
+
+–––––––
+–––––––
+Profit for the period
+2,000
+3,020
+
+–––––––
+–––––––
+Analysis of discontinued operations
+
+Revenue
+7,500
+9,000
+Cost of sales
+(8,500)
+(8,000)
+
+–––––––
+–––––––
+Gross profit/(loss)
+(1,000)
+1,000
+Operating expenses
+(400)
+(550)
+
+–––––––
+–––––––
+Profit/(loss) before tax
+(1,400)
+450
+Tax (expense)/relief
+300
+(130)
+
+–––––––
+–––––––
+
+(1,100)
+320
+
+Loss on measurement to fair value less costs to
+sell of disposal group
+(500)
+–
+Tax relief on disposal group
+100
+–
+
+–––––––
+–––––––
+Profit/(loss) from discontinued operations
+(1,500)
+320
+
+–––––––
+–––––––
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 14 OF 14
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+14
+KAPLAN PUBLISHING
+Statement of financial position as at 31 March
+
+20X7
+20X6
+
+$000
+$000
+$000
+$000
+Non-current assets
+
+17,500
+
+17,600
+Current assets
+
+Inventory
+1,500
+
+1,350
+
+Trade receivables
+2,000
+
+2,300
+
+Bank
+Nil
+
+50
+
+Assets held for sale (at fair value)
+6,000
+
+Nil
+
+–––––––
+9,500
+–––––––
+3,700
+
+–––––––
+
+–––––––
+Total assets
+
+27,000
+
+21,300
+
+–––––––
+
+–––––––
+Equity and liabilities
+
+Equity shares of $1 each
+
+10,000
+
+10,000
+Retained earnings
+
+4,500
+
+2,500
+
+–––––––
+
+–––––––
+
+14,500
+
+12,500
+Non-current liabilities
+
+5% loan notes
+
+8,000
+
+5,000
+Current liabilities
+
+Bank overdraft
+1,150
+
+Nil
+
+Trade payables
+2,400
+
+2,800
+
+Current tax payable
+950
+
+1,000
+
+–––––––
+4,500
+–––––––
+3,800
+
+–––––––
+
+–––––––
+Total equity and liabilities
+
+27,000
+
+21,300
+
+–––––––
+
+–––––––
+Note: The carrying amount of the assets of the discontinued operation at 31 March 20X6
+was $6.3 million.
+Required:
+(a)
+Calculate the following ratios for the continuing operations of Greenwood for the
+two years ended 31 March 20X7.
+Return on capital employed
+Gross profit
+Operating profit
+Asset turnover
+Current ratio
+Inventory days
+Gearing
+(7 marks)
+(b)
+Using these ratios and the information above, analyse the financial performance and
+position of Greenwood.
+(13 marks)
+Note:  Your analysis should refer to the effects of the discontinued operation.
+
+(Total: 20 marks)
+
+
+##############################################################################
+MARKING GUIDE: FR Mock D - Answers J21.pdf
+##############################################################################
+FR — ANSWER / MARKING GUIDE
+SOURCE: FR Mock D - Answers J21.pdf
+PAGES: 16
+
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 1 OF 16
+==============================================================================
+ACCA
+Financial Reporting
+June 2021
+Mock D – Answers
+To gain maximum benefit, do not refer to these answers
+until you have completed the mock questions and submitted
+them for marking.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 2 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+2
+KAPLAN PUBLISHING
+British Library Cataloguing-in-Publication Data
+A catalogue record for this book is available from the British Library.
+Published by:
+Kaplan Publishing UK
+Unit 2 The Business Centre
+Molly Millar’s Lane
+Wokingham
+Berkshire
+RG41 2QZ
+© Kaplan Financial Limited, 2021
+The text in this material and any others made available by any Kaplan Group company does not amount to
+advice on a particular matter and should not be taken as such. No reliance should be placed on the content
+as the basis for any investment or other decision or in connection with any advice given to third parties.
+Please consult your appropriate professional adviser as necessary. Kaplan Publishing Limited, all other Kaplan
+group companies, the International Accounting Standards Board, and the IFRS Foundation expressly disclaim
+all liability to any person in respect of any losses or other claims, whether direct, indirect, incidental,
+consequential or otherwise arising in relation to the use of such materials.
+Acknowledgements
+These materials are reviewed by the ACCA examining team. The objective of the review is to ensure that the
+material properly covers the syllabus and study guide outcomes, used by the examining team in setting the
+exams, in the appropriate breadth and depth. The review does not ensure that every eventuality,
+combination or application of examinable topics is addressed by the ACCA Approved Content. Nor does the
+review comprise a detailed technical check of the content as the Approved Content Provider has its own
+quality assurance processes in place in this respect.
+This Product includes propriety content of the International Accounting Standards Board which is overseen
+by the IFRS Foundation, and is used with the express permission of the IFRS Foundation under licence. All
+rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in
+any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior
+written permission of Kaplan Publishing and the IFRS Foundation.
+The IFRS Foundation logo, the IASB logo, the IFRS for SMEs logo, the “Hexagon Device”, “IFRS Foundation”,
+“eIFRS”, “IAS”, “IASB”, “IFRS for SMEs”, “IFRS”, “IASs”, “IFRSs”, “International Accounting Standards” and
+“International Financial Reporting Standards”, “IFRIC” and “IFRS Taxonomy” are Trade Marks of the IFRS
+Foundation.
+Trade Marks
+The IFRS Foundation logo, the IASB logo, the IFRS for SMEs logo, the “Hexagon Device”, “IFRS Foundation”,
+“eIFRS”, “IAS”, “IASB”, “IFRS for SMEs”, “NIIF” IASs” “IFRS”, “IFRSs”, “International Accounting Standards”,
+“International Financial Reporting Standards”, “IFRIC”, “SIC” and “IFRS Taxonomy”.
+Further details of the Trade Marks including details of countries where the Trade Marks are registered or
+applied for are available from the Foundation on request.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 3 OF 16
+==============================================================================
+MOCK D ANSWERS
+KAPLAN PUBLISHING
+3
+SECTION A
+1
+B
+Property, plant and equipment ($000)
+Balance b/d
+2,890 Disposal (948 – 200)
+748
+Revaluation
+500 Depreciation
+380
+
+Paid (balancing figure)
+808 Balance c/d
+3,070
+
+–––––
+–––––
+
+4,198
+4,198
+
+–––––
+–––––
+2
+$2,450,000
+Taxation & Deferred tax ($000)
+Paid (balancing figure)
+2,450 Taxation b/d
+2,900
+
+ Deferred tax b/d
+1,750
+Taxation c/d
+2,800 SPL expense
+2,500
+Deferred tax c/d
+1,900
+
+–––––
+–––––
+
+7,150
+7,150
+
+–––––
+–––––
+3
+Item
+Retranslated
+Not retranslated
+Inventory
+
+
+Cash
+
+
+Loan
+
+
+Plant and machinery, measured under the
+cost model
+
+
+Cash and loans are monetary items, and are therefore retranslated at year-end. Inventory
+and non-current assets are non-monetary items, and as such remain at historic amounts
+under the cost model.
+4
+C
+If consideration payable to a customer is a payment for a distinct good or service from the
+customer, an entity accounts for the purchase of the good or service in the same way that it
+accounts for other purchases from suppliers.
+5
+D
+A is a sale and repurchase with a financing element in the repurchase price, and the proceeds
+should therefore be recognised as a loan.
+For B, the servicing package should be split out and the revenue recognised over three years,
+with the revenue for the computers recognised at the point of sale.
+For C, Groan should only recognise the 10% commission as revenue, not the full amount.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 4 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+4
+KAPLAN PUBLISHING
+6
+44.1 cents
+TERP
+
+No of shares
+Price $
+Value $
+Holding
+4
+2.00
+8.00
+Rights issue
+1
+1.80
+1.80
+
+–––––
+
+–––––
+
+5
+
+9.80
+
+–––––
+
+–––––
+TERP = $9.80/5 = $1.96
+Previous year EPS restated by multiplying by inverse of bonus fraction:
+Restated EPS: 45 × 1.96/2.00 = 44.1¢
+7
+B
+The movement in exchange rates, although significant, does not alter the value of items at
+31 March 20X7.
+8
+D
+Receivables collection period = Working capital cycle + payable days – inventory holding days
+= 57 + 53 – 62 = 48 days
+Receivables = Revenue × 48/365 = $438,000 × 48/365 = $57,600
+9
+Recoverable amount
+Recoverable amount is the greater of fair value less cost to sell and value in use, replacement
+cost is not relevant.
+10
+B
+Even if classified as available for sale, an asset may still be in use.
+11
+C
+Physical capital maintenance recognises current costs, hence maintaining physical productive
+capacity by restricting dividend levels.
+12
+$4,380
+
+$
+Fair value of herd at 31 March 20X7
+54,000
+Less: commission @ 3%
+(1,620)
+
+––––––
+Herd value per SFP 31 March 20X7
+52,380
+Herd value at 1 April 20X6
+48,000
+
+––––––
+Gain to profit or loss
+4,380
+
+––––––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 5 OF 16
+==============================================================================
+MOCK D ANSWERS
+KAPLAN PUBLISHING
+5
+13
+A
+
+$
+$
+Sale proceeds
+
+260,000
+Net assets at disposal
+200,000
+
+Goodwill
+20,000
+
+Non-controlling interest (W1)
+(36,000)
+
+––––––
+184,000
+
+––––––
+Gain on disposal
+
+76,000
+
+––––––
+(W1) Non-controlling interest
+
+Value at acquisition
+24,000
+
+Post-acquisition:
+
+(200,000 – 140,000) × 20%
+12,000
+
+––––––
+
+36,000
+
+––––––
+
+14
+C
+The other choices all represent changes in accounting estimates.
+15
+D
+Only intangible assets with indefinite lives are subject to annual impairment review.  Where
+an active market exists, intangible assets may be measured using the revaluation model.
+Internally generated brands may never be recognised as assets.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 6 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+6
+KAPLAN PUBLISHING
+SECTION B
+16
+$437,500
+NCI shares × acquisition share price
+1 million × 25% × $1.75 = $437,500
+17
+B
+
+$000
+Cash consideration
+3,200
+Deferred cash (1,000 × 0.77)
+770
+
+–––––
+Total consideration
+3,970
+
+–––––
+18
+C, D, E
+The PUP is calculated as $750,000 × 20% × ½ = $75,000.
+Inventory is reduced by the full amount of the PUP.  As the subsidiary is the seller the
+adjustment to profit is split between the parent and NCI.  In the CSFP 75% of the adjustment
+is debited to retained earnings and 25% to the NCI.
+19
+$4,400,000
+
+$000
+Share capital
+1,000
+Retained earnings
+2,900
+Fair value adjustment ($1.6m – $1.1m)
+500
+
+–––––
+Net assets at 1 January 20X4
+4,400
+
+–––––
+20
+B
+It is not necessary to hold the majority of voting rights in order to be able to exercise control
+over the investee.
+21
+D
+A, B and C are all examples of financial assets. D is not a financial asset as it is not a contractual
+right to receive cash or a financial asset from another party (services are received instead).
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 7 OF 16
+==============================================================================
+MOCK D ANSWERS
+KAPLAN PUBLISHING
+7
+22
+$424,800
+Measure initial liability at present value of cash flows discounted at the interest rate
+applicable to a similar instrument without conversion rights.  Equity is the balancing figure.
+Year
+Detail
+Cashflow
+Discount
+factor 6%
+Present value
+20X6
+Interest $4m × 3%
+120,000
+0.94
+112,800
+20X7
+Interest $4m × 3%
+120,000
+0.89
+106,800
+20X8
+Interest $4m × 3%
+120,000
+0.84
+100,800
+20X9
+Interest $4m × 3% plus capital $4m
+4,120,000
+0.79
+3,254,800
+
+–––––––––
+
+Liability element
+
+3,575,200
+
+Equity (balancing figure)
+
+424,800
+
+–––––––––
+
+4,000,000
+
+–––––––––
+23
+B
+The liability element is carried at amortised cost, the equity element is not remeasured.
+24
+A
+The asset would be measured at fair value through profit or loss, with any acquisition costs
+written off to the statement of profit or loss.
+25
+$650,000
+The irrevocable election on acquisition with regard to the measurement of the investment
+would measure this investment at fair value through other comprehensive income.  In this
+case the acquisition costs would be added to the initial measurement of the investment, so
+(90,000 × $7) + $20,000 = $650,000
+26
+C
+The initial measurement of the right-of-use asset would be based on the lease liability plus
+any additional capital payments made.  The purchase price of the asset is not relevant for
+leased assets.
+27
+$1,260,500
+$000
+Balance b/f
+Interest at 10%
+Paid
+Balance c/f
+20X1
+2,300,000
+230,000
+(725,000)
+1,805,000
+20X2
+1,805,000
+180,500
+(725,000)
+1,260,500
+The non-current liability at 31 December 20X1 would be equal to the balance outstanding in
+20X2 immediately after 20X2’s payment has been made, so $1,260,500.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 8 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+8
+KAPLAN PUBLISHING
+28
+A
+For low-value items lease payments are spread to profit or loss on a straight line basis over
+the lease term, giving $3,750 to be recognised for the six months to 31 December 20X1.
+IFRS16 itself gives no absolute monetary definition of low-value, although during its
+consultation the IASB advised that a new sales price of US$5,000 would be appropriate.  The
+standard does however identify items such as tablet and personal computers, small items of
+office furniture and telephones as being low-value items.  When a number of assets are
+leased together, as in this question, low-value is established by reference to the individual
+assets rather than the aggregated value.
+29
+$3,150,000
+The right-of-use asset is initially measured at:
+Present value of lease payments
+×
+Carrying amount of asset at date of sale
+Fair value of asset at disposal
+So $4m/$5m × $3.5m = $3,150,000
+30
+C, D
+If the sale transaction does not satisfy a performance obligation, the asset cannot be treated
+as sold.  The head office would therefore continue to be recognised at its existing carrying
+amount and the proceeds would effectively be treated as a loan.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 9 OF 16
+==============================================================================
+MOCK D ANSWERS
+KAPLAN PUBLISHING
+9
+31
+CAVERN
+(a)
+Cavern – Statement of adjusted profit for the year ended 30 September 20X7
+
+$000
+Draft profit per trial balance
+37,000
+Finance cost (W1)
+(660)
+Depreciation of building (W2)
+(2,000)
+Depreciation of new plant (W2)
+(1,400)
+Depreciation of existing plant and equipment (W2)
+(5,500)
+Finance cost: unwinding provision (W2)
+(400)
+Loss on investments (15,800 – 13,500)
+(2,300)
+Income tax expense (900 + 5,600 – 250 (W3))
+(6,250)
+
+–––––––
+Profit for the year
+18,490
+
+–––––––
+(b)
+Cavern – Statement of financial position as at 30 September 20X0
+Assets
+$000
+$000
+Non-current assets
+
+Property, plant and equipment (W2)
+
+92,900
+Financial asset investments
+
+13,500
+
+–––––––
+
+106,400
+Current assets
+
+48,800
+
+–––––––
+Total assets
+
+155,200
+
+–––––––
+Equity and liabilities
+
+Equity shares of $1 each
+
+45,000
+Other components of equity (Share premium)
+
+6,000
+Revaluation surplus (7,000 + 800 (W2))
+
+7,800
+Retained earnings (6,600 + 18,490 (a))
+
+25,090
+
+–––––––
+
+83,890
+Non-current liabilities
+
+Provision for decontamination costs (W2)
+4,400
+
+8% loan note (W1)
+31,260
+
+Deferred tax (W3)
+3,750
+
+––––––
+39,410
+Current liabilities
+
+Trade payables
+21,700
+
+Bank overdraft
+4,600
+
+Current tax payable
+5,600
+
+––––––
+31,900
+
+–––––––
+Total equity and liabilities
+
+155,200
+
+–––––––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 10 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+10
+KAPLAN PUBLISHING
+(c)
+Cavern – Earnings per share
+Profit for the year per (a)
+=
+18,490
+=
+46.2¢
+Weighted average number of shares (W4)
+
+40,000
+
+Workings (all figures in $000)
+(W1)  Loan note
+Balance b/f
+Interest at 10%
+Paid
+Balance c/f
+30,600
+3,060
+(2,400)
+31,260
+
+(Finance cost)
+
+(SFP)
+$2.4 million has already been charged to statement of profit or loss so the impact on
+draft profit is an additional $660,000 ($3,060 – $2,400).
+(W2)  Property, plant and equipment
+
+Land &
+buildings
+Plant &
+equipment
+New plant
+Total
+Cost/valuation
+43,000
+67,400
+
+Accumulated dep’n
+
+(13,400)
+
+New plant included
+
+(10,000)
+10,000
+
+Decontamination
+
+4,000
+
+––––––––
+––––––––
+
+44,000
+14,000
+
+Depreciation:
+
+$36,000 × 1/18
+(2,000)
+
+12.5% & 1/10
+
+(5,500)
+(1,400)
+
+––––––––
+
+41,000
+
+Revaluation gain
+800
+
+––––––––
+––––––––
+––––––––
+
+Carrying amount
+41,800
+38,500
+12,600
+92,900
+
+––––––––
+––––––––
+––––––––
+––––––––
+
+At recognition the cost of the new plant should include the purchase price of
+$10m and the $4m present value of the decontamination cost.
+
+The decontamination cost is also recognised as a provision, then unwound to
+charge a finance cost at 10%.
+
+$000
+Initial provision
+4,000
+Interest at 10% (charged to statement of profit or loss)
+400
+
+––––––
+
+4,400
+
+––––––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 11 OF 16
+==============================================================================
+MOCK D ANSWERS
+KAPLAN PUBLISHING
+11
+(W3) Deferred tax
+Liability required at 30 September 20X0 (15,000 × 25%)
+3,750
+Less liability at 1 October 20W9
+(4,000)
+
+––––––
+Credit (reduction in liability) to statement of profit or loss
+(250)
+
+––––––
+(W4) Weighted average number of shares
+
+Shares
+Months
+Average
+1 October 20X6
+b/f
+39,000
+× 10/12
+32,500
+1 August 20X7
+Issue
+6000
+
+––––––
+
+30 September 20X7
+c/f per TB
+45,000
+× 2/12
+7,500
+
+––––––
+––––––
+
+40,000
+
+––––––
+Marking scheme
+
+Marks
+(a)
+Schedule of adjusted profit
+
+Draft profit
+½
+
+Loan note finance cost
+1
+
+Depreciation
+1½
+
+Unwinding provision
+1
+
+Loss on investments
+½
+
+Income tax expense
+1½
+
+–––
+
+6
+(b)
+Statement of financial position
+
+Property, plant and equipment
+3
+
+Financial asset investments
+½
+
+Current assets
+½
+
+Share capital and premium
+½
+
+Retained earnings
+1
+
+Revaluation surplus
+1
+
+Contamination provision
+1
+
+8% loan note
+1
+
+Deferred tax
+1
+
+Trade payables
+½
+
+Bank overdraft
+½
+
+Current tax payable
+½
+
+–––
+
+11
+(c)
+Earnings per share
+
+Calculation of eps (OFR)
+1
+
+Weighted average number of shares
+2
+
+–––
+
+3
+
+–––
+Total
+
+20
+
+–––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 12 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+12
+KAPLAN PUBLISHING
+32
+GREENWOOD
+Note: IFRS 5 Non-Current Assets Held for Sale and Discontinued Operations uses the term
+discontinued operation. The answer below also uses this term, but it should be
+realised that the assets of the discontinued operation are classed as held for sale and
+not yet sold.  In some literature this may be described as a discontinuing operation.
+(a)
+Ratios
+
+20X7
+
+20X6
+Return on
+capital employed
+30.9%
+(5,100)/(14,500 + 8,000 – 6,000))
+
+33.5%
+(3,750/(12,500 + 5,000 – 6,300))
+The return has been calculated using the operating profit from continuing operations. The
+capital employed (or net asset figure) is the year-end equity plus loan capital less the value
+of the assets held for sale, and equivalent 20X6 figure. This is because the assets held for sale
+have not contributed to the return from continuing operations.  These net asset figures (20X7
+16,500, 20X6 11,200) are also used for asset turnover below.
+Gross profit percentage
+29.1%
+(8,000/27,500)
+
+29.2%
+(6,200/21,200)
+Operating profit margin
+18.5%
+(5,100/27,500)
+
+17.7%
+(3,750/21,200)
+Asset turnover
+
+1.7
+(27,500/16,500)
+
+1.9
+(21,200/11,200)
+Current ratio
+2.1
+(9,500/4,500)
+
+1.0
+(3,700/3,800)
+*Inventory days
+28.1 days
+(1500/19,500) × 365
+
+21.4 days
+(1,350/(15,000 + 8000)) × 365
+Gearing
+35.6%
+(8,000/(8,000 + 14,500))
+
+28.6%
+(5,000/(5,000 + 12,500))
+* Calculation for 20X6 includes discontinued figure, to match total inventory to total cost of
+sales.
+(b) Financial performance and position
+Financial performance
+An important feature of Greenwood’s performance in the year to 31 March 20X7 is the
+impact of the discontinued operation. When using an entity’s recent results as a basis for
+assessing how the entity may perform in the future, emphasis should be placed on the results
+from continuing operations as it is these that will form the basis of future results. For this
+reason most of the ratios calculated are based on the results from continuing operations, and
+ratio calculations involving net assets/capital employed generally exclude the assets held for
+sale.
+On this basis, it can be seen that the overall performance of Greenwood, measured by its
+Return on Capital Employed (ROCE), has declined considerably from 33.5% to 30.9%.  The
+ROCE calculation is a combination of efficiency, measured by asset turnover, and profitability,
+measured by operating profit margin.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 13 OF 16
+==============================================================================
+MOCK D ANSWERS
+KAPLAN PUBLISHING
+13
+Operating profitability has increased from 17.7% to 18.5%, indicating that the fall in ROCE is
+due to efficiency.  The fall in the asset turnover from 1.9 to 1. 7 times confirms that assets
+are being used less efficiently to generate sales.  Despite an impressive increase in sales
+revenues of nearly 30%, capital employed has been increased well beyond this level.   Lack
+of analysis of 20X6’s statement of finance position between continuing and discontinued
+operations means that it is not possible to identify the cause of this rise in capital employed.
+Such a significant increase in revenue is likely to have come from new product, new market
+or new customer, all of which would require substantial investment.  It is to be hoped that
+the balance between capital employed and revenue will be recovered in the future, as the
+impact of the investment grows.
+Further profitability analysis shows that Greenwood has maintained its gross profit margin
+for its continuing operations at around 29%, possibly aided by bulk purchase discounts.  This
+shows that the increase in revenue has not been achieved at the expense of margin.  A
+modest improvement in operating margin is due to a reduction in operating expenses.  With
+a 30% increase in revenue an increase in operating expenses is to be expected in absolute
+terms, and indeed expenses have increased by 18%, indicating that there is probably a fixed
+element within the operating expenses.  There may also have been one-off costs connected
+with the increase level of sales activity, such as marketing costs.  As these one-off costs will
+not be repeated, it is likely that the future operating margin may improve still further.
+The decision to sell the activities classified as a discontinued operation is likely to improve
+the future profitability of Greenwood. In the year ended 31 March 20X6 the discontinued
+operation made a modest pre-tax profit of $450,000 (this would represent a return of around
+7% on the activity’s assets of $6.3 million).  This poor return acted to reduce the overall
+profitability (the continuing operations yielded a return of 33.5%). The performance of the
+discontinued operation continued to deteriorate in the year ended 31 March 20X7 making a
+pre-tax operating loss of $1.4 million which creates a negative return on the relevant assets.
+Despite incurring losses on the measurement to fair value of the discontinued operation’s
+assets, it seems the disposal decision will bring benefits in the future as the discontinued
+operation showed no sign of recovery.
+Financial position
+Net current assets
+Although we would need to consider industry averages, the current ratio of 2.1 in 20X7 seems
+reasonable, but the improvement from 20X6’s 0.97 is distorted by the inclusion of assets of
+the discontinued operation under the heading of ‘held for sale’ within current assets. These
+have been included at fair value less cost to sell (being lower than their carrying amount – a
+requirement of IFRS 5 Non-current Assets Held for Sale and Discontinued Operations), so the
+$6 million should be a realistic expectation of the net sale proceeds, but it is not clear
+whether the sale will be for cash (they may be exchanged for shares or other assets) or how
+Greenwood intends to use the disposal proceeds.
+What can be deduced is that without the assets held for sale being classified as current, the
+current ratio would be much worse than at present.  If the assets held for sale are excluded
+the current ratio falls to 0.8. Without the proceeds from the sale of the discontinued
+operation (assuming that they will be cash) it is difficult to see how Greenwood would pay
+its payables and tax liability, given a year end overdraft of $1,150,000.
+Further analysis of the net current assets shows some interesting changes during the year,
+but we need to be careful.  20X6’s statement of financial position figures include the
+discontinued operation, so for comparison purposes we need to use total revenue and cost
+of sales figures when calculating 20X6 figures.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 14 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+14
+KAPLAN PUBLISHING
+Greenwood’s inventory days have increased significantly.  Given that margins have been
+maintained, this is a cause for concern.  The increased levels of inventory may have been
+necessary to cope with additional sales, and the inventory turnover may improve once the
+sales level has stabilised.
+Gearing
+The additional borrowing of $3 million in loan notes (perhaps due to liquidity pressure) has
+resulted in an increase in gearing from 28.6% to 35.6% and a consequent increase in finance
+costs.  Despite the increase in finance costs the borrowing is acting in the shareholders’
+favour as the overall return on capital employed at 30.9% is well in excess of the 5% coupon
+rate of the loan note.
+It is difficult to see what the loan has been used for, given the aggregated nature of 20X6’s
+statement of financial position.  On the face of it, non-current assets have hardly moved, but
+20X6’s figure includes the discontinued operation, so there could have been significant
+investment in this area.  It is to be hoped that the loan has been used wisely.  If it has been
+used simply to fund working capital, this would be neither appropriate nor sustainable.
+Summary
+Overall Greenwood’s performance has deteriorated in the year ended 31 March 20X7, mainly
+as a result of declining asset turnover.  Management’s action in respect of the discontinued
+operation is a welcome measure to try to halt the decline, but more needs to be done. The
+liquidity position is giving cause for serious concern and without the prospect of realising $6
+million from the assets held for sale it would be difficult to envisage any easing of
+Greenwood’s liquidity pressures.  That said, if the assets held for sale result in the injection
+of $6m cash, and Greenwood can return to 20X6’s levels of asset and inventory turnover,
+future years may see significant improvement.
+
+Marking scheme
+
+Marks
+
+(a)
+1 mark per pair of ratios, up to maximum
+7
+(b)
+1 mark per relevant comment, must include impact of disposal, up to
+maximum of 7 marks for performance, 7 marks for position and 2 marks
+for a valid conclusion, total 13 marks maximum
+
+13
+
+–––
+
+Maximum
+20
+
+–––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 15 OF 16
+==============================================================================
+MOCK D ANSWERS
+KAPLAN PUBLISHING
+15
+REFERENCES
+The Board (2019) Conceptual Framework for Financial Reporting. London: IFRS Foundation.
+The Board (2019) IAS 1 Presentation of Financial Statements. London: IFRS Foundation.
+The Board (2019) IAS 2 Inventories. London: IFRS Foundation.
+The Board (2019) IAS 7 Statement of Cash Flows. London: IFRS Foundation.
+The Board (2019) IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors. London:
+IFRS Foundation.
+The Board (2019) IAS 10 Events after the Reporting Period. London: IFRS Foundation.
+The Board (2019) IAS 12 Income Taxes. London: IFRS Foundation.
+The Board (2019) IAS 16 Property, Plant and Equipment. London: IFRS Foundation.
+The Board (2019) IAS 20 Accounting for Government Grants and Disclosure of Government
+Assistance. London: IFRS Foundation.
+The Board (2019) IAS 21 The Effects of Changes in Foreign Exchange Rates. London: IFRS
+Foundation.
+The Board (2019) IAS 23 Borrowing Costs. London: IFRS Foundation.
+The Board (2019) IAS 27 Separate Financial Statements. London: IFRS Foundation.
+The Board (2019) IAS 28 Investments in Associates and Joint Ventures. London: IFRS Foundation.
+The Board (2019) IAS 32 Financial Instruments: Presentation. London: IFRS Foundation.
+The Board (2019) IAS 33 Earnings per Share. London: IFRS Foundation.
+The Board (2019) IAS 36 Impairment of Assets. London: IFRS Foundation.
+The Board (2019) IAS 37 Provisions, Contingent Liabilities and Contingent Assets. London: IFRS
+Foundation.
+The Board (2019) IAS 38 Intangible Assets. London: IFRS Foundation.
+The Board (2019) IAS 40 Investment Property. London: IFRS Foundation.
+The Board (2019) IAS 41 Agriculture. London: IFRS Foundation.
+The Board (2019) IFRS 3 Business Combinations. London: IFRS Foundation.
+The Board (2019) IFRS 5 Non-current Assets Held for Sale and Discontinued Operations. London:
+IFRS Foundation.
+The Board (2019) IFRS 7 Financial Instruments: Disclosure. London: IFRS Foundation.
+The Board (2019) IFRS 9 Financial Instruments. London: IFRS Foundation.
+The Board (2019) IFRS 10 Consolidated Financial Statements. London: IFRS Foundation.
+The Board (2019) IFRS 13 Fair Value Measurement. London: IFRS Foundation.
+The Board (2019) IFRS 15 Revenue from Contracts with Customers. London: IFRS Foundation.
+The Board (2019) IFRS 16 Leases. London: IFRS Foundation.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 16 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+16
+KAPLAN PUBLISHING
+
+
+##############################################################################
+FR Progress Test - Questions S22-J23.pdf
+##############################################################################
+FR — FINANCIAL REPORTING
+SOURCE: FR Progress Test - Questions S22-J23.pdf
+PAGES: 16
+
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 1 OF 16
+==============================================================================
+ACCA PROGRESS TEST
+
+Financial Reporting
+
+September 2022 to June 2023
+
+Time allowed  3 hours
+
+This paper is divided into three sections:
+Section A – ALL 15 questions are compulsory and MUST be
+attempted
+Section B – ALL 15 questions are compulsory and MUST be
+attempted
+Section C – BOTH questions are compulsory and MUST be
+attempted
+
+Kaplan Publishing/Kaplan Financial
+
+FR
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 2 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+2
+KAPLAN PUBLISHING
+
+© Kaplan Financial Limited, 2022
+The text in this material and any others made available by any Kaplan Group company does not
+amount to advice on a particular matter and should not be taken as such. No reliance should be
+placed on the content as the basis for any investment or other decision or in connection with any
+advice given to third parties. Please consult your appropriate professional adviser as necessary.
+Kaplan Publishing Limited and all other Kaplan group companies expressly disclaim all liability to
+any  person  in  respect  of  any  losses  or  other  claims,  whether  direct, indirect,  incidental,
+consequential or otherwise arising in relation to the use of such materials.
+All rights reserved. No part of this examination may be reproduced or transmitted in any form or
+by any means, electronic or mechanical, including photocopying, recording, or by any information
+storage and retrieval system, without prior permission from Kaplan Publishing.
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 3 OF 16
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+
+3
+SECTION A
+ALL 15 QUESTIONS ARE COMPULSORY AND MUST BE ATTEMPTED
+1
+Which of the following conditions must be met in order to classify an asset as held for
+sale?
+(i)
+The asset is expected to be sold within 12 months
+(ii)
+The asset will definitely be sold
+(iii)
+The asset is available for immediate sale in its present condition
+(iv)
+The asset is due to be marketed in the next month
+A
+(i), (ii) and (iii)
+B
+(i), (iii) and (iv)
+C
+(i) and (iii)
+D
+(ii) and (iv)
+2
+Krash Plc issued a three year 5% convertible bond on 1 July 20X5. The bond has a nominal
+value of $250,000.
+The market rate of interest applicable to non‐convertible bonds is 7%.
+The present value of $1 payable at the end of the year, based on rates of 5% and 7% is as
+follows:
+End of year                          5%                    7%
+1                                           0.95                  0.93
+2                                           0.91                  0.87
+3                                           0.86                  0.82
+What is the value of the equity component of the convertible bond issued by Krash Plc as
+at 1 July 20X5?
+A
+$nil
+B
+$5,000
+C
+$15,000
+D
+$12,250
+3
+Which of the following require restatement and retrospective application in the financial
+statements?
+(i)
+The discovery of a material error
+(ii)
+A change in accounting policy
+(iii)
+A change in accounting estimate
+A
+All of them
+B
+(i) and (ii)
+C
+(ii) and (iii)
+D
+(i) and (iii)
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 4 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+4
+KAPLAN PUBLISHING
+4
+Castle Co purchased an investment property many years ago, and values this property using
+the fair value model.
+The property is currently valued at $3,500,000, which is the value brought forward at the
+start of the current year when the property had a remaining life of 10 years. The valuation
+at year end has just been received and estimates the value of the property at $3,250,000.
+Which of the following summarises the correct accounting entries for the year?
+A
+Depreciation of $350,000 in the statement of profit or loss, gain of $100,000 shown
+in the statement of profit or loss
+B
+Depreciation of $350,000 in the statement of profit or loss, gain of $100,000 shown
+in other comprehensive income
+C
+Loss of $250,000 shown in the statement of profit or loss
+D
+Loss of $250,000 shown in other comprehensive income.
+5
+Duck Co purchased an asset for $250,000 on 1 July 20X2.
+They received a government grant of $30,000 towards the cost of this asset.
+Duck Co wish to treat the government grant income as a deferred credit.
+The useful life of the asset is 12 years.
+What is the deferred income balance relating to this grant income as at 30 June 20X4?
+A
+$25,000
+B
+$27,500
+C
+$30,000
+D
+$nil
+6
+Wallace had $2,000,000 50¢ shares in issue on 1 January 20X4.
+On 1 May 20X4, Wallace issued 500,000 shares at their market value of $1.20 each
+On 1 August 20X4, Wallace made a bonus issue of 1 share for every 5 in issue
+What  is  the  weighted  average  number  of  shares  to  use  in  Wallace’s  Basic  Earnings
+Per Share calculation for the year ended 31 December 20X4?
+A
+2,800,000
+B
+4,150,000
+C
+5,000,000
+D
+5,200,000
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 5 OF 16
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+
+5
+7
+Rain bought 75% of Sun on 1 July 20X4, at a cost of $2 million. The non‐controlling interest
+was recorded at its initial fair value of $500,000. The fair value of Sun’s net assets as at
+acquisition was $1,750,000. During the year ended 30 June 20X5, an impairment of 20%
+was recognised in relation to the goodwill for Sun.
+A further 10% impairment has been recorded for the year ended 30 June 20X6, based on
+the carrying amount at 1 July 20X5.
+What is the impairment charge to be included in the consolidated statement of profit or
+loss for the year ended 30 June 20X6?
+A
+$60,000
+B
+$75,000
+C
+$210,000
+D
+$225,000
+8
+The following is an extract from the statement of cash flows for QW for the year ended
+31 December 20X1:
+
+$m
+Cash flows from operating activities
+950
+Cash flows from investing activities
+(1,130)
+Cash flows from financing activities
+120
+
+–––––
+Net cash flow for the year
+(60)
+Cash and cash equivalents at start of year
+650
+
+–––––
+Cash and cash equivalents at end of year
+590
+
+–––––
+Based on the information provided, which one of the following independent statements
+would be a reasonable conclusion about the financial adaptability of QW for the year to
+31 December 20X1?
+A
+QW is in decline as there is a significant cash outflow in investing activities.
+B
+QW has financed a high proportion of its investing activities by utilising its operating
+cash.
+C
+QW must have made a profit in the year, as it has a net cash inflow from operating
+activities.
+D
+QW must be facing serious liquidity problems as its cash and cash equivalents have
+fallen by $60 million throughout the year.
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 6 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+6
+KAPLAN PUBLISHING
+9
+KL  operates  in  the  fashion  wholesale  business  and  its  management  team  has  become
+increasingly concerned about the liquidity of the entity. It has asked you for your opinion
+and you have calculated the following ratios to help you with your assessment:
+
+30 June 20X3
+30 June 20X2
+Inventory holding period
+128 days
+77 days
+Receivables collection period
+88 days
+87 days
+Payables payment period
+170 days
+118 days
+Current ratio
+1.3:1
+2.1:1
+Quick ratio
+0.7:1
+1.4:1
+Which one of the following is NOT a valid statement about the ratios shown above?
+
+A
+The increase in inventory holding period is a significant concern as there is a high risk
+of obsolescence in the industry.
+
+B
+The deterioration in the ratios shown at the 30 June 20X3 year‐end could simply be a
+result  of  a  significant  purchase  of  goods  being  made  on  credit  terms  close  to  the
+year‐end.
+
+C
+KL  are  attempting  to  finance  their  increased  inventory  holding  period  by  delaying
+payments to suppliers.
+
+D
+The  significant  increase  in  payables  payment  period  will  have  caused  the  cash
+position to worsen dramatically.
+10
+Which ONE of the following definitions is NOT included within the definition of control
+according to IFRS 10 Consolidated Financial Statements?
+A
+Having power over the investee
+B
+Having exposure, or rights, to variable returns from its investment in the investee
+C
+Holding the majority of shares in the investee
+D
+Having  the  ability  to  use  its  power  over  the  investee  to  affect  the  amount  of  the
+investor’s returns
+11
+The  IASB®’s  Conceptual  Framework  for  Financial  Reporting  lists  two  fundamental
+qualitative characteristics of financial statements, one of which is faithful representation.
+Which of the following is NOT a characteristic of faithful representation?
+A
+Completeness
+B
+Neutrality
+C
+Free from error
+D
+Prudence
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 7 OF 16
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+
+7
+12
+Which  of  the  following  are  advantages  of  applying  a  principles‐based  framework  of
+accounting rather than a rules‐based framework?
+(i)
+It avoids  ‘fire‐fighting’,  where  standards  are  developed  in  response  to  specific
+problems as they arise
+(ii)
+It allows preparers and auditors to deal with complex transactions which may not be
+specifically covered by an accounting standard
+(iii)
+Principles‐based standards are thought to be harder to circumvent
+(iv)
+A set of rules is given which attempts to cover every eventuality
+(v)
+Accounting standards can be developed in relation to agreed principles
+A
+All of the above
+B
+(i), (iii) and (v) only
+C
+(i), (ii) and (v) only
+D
+(i), (ii), (iii) and (v) only
+13
+On 1 January 20X5 Ness revalued its head office to $21m, creating a revaluation surplus of
+$7m.  At this date, the head office had a 35‐year remaining life.
+
+On 1 January 20X9 property prices crashed and the head office was revalued to $11m.
+
+Ness makes an annual reserves transfer for excess depreciation.
+
+What loss on revaluation will be taken to the statement of profit or loss at the date of the
+revaluation on 1 January 20X9?
+
+A
+Nil
+B
+$1,400,000
+C
+$600,000
+D
+$7,600,000
+14
+AB acquired an 80% investment in XY on 1 January 20X1. The consideration consisted of the
+following:
+–
+The transfer of 500,000 shares in AB with a nominal value of $1 each and a market
+value on the date of acquisition of $3.50 each
+–
+$408,000 cash paid on 1 January 20X1, and
+–
+$1,000,000 cash payable on 1 January 20X3 (a discount rate of 9% has been used to
+value the liability in the financial statements of AB).
+
+AB also paid legal and professional fees in respect of the acquisition of $150,000.
+
+The best estimate of the fair value of the consideration to be included (to the nearest
+thousand) in the calculation of goodwill arising on the acquisition of XY is:
+
+A
+$1,750,000
+
+B
+$3,000,000
+
+C
+$3,150,000
+
+D
+$3,158,000
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 8 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+8
+KAPLAN PUBLISHING
+15
+Sakho owned a 1 year‐old herd of cattle on 1 January. At this date, the herd’s fair value less
+costs to sell was $70,000. At 31 December, the fair value of a 1 year‐old herd of cattle is
+$75,000, and the fair value of a 2 year‐old herd of cattle is $80,000. If Sakho sold the cattle,
+commission of 5% would be payable.
+What  is  the  correct  accounting  treatment  for  the  cattle  at  31  December  according  to
+IAS 41 Agriculture?
+A
+Revalue to $71,250 taking gain of $1,250 to the revaluation surplus
+B
+Revalue to $76,000, taking gain of $6,000 to the statement of profit or loss
+C
+Revalue to $76,000, taking gain of $6,000 to the revaluation surplus
+D
+Revalue to $71,250, taking gain of $1,250 to the statement of profit or loss
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 9 OF 16
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+
+9
+SECTION B
+ALL 15 QUESTIONS ARE COMPULSORY AND MUST BE ATTEMPTED
+The following scenario relates to questions 16–20
+Vendo owns a large amount of non‐current assets and is undertaking a review of asset values, as
+the Vendo finance director believes that holding them at historical cost is becoming increasingly
+irrelevant.  Vendo would like to hold assets at fair value but has never previously revalued any
+assets.
+Vendo took out a $10m 9% loan on 1 January 20X7 for the construction of a new office building.
+Due to delays, construction didn’t begin until 1 March 20X7 and was completed on 1 November
+20X7. As not all funds were needed immediately, $2m was invested in 5% bonds from 1 January
+to 30 April 20X7.
+On 1 January 20X7, Vendo revalued all of its properties. The majority of these increased in value,
+giving a total net increase in assets of $24 million. Included in this figure were two items which
+had fallen by $2 million.  Vendo makes an annual transfer from the revaluation surplus in respect
+of excess depreciation.  At 1 January 20X7 the properties had a remaining life of 10 years.
+16
+In  relation  to  the  Vendo  finance  director’s  beliefs,  which  of  the  following  is  NOT  a
+deficiency of historical cost accounts in times of rising prices?
+A
+Asset values are understated
+B
+Items are less verifiable as they happened years ago
+C
+Profits are overstated
+D
+Financial statements contain a mix of current values and historical cost values
+17
+Which ONE of the statements regarding IFRS 13 Fair Value Measurement is NOT true?
+A
+Level 1 inputs are likely to be used without adjustment.
+B
+Level 3 inputs are based on the best information available to market participants and
+are therefore regarded as providing the most reliable evidence of fair value.
+C
+Level 2 inputs may include quoted  prices for similar (but  not identical) assets and
+liabilities in active markets.
+D
+Level  1  inputs  comprise  quoted  prices  in  active  markets  for  identical  assets  and
+liabilities at the reporting date.
+18
+What amount of interest should be capitalised in relation to Vendo’s new office building
+in accordance with IAS 23 Borrowing costs?
+A
+$566,667
+B
+$716,667
+C
+$600,000
+D
+$583,333
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 10 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+10
+KAPLAN PUBLISHING
+19
+What is the balance on Vendo’s revaluation surplus at 31 December 20X7?
+A
+$24 million
+B
+$26 million
+C
+$21.6 million
+D
+$23.4 million
+20
+Which, if either, of the following statements regarding the revaluation of assets is/are
+correct?
+Statement 1: If the revaluation model is used for Vendo’s properties, all non‐current assets
+must be revalued
+Statement 2: Vendo must perform a revaluation of its properties every three years
+A
+Statement 1 only is correct
+B
+Statement 2 only is correct
+C
+Neither statement is correct
+D
+Both statements are correct
+The following scenario relates to questions 21–25
+Burtie is in the process of constructing a number of assets for its customers, the details of which
+can be found below.
+Contract 1: Contract 1 has a price of $8 million and is 40% complete.  Contract 1 is estimated to
+have total costs of $5 million, of which Burtie has spent $2 million to date.  Burtie has received
+$1.5 million from the customer to date.
+Contract 2: Contract 2 has a price of $7 million and is 60% complete.  Due to rising raw material
+costs, contract 2 now has estimated total costs of $9 million.
+Contract 3: Contract 3 has a price of $6 million but only began 1 month ago so its progress cannot
+be  measured.  Burtie  has  incurred  costs  to  date  of  $100,000  out  of  total  estimated  costs  of
+$4 million, and is expected to take three years to complete the contract.
+21
+What should be recorded in current assets in relation to contract 1?
+A
+$1.2 million
+B
+$1.7 million
+C
+$2 million
+D
+$3.2 million
+22
+What should be recorded in cost of sales in relation to contract 2?
+A
+$6.2 million
+B
+$9 million
+C
+$4.2 million
+D
+$5.4 million
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 11 OF 16
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+
+11
+23
+What should be recorded in revenue in relation to contract 3?
+A
+Nil
+B
+$150,000
+C
+$100,000
+D
+$166,667
+24
+Which of the following statements best describes the contracts in this scenario?
+A
+Contracts where the performance obligation is not met
+B
+Contracts where the performance obligation is satisfied at a point in time
+C
+Contracts where the performance obligation is discounted
+D
+Contracts where the performance obligation is satisfied over time
+25
+Burtie also acts as an agent in other transactions.  In transactions where Burtie acted as the
+agent, Burtie has received $5 million, on which Burtie earns commission at 20%.
+
+Which of the following statements is NOT correct in relation to this transaction?
+A
+Burtie’s revenue consists of the commission only
+B
+Income of $1 million should be recognised
+C
+$4 million should be held in trade payables
+D
+$4 million should be recorded in cost of sales
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 12 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+12
+KAPLAN PUBLISHING
+The following scenario relates to questions 26–30
+Extracts  from  the  Financial  Statements  of  Armstrong  plc,  a  retailer  of  electronic  products,  are
+given below for the year ended 31 October 20X9:
+
+20X9
+20X8
+
+$000
+$000
+Statement of financial position
+
+Non‐current assets
+
+Property, plant & equipment
+16,104
+13,918
+Equity
+
+Retained earnings
+8,951
+8,824
+Non‐current liabilities
+
+Deferred taxation
+234
+108
+Current liabilities
+
+Taxation
+300
+250
+
+Statement of profit or loss
+
+Profit before tax
+1,299
+
+Taxation
+(672)
+
+––––––
+
+Profit for the year
+627
+
+––––––
+
+Additional information:
+(i)
+An item of plant with a carrying amount of $965,000 was sold at a loss of $50,000 during
+the  year.    Depreciation  of  $2,395,000  was  charged  to  operating  expenses  in  respect  of
+property, plant and equipment in the year ended 31 October 20X9.
+(ii)
+During  the  year  ended  31  October  20X9  new  assets  were  acquired  under  a  leasing
+agreement.  The present value of the total lease rentals payable was $960,000.
+26
+What  should  be  recorded  in  Armstrong’s  statement  of  cash  flows  in  relation  to  the
+dividend paid during the year?
+A
+$500,000
+B
+$127,000
+C
+$754,000
+D
+$1,172,000
+27
+What should be recorded in Armstrong’s statement of cash flows in relation to the tax
+paid during the year?
+A
+$176,000
+B
+$496,000
+C
+$388,000
+D
+$848,000
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 13 OF 16
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+
+13
+28
+What  should  be  recorded  in  Armstrong’s  statement  of  cash  flows  in  relation  to  the
+purchase of property, plant and equipment during the year?
+A
+$4,586,000
+B
+$4,636,000
+C
+$5,546,000
+D
+$5,596,000
+29
+Which, if either, of the following statements is/are true regarding Armstrong’s statement
+of cash flows?
+Statement 1: Armstrong’s depreciation should be added back to profit from operations in
+order to calculate cash generated from operations
+Statement 2: Armstrong’s loss on disposal should be deducted from profit from operations
+in order to calculate cash generated from operations
+A
+Statement 1 only
+B
+Statement 2 only
+C
+Both statement 1 and statement 2
+D
+Neither statement
+30
+Which describes the correct treatment for payments made in relation to lease liabilities?
+A
+Liability repaid is shown in investing activities, interest paid in operating activities
+B
+Liability repaid is shown in financing activities, interest paid in operating activities
+C
+Liability repaid is shown in investing activities, interest paid in investing activities
+D
+Only liability repaid is shown in financing activities
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 14 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+14
+KAPLAN PUBLISHING
+SECTION C
+BOTH QUESTIONS ARE COMPULSORY AND MUST BE ATTEMPTED
+31
+The following draft financial statements relate to Bartlett, a private limited company:
+Extracts from the statement of profit or loss for Bartlett for the year ended 30 September
+
+20X5
+20X4
+
+$000
+$000
+Revenue
+10,200
+12,800
+Cost of sales
+(7,340)
+(8,930)
+
+––––––
+––––––
+Gross profit
+2,860
+3,870
+Distribution costs
+(1,020)
+(700)
+Administrative expenses
+(1,750)
+(1,340)
+
+––––––
+––––––
+Profit from operations
+90
+1,830
+
+––––––
+––––––
+Extracts from the statement of financial position for Bartlett as at 30 September
+20X5
+20X4
+$000
+$000
+Current assets
+Inventory
+1,100
+800
+Trade receivables
+1,560
+1,240
+Bank
+20
+150
+Non‐current liabilities
+Loan
+1,300
+1,100
+Current liabilities
+Trade payables
+900
+750
+The following information has been obtained in relation to the operations of Bartlett for the
+year:
+(i)
+Bartlett has been a major ice cream producer for many years, traditionally making
+the bulk of its sales to wholesalers and retailers during the months of May to August.
+(ii)
+In October 20X4 a newspaper article highlighted that a number of Bartlett’s largest
+selling ice creams contained extremely high levels of additives, leading to boycotts
+from parents.
+(iii)
+Following  the  boycott,  Bartlett  changed  the  ingredients  and  outsourced  the  ice
+cream production to a specialist factory rather than producing the items themselves.
+(iv)
+Bartlett launched a new brand of healthy frozen yoghurt under the name ‘CoolYo’,
+which was taken up by major supermarkets in April 20X5 after lengthy negotiations.
+(v)
+Bartlett started selling products online to the public for the first time.
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 15 OF 16
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+
+15
+(vi)
+The finance director of Bartlett has prepared the following ratios for the year ended
+30 September 20X4 which may be taken as correct.
+Gross profit margin
+30.2%
+Operating profit margin
+14.3%
+Current ratio
+2.9:1
+Quick (acid test) ratio
+1.9:1
+Inventory days
+33 days
+Receivable days
+35 days
+Payables days
+ 31 days
+Required:
+(a)
+Prepare the equivalent ratios as above for the year ended 30 September 20X5.
+
+(4 marks)
+(b)
+Analyse the performance and position of Bartlett for the year ended 30 September
+20X5.
+(13 marks)
+(c)
+Outline the limitations in using ratio analysis to measure performance and position.
+
+(3 marks)
+
+(Total: 20 marks)
+32
+On  1  May  20X4  Packer  bought  90%  of  the  share  capital  of  Scott.  The  consideration
+consisted  of  two  elements:  a  share  exchange  of  two  shares  in  Packer  for  every  three
+acquired in Scott and the issue of a $100 loan note for every 400 shares acquired in Scott.
+Only the loan note consideration has been recorded by Packer. At the date of acquisition
+the market value of shares in Packer and Scott was $4.90 and $2.80 respectively. Below are
+the summarised draft financial statements of both companies.
+Statements of profit or loss for the year ended 30 September 20X4
+
+Packer
+
+Scott
+
+$000
+
+$000
+Revenue
+385,200
+
+234,900
+Cost of sales
+(212,000)
+
+(76,560)
+
+Administrative expenses
+(104,500)
+
+(67,800)
+
+Investment income
+1,200
+
+0
+Statements of financial position as at 30 September 20X4
+Packer
+Scott
+$000
+
+$000
+Property, plant and equipment
+543,000
+312,000
+Investments
+142,000
+0
+
+–––––––
+–––––––
+
+685,000
+312,000
+Current assets
+213,000
+
+132,000
+
+–––––––
+–––––––
+Total assets
+898,000
+444,000
+
+–––––––
+
+–––––––
+
+==============================================================================
+FR QUESTION PAPER — SOURCE PDF PAGE 16 OF 16
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+16
+KAPLAN PUBLISHING
+Equity
+
+Equity shares of $1 each
+480,000
+
+200,000
+Retained earnings
+158,800
+
+216,000
+
+–––––––
+–––––––
+Total equity
+638,800
+416,000
+Non‐current liabilities
+
+Loan notes
+160,000
+5,000
+Current liabilities
+99,200
+
+23,000
+
+–––––––
+–––––––
+Total equity and liabilities
+898,000
+444,000
+
+–––––––
+
+–––––––
+The following information is relevant:
+(i)
+At the date of acquisition the fair values of Scott’s assets were equal to their carrying
+amounts  with  the  exception  of  Scott’s  head  office,  which  had  a  fair  value  of
+$60 million in excess of its carrying amount.  It had a remaining life of forty years at
+that date.
+
+(ii)
+Over the entire year, including the pre‐acquisition period, Scott sold goods to Packer
+for $48 million at a margin of 20%.  At the year end, Packer still held $6 million of
+these goods in inventory.  At the year‐end Packer had paid for all of the goods except
+for the final $6 million.
+(iii)
+At the start of the year Packer purchased a small number of shares in an unrelated
+company  for  $97  million.    These  are  currently  included  in  Packer’s  investments  at
+cost.  At 30 September 20X4 the value of these shares had risen to $99 million.
+(iv)
+Packer has a policy of accounting for any non‐controlling interest at fair value.  For
+this purpose Scott’s share price at acquisition can be deemed to be representative of
+fair value.
+(v)
+Consolidated  goodwill  is  considered  to  have  become  impaired  by  $1  million  at
+30 September 20X4.
+(vi)
+Scott made a profit of $34,140,000 in the year ended 30 September 20X4.  Other
+than  where  indicated,  items  from  the  statement  of  profit  or  loss  are  deemed  to
+accrue evenly on a time basis.
+Required:
+(a)
+Prepare the statement of profit or loss extracts for the Packer group for the year
+ended 30 September 20X4.
+(4 marks)
+(b)
+Prepare  the  consolidated  statement  of  financial  position  for  Packer  as  at
+30 September 20X4.
+(16 marks)
+
+(Total: 20 marks)
+
+
+##############################################################################
+MARKING GUIDE: FR Progress Test - Answers S22-J23.pdf
+##############################################################################
+FR — ANSWER / MARKING GUIDE
+SOURCE: FR Progress Test - Answers S22-J23.pdf
+PAGES: 18
+
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 1 OF 18
+==============================================================================
+ACCA
+
+FR
+
+Financial Reporting
+September 2022 to June 2023
+
+Progress Test – Answers
+
+To gain maximum benefit, do not refer to these answers
+until you have completed the progress test questions and
+submitted them for marking.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 2 OF 18
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+2
+KAPLAN PUBLISHING
+
+© Kaplan Financial Limited, 2022
+The text in this material and any others made available by any Kaplan Group company does not
+amount to advice on a particular matter and should not be taken as such. No reliance should be
+placed on the content as the basis for any investment or other decision or in connection with any
+advice given to third parties. Please consult your appropriate professional adviser as necessary.
+Kaplan Publishing Limited and all other Kaplan group companies expressly disclaim all liability to
+any  person  in  respect  of  any  losses  or  other  claims,  whether  direct, indirect,  incidental,
+consequential or otherwise arising in relation to the use of such materials.
+All rights reserved. No part of this examination may be reproduced or transmitted in any form or
+by any means, electronic or mechanical, including photocopying, recording, or by any information
+storage and retrieval system, without prior permission from Kaplan Publishing.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 3 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+ 3
+SECTION A
+1
+C
+In order to be classified as held for sale, the following conditions must be met:
+–
+The asset must be available for immediate sale in its present condition
+–
+Management are committed to a plan to sell the asset
+–
+There is an active programme to locate a buyer
+–
+The asset is being actively marketed
+–
+The sale is expected to be completed within 12 months of classification as held for
+sale
+–
+It is unlikely that the plan will be significantly changed or withdrawn
+Although  it  should  be  unlikely  that  the  plan  will  be  significantly  changed  or  withdrawn,
+sometimes  the  sale  may  not  happen  due  to  factors  beyond  the  control  of  the  entity.
+Therefore, the asset does not definitely have to be sold.
+The asset must be being currently marketed in order to be held for sale.
+2
+D
+The liability element of convertible bonds is valued at the present value of the interest and
+debt payments, discounted at a rate of interest for a similar instrument with no conversion
+option, in this case 7%.
+The annual interest paid is based on the nominal rate of 5%, which is $12,500 ($250,000 ×
+5%) annually.
+Discounted at 7%, the value of the liability is as follows:
+
+Time
+
+Cashflow
+Discount
+Factor
+Present
+Value
+1
+Interest
+12,500
+0.93
+11,625
+2
+Interest
+12,500
+0.87
+10,875
+3
+Interest and capital
+262,500
+0.82
+215,250
+
+Liability
+237,750
+The equity component of a convertible is the balancing figure once the liability component
+has been valued.
+As the liability component has been valued at $237,750, and the total proceeds of the issue
+of  the  convertible  bond  are  $250,000,  the  equity  element  must  therefore  be  valued  at
+$250,000 – $237,750 = $12,250
+3
+B
+According to IAS8 a material error and change in accounting policy require retrospective
+application  and  restatement  of  the  Financial  Statements,  while  a  change  in  accounting
+estimate is applied prospectively (going forward).
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 4 OF 18
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+4
+KAPLAN PUBLISHING
+4
+C
+Investment properties are valued at current  market values when the fair value model is
+used.  Therefore the property should be valued at $3,250,000.  The gain or loss is taken
+directly to the statement of profit or loss.
+When the fair value model is used for investment properties, no depreciation is charged on
+them.
+5
+A
+The grant income is released to the profit or loss account over the life of the asset, which is
+12 years.  Therefore each year $2,500 ($30,000/12) is released to the statement of profit or
+loss.
+After two years, which is 30 June 20X4, the deferred income balance is $25,000 ($30,000 –
+($2,500 × 2))
+6
+D
+There are $2m 50c shares in issue at the start of 20X4, giving 4 million shares in issue.
+For market value issues of shares we calculate a weighted average in the year of issue.
+Bonus  issues  are  treated  as  if  the  shares  were  issued  at  the  same  time  as  the  original
+shares.
+A bonus issue of 1 for 5 means that 900,000 (4.5m × 1/5) additional shares were issued.
+We can apply a bonus fraction of 6/5 to allow for the bonus issue.
+The weighted average share calculation is as follows:
+
+No of
+shares
+Period of
+the year
+Bonus
+Fraction
+Weighted
+Average
+b/f
+4,000,000
+4/12
+6/5
+1,600,000
+Market value issue
+500,000
+
+––––––––
+
+4,500,000
+
+1:5 Bonus issue
+900,000
+
+––––––––
+
+5,400,000
+8/12
+
+3,600,000
+
+––––––––
+
+––––––––
+
+Total
+5,200,000
+
+––––––––
+If you chose A, you used the value of the shares of $2 million rather than the number of
+shares, which is 4 million.  If you chose B, you used the value of the shares of $2 million
+rather than the number of shares which is 4 million, and applied the bonus fraction to all
+periods.    If  you  chose  C,  you  treated  the  market  issue  as  250,000  shares  rather  than
+500,000 shares.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 5 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+ 5
+7
+A
+Only current year impairments are recognised in the consolidated statement of profit or
+loss.
+Goodwill:
+
+$
+Cost of Investment
+2,000,000
+Fair Value of NCI at acquisition
+500,000
+Less: Fair Value of Net Assets
+(1,750,000)
+
+–––––––––
+Goodwill at acquisition
+750,000
+Impairment year ended 30 June 20X5 (20%)
+(150,000)
+
+–––––––––
+Goodwill as at 30 June 20X5
+600,000
+
+–––––––––
+
+10% impairment year ended 30 June 20X6
+60,000
+
+–––––––––
+8
+B
+Despite  the  fall  in  cash,  QW  appears  to  be  expanding  due  to  the  large  cash  outflow  in
+investing  activities.    QW  is  not  facing  liquidity  problems  as  there  is  a  substantial  cash
+balance at the year end.  Whilst the cash from operating activities is positive, it doesn’t
+necessarily  mean  QW  have  made  a  profit.    Non‐cash  items,  such  as  depreciation  and
+amortisation, would have been added back to the profit figure, and there could also have
+been a positive cash impact from movements in working capital.
+9
+D
+The increase in the payables payment period will have had a positive impact on the cash
+position, as this cash will not yet have been paid.
+10
+C
+Although holding the majority of shares in the investee may be a situation which leads to
+control, it is not included within the definition of control per IFRS 10.
+11
+D
+Prudence, although a valid concept, is not a characteristic of faithful representation.
+12
+D
+All  of  the  listed  examples  are  advantages  except  (iv)  as  a  principles‐based  framework
+recognises that it is not possible to draw up a set of rules to cover every eventuality and
+therefore does not attempt to do so.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 6 OF 18
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+6
+KAPLAN PUBLISHING
+13
+B
+
+Head
+Office
+Revaluation
+Surplus
+
+$000
+$000
+1 January 20X5
+21,000
+7,000
+4 years depreciation/transfer (4/35)
+(2,400)
+(800)
+
+–––––––
+–––––––
+1 January 20X9 carrying amount
+18,600
+6,200
+Impairment (balancing figure)
+(7,600)
+(6,200)
+
+–––––––
+–––––––
+
+11,000
+  –
+
+–––––––
+–––––––
+Annual depreciation = $21m/35 years = $600,000
+Annual reserves transfer = $7m/35 years = $200,000
+On 1 January 20X9 the carrying amount of the asset is $18.6m and the revaluation surplus is
+$6.2m.
+When the head office is revalued to $11m, this creates a loss of $7.6m.  Of this, $6.2m will
+be debited to the revaluation surplus, leaving $1.4m to be taken to the statement of profit
+or loss.
+14
+B
+The total consideration is made up as follows:
+
+$000
+Shares issued
+(500,000 × $3.50)
+1,750
+Cash paid
+
+408
+Deferred cash
+($1,000,000/1.092)
+842
+
+–––––
+Total
+
+3,000
+
+–––––
+The professional fees are excluded from consideration.
+15
+B
+Biological assets should be revalued to fair value less point of sale costs at the year‐end,
+with the gain or loss being taken to the statement of profit or loss.
+At year‐end the cattle would be 2 years old, so the cattle should be revalued to the value of
+a 2 year‐old herd of cattle, less commission of 5%.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 7 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+ 7
+SECTION B
+16
+B
+Items  are  more  verifiable  under  historical  cost,  as  the  amount  can  be  confirmed  by
+examining the amount paid for an asset.
+17
+B
+Level 3 inputs do  include  the best information available, but this is  not regarded as the
+most reliable evidence of fair value, as this is likely to be level 1 inputs.
+18
+D
+
+Annual interest on loan is $900,000 ($10m × 9%) and construction takes place for 8 months
+from 1 March to 1 November.  Interest capitalised is therefore $600,000 ($900,000 × 8/12).
+The interest earned on the temporary investment of surplus funds during the construction
+period  must  be  netted  off  this  amount  to  give  the  total  to  be  capitalised.    The  amount
+earned during this two‐month period (1 Mar to 30 Apr) is $16,667 ($2m × 5% × 2/12).
+
+Therefore the amount to be capitalised = $600,000 ‐ $16,667 = $583,333.
+
+Any  interest  incurred  or  earned  before  construction  begins  should  be  taken  to  the
+statement of profit or loss as finance costs or investment income.
+19
+D
+The  $2  million  loss  should  be  taken  to  the  statement  of  profit  or  loss  as  an  expense,
+meaning that a gain of $26 million should be recorded in the revaluation surplus. From this,
+the reserves transfer will mean that an additional $2.6 million ($26m/10) is transferred into
+retained  earnings  each  year.  Therefore  the  balance  on  the  revaluation  surplus  will  be
+$23.4 million at 31 December 20X7.
+20
+C
+
+If Vendo uses the revaluation model for its properties, all properties must be revalued, but
+not  all  non‐current  assets.    Vendo  must  keep  revaluations  up  to  date,  but  there  is  no
+defined time period for what this means in IAS 16 Property, Plant and Equipment.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 8 OF 18
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+8
+KAPLAN PUBLISHING
+21
+B
+Statement of financial position
+
+Revenue recognised $8m × 40%
+3,200,000
+Less: Amount billed
+(1,500,000)
+
+–––––––––
+Contract asset
+1,700,000
+
+–––––––––
+22
+A
+Contract price
+7,000,000
+
+Total contract cost
+(9,000,000)
+
+–––––––––
+
+Estimated total loss
+(2,000,000)
+To be recognised in full
+
+–––––––––
+
+Progress 60%
+Statement of profit or loss
+
+Revenue (60% × 7,000,000)
+4,200,000
+Cost of sales  (balancing figure)
+(6,200,000)
+
+–––––––––
+Full loss to be recognised
+(2,000,000)
+
+–––––––––
+23
+C
+
+When  the  progress  of  a  contract  cannot  be  measured  reliably,  revenue  should  be
+recognised to the level of recoverable costs, which is the $100,000 costs incurred to date.
+24
+D
+25
+D
+Revenue of $1 million should be recognised, with the other $4 million held in payables. It is
+incorrect to recognise $5 million in revenue and $4 million in cost of sales.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 9 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+ 9
+26
+A
+
+Retained earnings
+
+  b/f
+8,824
+Cash paid (bal fig)
+500  Profit for year
+627
+c/f
+8,951
+
+–––––
+–––––
+
+9,451
+9,451
+
+–––––
+–––––
+27
+B
+
+Tax paid
+
+  b/f (108 + 250)
+358
+Cash paid (bal fig)
+496  SPL charge
+672
+c/f (234 + 300)
+534
+
+–––––
+–––––
+
+1,030
+1,030
+
+–––––
+–––––
+28
+A
+
+Property, plant and equipment
+b/f
+13,918
+
+Finance lease assets
+960  Disposal
+965
+Cash paid (bal fig)
+4,586  Depreciation
+2,395
+
+  c/f
+16,104
+
+–––––
+–––––
+
+19,464
+19,464
+
+–––––
+–––––
+29
+A
+Both depreciation and loss on disposal are non‐cash expenses, so both must be added to
+profit from operations in calculating the cash generated from operations.
+30
+B
+Lease liabilities repaid are shown within financing activities, with the interest paid being
+shown within operating activities.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 10 OF 18
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+10
+KAPLAN PUBLISHING
+SECTION C
+31
+BARTLETT
+
+Key answer tips
+When  asked  to  produce  an  analysis,  the  answers  should  be  written  in  brief  paragraphs,
+making no more than one or two points per paragraph.  The points made should always
+refer to the scenario, as generic statements (such as gross profit has decreased, meaning
+either sales price has gone down or cost of sales have gone up) rarely score any marks.
+Complete  the  ratio  calculations  as  quickly  as  possible,  ensuring  that  you  show  your
+workings.    While  the  ratios  are  relatively  easy  marks,  it  is  not  uncommon  for  people  to
+score nothing for analysis due to poor time management.
+(a)
+Ratio calculations
+
+20X5
+20X4 (for comparison)
+Gross profit margin
+28%
+30.2%
+
+(2,860/10,200) × 100%
+(3,870/12,800) × 100%
+Operating profit margin
+0.9%
+14.3%
+
+(90/10,200) × 100%
+(1,830/12,800) × 100%
+Current ratio
+3:1
+2.9:1
+
+2,680/900
+2,190/750
+Quick (Acid test) ratio
+1.8:1
+1.9:1
+
+1,580/900
+1,390/750
+Inventory days
+55 days
+33 days
+
+1,100/7,340 × 365
+800/8,930 × 365
+Receivable days
+56 days
+35 days
+
+1,560/10,200 × 365
+1,240/12,800 × 365
+Payables days
+45 days
+ 31 days
+
+900/7,340 × 365
+750/8,930 × 365
+(b)
+Analysis of the performance and position of Bartlett
+Performance
+Revenue  has  declined  significantly,  by  over  20%.  This  is  likely  to  be  due  to  the
+negative press coverage and the resulting boycott.
+This negativity may also be affecting the success of CoolYo, but it is difficult to judge
+the success of this new product without a further breakdown of sales.
+Also,  CoolYo  was  only  taken  up  by  supermarkets  during  April,  so  has  only  had  six
+months  of  sales  so  far.  It  may  be  that  the  revenue  will  improve  once  CoolYo
+contributes a full year of sales.
+The gross profit margin has deteriorated. It may be that Bartlett has been forced to
+reduce the price in order to maintain sales in the face of its declining reputation.
+Following the negative press coverage the ingredients have been altered, which will
+potentially have led to higher cost of sales.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 11 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+ 11
+The  outsourcing  of  production  will  have  impacted  the  gross  profit  margin.  Usually
+outsourcing  is  cheaper,  but  Bartlett  may  have  actually  paid  more  for  using  the
+specialist factory following the changes in production method.
+The  introduction  of  CoolYo  is  likely  to  be  at  a  different  margin  to  the  rest  of  the
+products.  Following  lengthy  negotiations  with  the  supermarkets,  it  may  be  that
+Bartlett have had to offer the product at low prices initially.
+The operating margin has fallen to nearly zero, so Bartlett is struggling to break even.
+The new website is likely to have had significant initial set‐up costs, many of which
+may have been expensed through administrative expenses, which have increased by
+30% on 20X4.
+Additionally, it is likely that the launch of CoolYo will include significant advertising
+expenses which will be included here, probably within distribution costs which have
+increased by 46% on 20X4.  Both this and the website costs are likely to be higher in
+this initial year as Bartlett seeks to establish CoolYo as a product.
+The introduction of online sales will lead to increased delivery costs going forward as
+Bartlett now sell goods directly to the public. This will be an ongoing expense, and
+Bartlett  are  likely  to  incur  further  costs  in  relation  to  this  as  fuel  prices  rise  and
+additional vehicles are required.
+
+Position
+The  current  and  quick  ratios  are  both  comparable  with  the  prior  year.  However,
+inventory, receivables and payables have all increased significantly during the year,
+while the cash balance has fallen.
+Inventory
+The increase in inventory days is a concern, mainly because Bartlett sells goods which
+are perishable and therefore have a limited shelf life.
+This increase could signify that there are large amounts of ice cream unsold following
+the protests, which could lead to a large write‐off.
+The increase could also be due to the launch of CoolYo, and Bartlett may be gearing
+up for a big marketing push with the new product and the new online sales.
+Receivables
+The increase in receivable days is surprising.  The introduction of the website means
+that customers will pay up front, which should decrease the receivables days.
+The increase in the balance is therefore likely to be due to tough negotiations with
+the supermarkets, who may have demanded improved credit terms in order to take
+CoolYo.
+Payables
+The  payable  days  have  also  increased.    The  outsourcing  of  production  is  likely  to
+mean  that  Bartlett  is  now  invoiced  for  production  costs  rather  than  paying  staff
+directly.  Therefore there may be a payable in 20X5 that did not exist in 20X4.
+The rise in payable days may also be linked to the low cash balance.  This low balance
+may mean that Bartlett is struggling to pay its suppliers, which could be a serious
+cause for concern.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 12 OF 18
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+12
+KAPLAN PUBLISHING
+Cash
+The  decrease  in  cash  is  a  significant  concern,  especially  when  one  considers  that
+Bartlett increased its borrowings by $200,000 this year.  While cash is likely to have
+been  required  for  the  website  and  perhaps  changes  in  production  methods,  it
+appears that Bartlett is not in a strong liquidity position.
+Conclusion
+Bartlett  appears  to  be  going  through  a  difficult  time.  There  has  been  a  significant
+negative impact from the press reports in the year which seem to have damaged the
+operating performance and cash flow.
+Bartlett is attempting to turn this round by launching new products and new routes
+to market.  However, there is a risk that Bartlett does not have sufficient cash to see
+these  ambitious  plans  through,  which  casts  serious  doubt  over  their  ability  to
+continue as a going concern.
+(c)
+Limitations in the use of ratio analysis
+
+Ratios  are  a  tool  to  assist  analysis.    As  such,  they  help  to  focus  attention
+systematically on important areas and summarise information in an understandable
+form and assist in identifying trends and relationships.
+
+However ratios cannot be predictive if they are based on historical information and
+ignore any future action by management.  Asset values shown in the statement of
+financial position at historical cost may bear no resemblance to their current value or
+what it may cost to replace them. This may result in a low depreciation charge and
+overstatement  of  profit  in  real  terms.  As  a  result  of  historical  costs  the  financial
+statements do not show the real cost of using the non‐current assets.  Ratios based
+on historical cost accounts do not give a true picture of trends from year to year. An
+apparent increase in profit may not be a true increase, and may simply reflect the
+effects of inflation.
+
+They  can  be  manipulated  by  window  dressing  or  creative  accounting.    Window
+dressing is a method of carrying out transactions in order to improve the position
+shown  by  the  financial  statements  at  the  year‐end.    This  could  include  deferring
+payment  to  suppliers  in  order  to  enhance  the  cash  position.    Creative  accounting
+refers  to  the  accounting  practices  that  are  designed  to  mislead  the  user’s  view  of
+underlying economic performance. Typically creative accounting is used to increase
+profits,  inflate  asset  values  or  understate  liabilities.    In  the  past  companies  could
+smooth  profits  to  maintain  a  steady  upward  trend  by  making  use  of  general
+provisions, but this is no longer allowed under IAS 37.
+
+They  may  be  distorted  by  differences  in  accounting  policies.    Choice  of  different
+accounting policies may make comparison between entities difficult, for example if
+one uses the cost model and another the revaluation model for property.
+
+The  statement  of  financial  position  may  not  be  representative  of  the  financial
+position throughout the year.  For example a large purchase of non‐current assets
+just before the year‐end, funded by debt finance, would have a significant impact on
+ratios such as asset turnover, return on capital employed and gearing, and not show
+an  accurate  representation  of  the  performance  during  the  year.    This  can  be
+exacerbated by seasonal trading. For example, if an entity has their year‐end after a
+particularly busy period then working capital levels would be lower, and may make
+the company appear more solvent than during the busy period.
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 13 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+ 13
+Marking scheme
+
+Marks
+(a) One mark per ratio
+
+4
+(b) One mark per relevant comment, ½ mark for generic comment
+
+13
+(c) One mark per relevant comment
+
+3
+
+–––
+Total
+
+20
+
+–––
+32
+PACKER AND SCOTT
+
+Key answer tips
+Remembering to time‐apportion the figures in the statement of profit or loss is vital here,
+otherwise this can cost quite a lot of marks.
+Forgetting to time‐apportion the post‐acquisition depreciation or the intra‐group sales is a
+very  common  mistake.    Items  such  as  share  exchange  and  fair  value  adjustments  are
+extremely common and should be areas to score well on.
+(a)
+Extract  from  Packer  consolidated  statement  of  profit  or  loss  for  the  year  ended
+30 September 20X4
+
+$000
+Revenue
+(385,200 + (234,900 × 5/12) – 20,000 (W6))
+
+463,075
+Cost of sales (W7)
+(225,725)
+
+Administrative expenses
+(104,500 + (67,800 × 5/12) + 1,000 (impairment))
+
+(133,750)
+
+Investment income
+(1,200 + 2,000 (W5))
+
+3,200
+(b)
+Statement of financial position for Packer as at 30 September 20X4
+
+$000
+Non‐current assets
+
+Goodwill (W3)
+226,225
+Property, plant & equipment
+(543,000 + 312,000 + 60,000 (W2) – 625 (W2))
+
+914,375
+Investments
+(142,000 – 45,000 (loan notes W3) + 2,000 (W5))
+
+99,000
+
+–––––––––
+
+1,239,600
+Current assets
+(213,000 + 132,000 – 1,200 (W2) – 6,000 (inter‐co))
+
+337,800
+
+–––––––––
+
+1,577,400
+
+–––––––––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 14 OF 18
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+14
+KAPLAN PUBLISHING
+Equity
+
+Share capital (480,000 + 120,000 (W3))
+600,000
+Share premium (W3)
+468,000
+Group retained earnings (W5)
+171,060
+Non‐controlling interest (W4)
+57,140
+
+–––––––––
+
+1,296,200
+Non‐current liabilities
+
+Loan notes
+(160,000 + 5,000)
+
+165,000
+Current liabilities
+(99,200 + 23,000 – 6,000 (inter‐co))
+
+116,200
+
+–––––––––
+
+1,577,400
+
+–––––––––
+Workings
+(W1)  Group structure
+Packer
+
+Scott
+(W2)  Net Assets
+
+At
+acquisition
+At reporting
+date
+Post‐
+acquisition
+
+$000
+$000
+$000
+Share capital
+200,000
+200,000
+
+Retained earnings (See tutorial note)
+216,000 – (34,140 × 5/12)
+201,775
+216,000
+14,225
+Fair value adjustment
+60,000
+60,000
+
+Fair value depreciation
+(60,000/40 years) × 5/12
+
+(625)
+
+(625)
+PUP 6,000 × 20%
+
+(1,200)
+(1,200)
+
+–––––––
+–––––––
+–––––––
+
+461,775
+474,175
+12,400
+
+–––––––
+(W3)
+–––––––
+–––––––
+(W4/W5)
+
+90%
+1 May 20X4
+5 months ago
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 15 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+ 15
+
+Tutorial note – Retained earnings at acquisition
+As  Scott  was  acquired  during  the  year,  the  retained  earnings  at  acquisition  need  to  be
+calculated. Scott has been owned for 5 months, so the post‐acquisition retained earnings
+can  be  calculated  by  taking  5  months  of  Scott’s  profit  for  the  year  (5/12  ×  $34,140  =
+$14,225). Once the post‐acquisition retained earnings have been calculated, the retained
+earnings at acquisition can also be found, by deducting post‐acquisition earnings from the
+retained earnings at the reporting date.
+Retained earnings at acquisition = $216,000 – $14,225 = $201,775
+ (W3) Goodwill
+
+$000
+Cost of investment (P’s holding):
+Share exchange 200,000 x 90% x 2/3 x $4.90
+(See tutorial note below)
+Loan notes (200,000 × 90% × $100/400)
+
+588,000
+
+45,000
+Fair value of non‐controlling interest (200,000 × 10% × $2.80)
+56,000
+
+––––––
+
+689,000
+Net assets at acquisition (W2)
+(461,775)
+
+––––––
+Goodwill on acquisition
+227,225
+Impairment
+(1,000)
+
+––––––
+Carrying amount
+226,225
+
+––––––
+
+Tutorial Note – Share Exchange
+Packer issued 120 million shares through the share exchange:
+(200 million shares in issue × 90% acquired × 2/3).
+120 million × $4.90 = $588 million to record as the cost of investment within the goodwill
+working.  The opposite side of the double entry should be recorded in share capital and
+share premium of the parent company as:
+Share capital – 120 million × $1 = $120 million
+Share premium – 120 million × $3.90 = $468 million (or balancing figure: $588m – $120m)
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 16 OF 18
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+16
+KAPLAN PUBLISHING
+(W4)  Non‐controlling interest (Statement of financial position)
+
+$000
+Fair value of non‐controlling interest at acquisition (W3)
+56,000
+Share of post‐acquisition reserves
+(10% × 12,400 (W2))
+
+1,240
+Share of impairment
+(10% x 1,000)
+
+(100)
+
+––––––
+
+57,140
+
+––––––
+(W5)  Group retained earnings
+
+$000
+Packer 100%
+158,800
+Scott post‐acquisition
+(90% × 12,400 (W2))
+11,160
+Impairment – group share
+(90% × 1,000)
+(900)
+Fair Value Investment gain (99,000 – 97,000)
+2,000
+
+––––––
+
+171,060
+
+––––––
+(W6)  Intra‐group sales
+
+$000
+Post‐acquisition = 5 months
+
+Annual sales = $48m
+
+Intra‐group sales = $48m x 5/12
+20,000
+
+––––––
+(W7)  Cost of sales
+
+$000
+Packer
+212,000
+Scott: 76,560 × 5/12
+31,900
+Intra‐group (W6)
+(20,000)
+Fair value depreciation (W2)
+625
+PUP (W2)
+1,200
+
+–––––––
+
+225,725
+
+–––––––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 17 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+ 17
+ACCA marking scheme
+
+Marks
+(a)
+Consolidated statement of profit or loss
+
+(Each adjustment worth ½ unless stated otherwise)
+
+Revenue (addition, intercompany)
+1
+Cost of sales (addition, intercompany, FV, PUP)
+2
+Admin expenses (addition, impairment)
+½
+Investment income (Parent, FV movement)
+½
+
+––––
+
+4
+(b)
+Consolidated statement of financial position
+
+Goodwill (share ½, loan notes ½, NCI ½, net assets 1½, impairment ½)
+3½
+PPE (addition, FV, depn)
+1½
+Investment
+1
+Current assets (addition, PUP, intercompany)
+1½
+Share capital
+1
+Share premium
+½
+Retained earnings (P ½, 90% ½, sub’s profit 1, impairment ½, FV gain ½)
+3
+NCI (acq ½, 10% ½, sub’s profit 1, impairment ½)
+2½
+Non‐current liabilities
+½
+Current liabilities (addition, intercompany)
+1
+
+––––
+
+16
+
+––––
+Total
+20
+
+––––
+
+==============================================================================
+FR ANSWER PAPER — SOURCE PDF PAGE 18 OF 18
+==============================================================================
+ACCA FR: FINANCIAL REPORTING
+18
+KAPLAN PUBLISHING

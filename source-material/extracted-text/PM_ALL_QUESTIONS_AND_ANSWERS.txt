@@ -1,0 +1,5992 @@
+PM STUDENT PRACTICE BANK
+==============================================================================
+
+
+##############################################################################
+PM Mock B - Questions S21.pdf
+##############################################################################
+PM — PERFORMANCE MANAGEMENT
+SOURCE: PM Mock B - Questions S21.pdf
+PAGES: 16
+
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 1 OF 16
+==============================================================================
+ACCA MOCK B
+Performance
+Management
+September 2021
+Time allowed: 3 hours 15 minutes
+Section A –  ALL  15  questions  are  compulsory  and  MUST  be
+attempted
+Section B –  ALL  15  questions  are  compulsory  and  MUST  be
+attempted
+Section C –  Both  questions  are  compulsory  and  MUST  be
+attempted
+Do not open this paper until instructed by the supervisor
+This question paper must not be removed from the
+examination hall
+Please note that the real exam is a computer based exam.
+Therefore, the questions in this paper version reflect the
+question formats of a computer based exam.
+Kaplan Publishing/Kaplan Financial
+PM
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 2 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+2
+KAPLAN PUBLISHING
+© Kaplan Financial Limited, 2021
+The text in this material and any others made available by any Kaplan Group company does not
+amount to advice on a particular matter and should not be taken as such. No reliance should be
+placed on the content as the basis for any investment or other decision or in connection with any
+advice given to third parties. Please consult your appropriate professional adviser as necessary.
+Kaplan Publishing Limited and all other Kaplan group companies expressly disclaim all liability to
+any  person  in  respect  of  any  losses  or  other  claims,  whether  direct,  indirect,  incidental,
+consequential or otherwise arising in relation to the use of such materials.
+All rights reserved. No part of this examination may be reproduced or transmitted in any form or
+by any means, electronic or mechanical, including photocopying, recording, or by any information
+storage and retrieval system, without prior permission from Kaplan Publishing.
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 3 OF 16
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+3
+FORMULAE
+Learning curve
+Y = axb
+Where  y
+= cumulative average time per unit to produce x units
+
+a
+= Time taken for the first unit of output
+
+x
+= The cumulative number of units produced
+
+b
+= The index of learning (log LR/log 2)
+
+LR
+= the learning rate as a decimal
+Demand curve
+P = a − bQ
+b =
+quantity
+in
+Change
+price
+in
+Change
+
+a = price when Q = 0
+MR = a – 2bQ
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 4 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+4
+KAPLAN PUBLISHING
+SECTION A
+ALL 15 questions are compulsory and MUST be attempted
+Each question is worth 2 marks
+1
+The following is relevant for a production process for the January 2016 period:
+Direct material costs
+$12,000
+Direct labour costs
+$5,000
+Overheads
+$3,000
+Total costs
+$20,000
+The process produces joint products ‘A’ and ‘B’, which are then sold at $3.00 for an ‘A’ and
+$4.00 for a ‘B’. In January 2016, all units produced were sold, i.e. 3,000 units of ‘A’ and
+9,000 units of ‘B’.
+What was the cost of sales for Product ‘B’ for the January 2016 period, assuming joint
+costs are apportioned by market value?
+A
+$4,000
+B
+$5,000
+C
+$15,000
+D
+$16,000
+2
+Company B uses a throughput accounting system.  The details of product X per unit are as
+follows:
+Selling price
+$50
+Material cost
+$20
+Conversion costs
+$20
+
+Time on bottleneck resource
+8 minutes
+What is the return per hour for product X?
+A
+$105
+B
+$225
+C
+$255
+D
+$375
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 5 OF 16
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+5
+3
+The following are types of management accounting techniques:
+(i)
+Flow cost accounting
+(ii)
+Throughput accounting
+(iii)
+Input/output analysis
+(iv)
+Activity‐based costing
+Which  of  the  above  techniques  could  be  used  by  a  company  to  account  for  its
+environmental costs?
+A
+(i) only
+B
+(i) and (ii) only
+C
+(i), (iii) and (iv) only
+D
+(i), (ii) and (iii) only
+4
+A company knows that for every $10 they increase the price of their product by, demand
+falls by 20 units. Currently, the company is selling 1,000 units at a price of $200 each. The
+variable cost of production is $140 per unit.
+What is the selling price that will maximise profit?
+A
+$410
+B
+$420
+C
+$430
+D
+$440
+5
+Artemis  Ltd  makes  and  sells  a  single  product.  Details  for  the  month  of  April  are  that  it
+planned to sell 1,000 units at a unit price of $200 which would give a contribution to sales
+ratio of 30%.
+Actual sales were 1,100 units at a selling price of $190. The actual contribution to sales ratio
+was 25%.
+What is the sales volume contribution variance (to the nearest $1)?
+A
+$11,000 (A)
+B
+$6,000 (A)
+C
+$6,000 (F)
+D
+$11,000 (F)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 6 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+6
+KAPLAN PUBLISHING
+6
+The following statements have been made in relation to activity‐based costing:
+(1)
+ABC is most useful where production overheads are high relative to direct costs.
+(2)
+ABC is especially useful where there is considerable diversity of overhead resource
+input to products.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Neither (1) nor (2)
+D
+Both (1) and (2)
+7
+The following statements have been made about the Building Block Model as proposed by
+Fitzgerald and Moon:
+(1)
+Its determinants include quality, innovation, flexibility and resource utilisation.
+(2)
+Its  standards  for  performance  measurement  systems  are  ownership,  achievability,
+and equity.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Neither (1) nor (2)
+D
+Both (1) and (2)
+8
+Division C has the following financial performance:
+Operating profit
+$40,000
+Total assets
+$150,000
+Cost of borrowing
+10%
+Which ONE of the following statements is true?
+A
+The  manager  of  Division  C  will  accept  a  new  possible  investment  costing  $10,000
+which would earn a profit of $2,000 if evaluation is on the basis of the Return On
+Investment.
+B
+The  manager  of  Division  C  will  accept  a  new  possible  investment  costing  $10,000
+which  would  earn  a  profit  of  $2,000  if  evaluation  is  on  the  basis  of  the  Residual
+income.
+C
+The  manager  of  Division  C  will  always  accept  a  new  possible  investment  costing
+$10,000 which would earn a profit of $2,000, regardless of the evaluation basis.
+D
+The  manager  of  Division  C  will  never  accept  a  new  possible  investment  costing
+$10,000 which would earn a profit of $2,000, regardless of the evaluation basis.
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 7 OF 16
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+7
+9
+The following statements have been made about target costing:
+(1)
+It  is  a  method  not  well  suited  for  service  businesses  where  most  of  the  costs  are
+fixed.
+(2)
+It is a costing method that ensures that new product R&D costs are recovered in the
+target price for the product.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Neither (1) nor (2)
+D
+Both (1) and (2)
+10
+The following statements have been made about variances:
+(1)
+Favourable variances are always good for an organisation.
+(2)
+Variance reporting is the comparison of actual results with the original budget.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Neither (1) nor (2)
+D
+Both (1) and (2)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 8 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+8
+KAPLAN PUBLISHING
+11
+The following decision tree has correctly been drawn for Mr Angelo, who is contemplating
+opening a new ice cream parlour in Central London, but has to decide on its size:
+
+Which of the following restaurant sizes should be chosen, based on the expected values
+of the payoffs?
+A
+Small parlour
+B
+Medium parlour
+C
+Large parlour
+D
+Cannot be determined without more information
+12
+The following statements have been made about management control reports:
+(1)
+Reports should not include information about uncontrollable items.
+(2)
+Only encryption can be used to ensure the security of highly confidential information.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Both (1) and (2)
+D
+Neither (1) nor (2)
+Small
+parlour
+Medium parlour
+Large
+parlour
+100 customers
+per hour
+0.2
+80 customers
+per hour
+120 customers
+per hour
+0.4
+0.4
+100 customers
+per hour
+0.2
+80 customers
+per hour
+120 customers
+per hour
+0.4
+0.4
+100 customers
+per hour
+0.2
+80 customers
+per hour
+120 customers
+per hour
+0.4
+0.4
+Payoffs
+$10,000
+$14,000
+$15,000
+$8,000
+$12,000
+$18,000
+$6,000
+$21,000
+$16,000
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 9 OF 16
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+9
+13
+A company has budgeted sales revenue of $500,000 for January 2015, with an associated
+contribution  of  $275,000.  Fixed  production  costs  are  $137,500,  and  fixed  selling  costs
+amount to $27,500.
+What is the breakeven sales revenue?
+A
+$165,000
+B
+$250,000
+C
+$300,000
+D
+$366,667
+14
+The following statements have been made about the variances in JIT/TQM environments:
+(1)
+JIT  and  TQM  environments  limit  the  value  of  variance  analysis,  because  price
+variations are only one component of total cost.
+(2)
+JIT  and  TQM  environments  limit  the  value  of  variance  analysis,  because  variances
+emphasise  the  benefits  of  following  standard  work  instructions,  rather  than
+encouraging employees to adopt an innovative approach.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Both (1) and (2)
+D
+Neither (1) nor (2)
+15
+A government is looking at assessing state schools by reference to a range of both financial
+and non‐financial factors, one of which is average class sizes.
+Which of the three E’s best describes the above measure?
+A
+Economy
+B
+Effectiveness
+C
+Efficiency
+D
+Externality
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 10 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+10
+KAPLAN PUBLISHING
+SECTION B
+All 15 questions are compulsory and MUST be attempted.
+Each question is worth 2 marks.
+The following scenario relates to questions 16–20
+Anderson Ltd has a single production process for which the following costs have been estimated
+for the period ending 31 December 2015:
+Material receipt and inspection cost: $15,600
+Power cost: $19,500
+Material handling cost $13,650
+Three  products  X,  Y  and  Z  are  produced  by  workers  who  perform  a  number  of  operations  on
+material blanks using hand held electrically powered drills. The workers have a wage rate of $9
+per hour.
+The following budgeted information has been obtained for the period ending 31 December 2015:
+
+Product X
+Product Y
+Product Z
+Production quantity (units)
+2,000
+1,500
+800
+Batches of material
+10
+5
+16
+Direct material per unit, in m2
+4m2
+6m2
+3m2
+Direct material per unit, in $
+$5
+$3
+$6
+Direct labour, in minutes
+24
+40
+60
+Number of power drill operations per unit
+6
+3
+2
+Overhead  costs  for  material  receipt  and  inspection,  process  power  and  material  handling  are
+presently each absorbed by product units using rates per direct labour hour. An activity based
+costing investigation has revealed that the cost drivers for the overhead costs are as follows:
+
+Material receipt and inspection: number of batches of material.
+
+Process power: number of power drill operations.
+
+Material handling: quantity of material (sq. metres) handled.
+16
+Using the existing method for the absorption of overhead costs, what is the budgeted
+product cost per unit for product X?
+A
+$7.50
+B
+$12.50
+C
+$16.10
+D
+$18.00
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 11 OF 16
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+11
+17
+Using an activity‐based costing (ABC) method for the absorption of overhead costs, what
+is the budgeted product cost per unit for product X?
+A
+$8.56
+B
+$16.10
+C
+$18.12
+D
+$20.40
+18
+The following statements have been made regarding the use of ABC in Anderson Ltd:
+(1)
+With ABC, pricing in Anderson Ltd can be based on more realistic data.
+(2)
+With ABC, decision‐making in Anderson Ltd will be improved.
+(3)
+With ABC, performance management in Anderson Ltd will be improved.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(1) and (3) only
+C
+All statements are correct
+D
+No statements are correct
+19
+Which of the following statements about ABC are correct?
+(1)
+ABC can only be applied to production overheads.
+(2)
+ABC  provides  a  more  accurate  cost  per  unit,  and  as  a  result  pricing  should  be
+improved.
+(3)
+ABC  recognises  that  overhead  costs  are  not  all  related  to  production  and  sales
+volume.
+(4)
+ABC will be of limited benefit if the overhead costs are primarily volume related, or if
+the overheads represent a small proportion of the overall cost.
+A
+(1) and (2)
+B
+(1) and (4)
+C
+(2), (3) and (4)
+D
+(1), (2), (3) and (4)
+20
+Which TWO of the following statements about ABC are correct?
+(1)
+ABC can only be used to analyse the past, not to make decisions about the future.
+(2)
+The benefits of ABC will always outweigh the costs of implementing the system.
+(3)
+ABC can be used within both service and manufacturing industries.
+(4)
+ABC  is  of  less  benefit  if  the  majority  of  the  costs  suffered  by  an  organisation  are
+variable costs.
+A
+(1) and (2)
+B
+(1) and (4)
+C
+(2) and (3)
+D
+(3) and (4)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 12 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+12
+KAPLAN PUBLISHING
+The following scenario relates to questions 21–25
+Product ‘Hale’ is a highly perishable commodity which can be sold on the retail market for $20 per
+case or for animal food at $1 per case. ‘Hale’ costs $10 per case from the wholesale market and is
+only suitable for sale at the retail market for up to 24 hours after purchase. Orders for ‘Hale’ must
+be placed in advance each day.
+Rebecca, a market stall owner, has kept the following records of sales of the ‘Hale’ over the past
+50 days:
+Daily sales
+Days sold
+10 units
+15
+20 units
+25
+30 units
+10
+The following summary payoff table has been correctly drawn:
+
+Supply of cases
+
+Probability
+10 cases
+20 cases
+30 cases
+Daily demand
+
+10 cases
+0.3
+$100
+$10
+($80)
+20 cases
+0.5
+$100
+$200
+$110
+30 cases
+0.2
+$100
+$200
+$300
+
+21
+How  many  cases  should  Rebecca  supply  if  she  uses  the  expected  value  criteria  as  a
+decision rule?
+A
+10 cases
+B
+15 cases
+C
+20 cases
+D
+30 cases
+22
+How many cases should Rebecca supply if she uses the maximin decision rule?
+A
+10 cases
+B
+15 cases
+C
+20 cases
+D
+30 cases
+23
+How many cases should Rebecca supply if she uses the maximax decision rule?
+A
+10 cases
+B
+15 cases
+C
+20 cases
+D
+30 cases
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 13 OF 16
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+13
+24
+How many cases should Rebecca supply if she uses the minimax regret decision rule?
+A
+10 cases
+B
+15 cases
+C
+20 cases
+D
+30 cases
+25
+The  following  statements  have  been  made  regarding  the  use  of  expected  values  in
+decision making:
+(1)
+The expected value may not be a possible outcome.
+(2)
+The expected value is an average value that may not be useful for a one off project.
+(3)
+With expected values, the spread of possible outcomes (i.e. the risk) is not shown.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(1) and (3) only
+C
+All statements are correct
+D
+No statements are correct
+The following scenario relates to questions 26–30
+Company A has just completed the first three months of producing Product Z, and is considering
+performing some labour variance analysis.  The standard cost per Z for labour (@$5/hour) is $200.
+26
+Which of the following sentences about labour variance analysis are true?
+(1)
+Costs  are  not  a  factor  to  consider  when  deciding  whether  a  variance  should  be
+investigated.
+(2)
+All labour variances should be investigated.
+(3)
+Implementing a Just in Time system will affect the labour efficiency variance.
+(4)
+Reliability of figures is a factor to consider when deciding whether a variance should
+be investigated.
+A
+(1), (2) and (3)
+B
+(1) and (4)
+C
+(2) and (4)
+D
+(3) and (4)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 14 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+14
+KAPLAN PUBLISHING
+27
+The following data is available for the first month of production:
+Actual hours worked: 400
+Number of units made: 200
+The standard cost per hour was set without considering the 90% learning curve rate.
+What is the planning variance to the nearest $?
+A
+$4,425 F
+B
+$4,425 A
+C
+$22,125 F
+D
+$22,125 A
+28
+The company is analysing the data for month 3. The 90% learning curve arose only for the
+first 400 units and in month 3, when a steady state is then achieved. When units 401–650
+were produced, each unit took the same amount of time as the 400th unit.
+How long did it take to produce units 401 to 650?
+A
+3,412.50 hours.
+B
+6,422.65 hours
+C
+6,435.50 hours
+D
+7,218.22 hours
+29
+When units 401–650 were produced in month 3, the company paid for 5,250 hours and the
+work force worked 4,500 hours. The company had expected 1,050 hours of idle time for
+Month 3.
+What was the idle time variance to the nearest $?
+A
+$0
+B
+$1,500 A
+C
+$1,500 F
+D
+$4,500 A
+The management of Company A are uncertain as to the benefit of calculating planning and
+operational variances.
+30
+Which TWO of the following statements are correct?
+(1)
+Planning variances are of more use in a changing industry.
+(2)
+Planning  variances  will  not  result  in  managers  changing  the  assumptions  in  future
+budgets.
+(3)
+Standard  costing  is  less  suited  to  organisations  that  produce  non‐homogenous
+products or where the level of human intervention is high.
+(4)
+Planning variances do not need to be investigated.
+A
+(1) and (3)
+B
+(1) and (2)
+C
+(2) and (4)
+D
+(3) and (4)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 15 OF 16
+==============================================================================
+MOCK B QUESTIONS
+KAPLAN PUBLISHING
+15
+SECTION C
+Both questions are compulsory and MUST be attempted
+31
+Paint  Mixers Inc  manufactures and sells a range of paints, including a high  performance
+green paint that will attach to any surface without flaking or peeling.
+The purchasing manager is responsible for buying the three ingredients (blue paint, yellow
+paint  and  a  specialist  bonding  agent)  that  are  used  to  make  green  paint  whilst  the
+production  manager  is  responsible  for  mixing  the  paints  and  the  volume  and  quality  of
+green paint that is produced. Both the purchasing manager and the production manager
+joined the company on January 1st in the current year.
+The standard ingredients of the green paint mix are as follows:
+2 litres blue paint @ $2.5 per litre = $5.00
+7 litres yellow paint @ $3.0 per litre = $21.00
+1 litre bonding agent @ $10.0 per litre = $10.00
+Total cost to produce 9 litres of green paint = $36.00
+Standard cost of one litre of green paint = $4.00
+The Managing Director wishes to compare the performance of the purchasing manager and
+the production manager during their first three months at the company. The Sales Director
+has commented that sales are significantly up and appear to be on a rising trend, customers
+being very happy with the quality of the paint they have purchased in the first quarter of
+the year.
+The Finance Director has produced the table below showing the variance results for the
+first three months of the year.
+
+January
+February
+March
+Material Price variance
+$3,000 (A)
+$2,000 (A)
+$1,000 (A)
+Material Mix variance
+$2,000 (A)
+$750 (A)
+$100 (F)
+Material Yield variance
+$4,000 (A)
+$2,000 (A)
+$50 (F)
+Total variance
+$9,000 (A)
+$4,750 (A)
+$850 (A)
+Production  activity  levels  throughout  the  period  varied  little  and  the  standard  monthly
+material total cost was approximately $20,000.
+Required:
+(a)
+Compare the performance of the purchasing manager and the production manager
+taking  into  account  the  cost  variance  results  and  the  comments  of  the  Sales
+Director.
+(11 marks)
+(b)
+The  Finance  Director  has  provided  the  following  data  in  relation  to
+April’s production of 5,000 litres of green paint.
+1000 litres blue paint @ $2.6 per litre
+= $2,600
+4000 litres yellow paint @ $3.1 per litre  = $12,400
+500 litres bonding agent @ $9.9 per litre  = $4,950
+5500 litres
+= $19,950
+Calculate the material price, mix and yield variances for the month of April.
+
+(9 marks)
+(Total: 20 marks)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 16 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+16
+KAPLAN PUBLISHING
+32
+The  following  information  relates  to  Success  Services  Co,  a  provider  of  productivity‐
+improving software to small and medium sized businesses.
+The company was founded by and is wholly owned by David Speed.  David Speed was MD
+of the business until the end of last year, when he handed over control to his son, Michael
+Speed. Michael has an MBA and at the start of the current year introduced a number of
+initiatives aimed at giving greater authority and incentives to middle management.
+You have been provided with financial information relating to the company in Appendix 1.
+In Appendix 2 you have been provided with non‐financial information which is based on the
+balanced scorecard format.
+Appendix 1: Financial information
+
+Current year
+Previous year
+Turnover ($000)
+4,900
+3,400
+Net profit
+987
+850
+Interest cover
+3 times
+5 times
+Average trade receivables days (industry average 40 days)
+42
+30
+Appendix 2: Balanced Scorecard (extract)
+Customer perspective
+Current year
+Previous year
+Number of customers
+910
+620
+% of sales from new software products
+24%
+15%
+% on time installation of software products
+47%
+65%
+Average value of software sales
+4,180
+5,300
+% customers who complained
+4.5%
+1.5%
+
+Internal perspective
+Current year
+Previous year
+% of tenders for new business won
+38%
+24%
+Average number of bugs per 1,000 lines of code
+64
+48
+Average annual number of lines of code written
+by each programmer
+4,800
+4,200
+
+Learning and growth perspective
+Current year
+Previous year
+%age  of  staff  who  have  completed  a  software
+development course
+10%
+18%
+Employee retention rate
+75%
+90%
+Number of new software products launched
+2
+0
+Required:
+(a)
+Using the information in Appendix 1 only, assess the financial performance of the
+company  (briefly  consider  growth,  profitability,  gearing  and  credit  management)
+and  provide  a  concluding  comment  on  the  overall  performance  of  the  business.
+
+(10 marks)
+(b)
+Using the data from Appendix 2 assess the performance of the business. Include
+separate comments on the three perspectives, customer, internal and learning and
+growth,  and  provide  a  concluding  comment  on  the  overall  performance  of  the
+business.
+(10 marks)
+(Total: 20 marks)
+
+
+##############################################################################
+MARKING GUIDE: PM Mock B - Answers S21.pdf
+##############################################################################
+PM — ANSWER / MARKING GUIDE
+SOURCE: PM Mock B - Answers S21.pdf
+PAGES: 16
+
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 1 OF 16
+==============================================================================
+ACCA
+PM
+Performance Management
+September 2021
+Mock B – Answers
+To  gain  maximum  benefit,  do  not  refer  to  these  answers
+until  you  have  completed  the  mock  B  questions  and
+submitted them for marking.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 2 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+2
+KAPLAN PUBLISHING
+© Kaplan Financial Limited, 2021
+The text in this material and any others made available by any Kaplan Group company does not
+amount to advice on a particular matter and should not be taken as such. No reliance should be
+placed on the content as the basis for any investment or other decision or in connection with any
+advice given to third parties. Please consult your appropriate professional adviser as necessary.
+Kaplan Publishing Limited and all other Kaplan group companies expressly disclaim all liability to
+any  person  in  respect  of  any  losses  or  other  claims,  whether  direct,  indirect,  incidental,
+consequential or otherwise arising in relation to the use of such materials.
+All rights reserved. No part of this examination may be reproduced or transmitted in any form or
+by any means, electronic or mechanical, including photocopying, recording, or by any information
+storage and retrieval system, without prior permission from Kaplan Publishing.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 3 OF 16
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+3
+SECTION A
+1
+D
+The market values of products A and B are:
+A
+B
+Total
+Units of output
+3,000
+9,000
+12,000
+Price per unit
+$3.00
+$4.00
+Market value
+$9,000
+$36,000
+$45,000
+Percentage of costs  $9,000 / $45,000 = 20%  $9,000 / $45,000 = 80%
+
+On that basis, we can split the listed costs as follows:
+
+A
+B
+Direct material costs
+$2,400
+$9,600
+Direct labour costs
+$1,000
+$4,000
+Overheads
+$600
+$2,400
+Total
+$4,000
+$16,000
+2
+B
+Return per minute
+=
+resource
+
+bottleneck
+
+on
+
+Time
+cost
+
+material
+ –
+price
+
+Selling
+
+=
+8
+20
+50 
+
+=
+$3.75
+Return per hour
+=
+$3.75 × 60 = $225
+3
+C
+Throughput accounting is not one of the four techniques of Environmental Management
+Accounting.
+4
+B
+Profit is maximised where Marginal Cost = Marginal Revenue.
+Need demand function: P = a – bQ; where b =
+∆୔
+∆୕; hence 10/–20 = 0.5
+P = a – 0.5Q
+200 = a – 0.5* 1,000
+700 = a
+Therefore, P = 700 – 0.5Q
+Therefore, MR = 700 – Q
+Profit maximisation, MC = MR; 140 = 700 – Q, therefore Q = 560 units.
+Substitute Q of 560 into P = 700 – 0.5Q; P = 700 – 0.5* 560
+Hence, P = $420.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 4 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+4
+KAPLAN PUBLISHING
+5
+C
+Sales volume contribution variance:
+
+Units
+Budgeted sales
+1,000
+Actual sales
+1,100
+
+––––––
+
+100 F
+× Standard contribution per unit
+× 60 Note
+
+––––––
+
+$6,000 F
+
+––––––
+Note: Standard contribution per unit = 30% × 200 = $60.
+6
+D
+Both statements are correct. The greater the level of production overheads, the more ABC
+will  provide  information  than  traditional  costing  which  assumes  that  overhead  costs  are
+driven  by  volume.  One  of  the  strengths  of  ABC  is  its  ability  to  separate  the  different
+overhead resource inputs into different categories to better reflect a product’s use.
+7
+D
+8
+B
+Current ROI is ($40,000/$150,000) × 100% = 26.7%
+If  the  investment  is  accepted,  the  revised  ROI  is  ($42,000/$160,000)  ×  100%  =  26.3%,
+i.e. lower than at present, and the project will be rejected.
+Current RI is $40,000 – (10% × 150,000) = $25,000
+Revised  RI  is  $42,000  –  (10%  ×  160,000)  =  $26,000,  i.e.  higher  than  at  present,  and  the
+project will be accepted.
+
+Tutorial note
+Note that this is a classic example of the ROI giving the wrong conclusion because a project
+that was worthwhile (as far as the company was concerned) is rejected, since it reduces the
+current division’s ROI.
+9
+A
+Only  statement  (1)  is  true.  For  services  with  an  important  amount  of  fixed  costs,
+ABC methods  of  cost  control  are  more  suited  than  target  costing.  Statement  (2)  is  not
+correct: recovery of product R&D costs is more a concern of the lifecycle costing technique.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 5 OF 16
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+5
+10
+C
+Both statements are incorrect. Favourable variances may not always be good. For example,
+a favourable materials variance might be achieved by buying poorer quality material, which
+means that the labour force have to spend much longer working on the material, leading to
+an adverse labour variance.
+Variance reporting is the reporting of the differences between the actual results and the
+flexed budget, not the original budget.
+11
+C
+
+12
+D
+Neither  statement  is  true.  Uncontrollable  information  can  still  be  reported.  Other
+procedures, such as firewalls and passwords, can be used to ensure the security of highly
+confidential information.
+13
+C
+Total fixed costs amount to  $137,500 + $27,500   = $165,000.
+C/S ratio = $275,000/$500,000
+= 0.55
+Breakeven sales revenue
+= fixed costs/C/S ratio
+
+= $165,000/0.55
+
+= $300,000
+
+Small
+parlour
+Medium parlour
+Large
+parlour
+A
+B
+C
+EV(A) = 0.4 × $10,000 + 0.2 × $15,000 + 0.4 × $14,000
+EV(A) = $12,600
+EV(B) = 0.4 × $8,000 + 0.2 × $18,000 + 0.4 × $12,000
+EV(B) = $11,600
+EV(C) = 0.4 × $6,000 + 0.2 × $16,000 + 0.4 × $21,000
+EV(A) = $14,000
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 6 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+6
+KAPLAN PUBLISHING
+14
+C
+15
+C
+Class sizes are the result of the number of pupils educated (output), the number of teachers
+employed (input), and how well the timetable is organised in using those teachers.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 7 OF 16
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+7
+SECTION B
+16
+C
+The existing overhead absorption rate is:
+60/60)
+
+(800
+
+40/60)
+
+(1,500
+
+24/60)
+
+(2,000
+$13,650
+
+$19,500
+
+$15,600
+
+
+
+
+
+
+
+=
+hours
+
+2,600
+$48,750
+
+So at present, OAR = $18.75 per hour. Therefore, we can calculate overheads absorbed by
+each product as:
+Product X: OAR $18.75 × (24/60) = $7.50
+Unit cost
+
+Product X
+Direct material
+$5.00
+Direct labour
+$3.60
+Production overhead
+$7.50
+
+$16.10
+17
+D
+Cost driver rates
+Material receipt and inspection =
+16
+5
+10
+
+$15,600
+
+
+= $503.23 per batch.
+Process power =
+)
+(
+)
+,
+(
+)
+,
+(
+
+$19,500
+2
+800
+3
+500
+1
+6
+000
+2
+
+
+
+
+
+= $1.078 per power drill operation.
+Material handling =
+)
+(
+)
+,
+(
+)
+,
+(
+
+$13,650
+3
+800
+6
+500
+1
+4
+000
+2
+
+
+
+
+
+= $0.70 per m2 handled.
+
+Product X
+Direct material
+$5.00
+Direct labour
+$3.60
+Production overhead
+
+Material receipt/inspection (W1)
+$2.52
+Process power (W2)
+$6.48
+Material handling (W3)
+$2.80
+Cost per unit
+$20.40
+Workings
+(W1)  Material receipt/inspection
+Product X 503.23/batch × 10 batches/2,000 units = $2.52/unit
+(W2)  Process power
+Cost/unit
+Product X $1.08/operation × 6 operations = $6.48
+(W3)  Material handling
+Cost/unit
+Product X $0.70/m2 of material × 4m2 = $2.80
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 8 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+8
+KAPLAN PUBLISHING
+18
+C
+All statements are correct.
+ABC will have the following implications for Anderson:
+
+Pricing can be based on more realistic cost data. The cost per unit under ABC has
+increased by 26.7% for product X, whereas the cost per unit has decreased by 15.7%
+for product Y and 13.1% for product Z. The price of the products will be based on this
+more realistic cost and therefore pricing will be improved.
+
+Decision making will be improved. More realistic product costs mean that Anderson
+can  focus  on  the  products  which  give  the  highest  margin  and  may  decide  to  stop
+selling  products  which  give  a  low  or  negative  margin.  Information  on  sales  prices
+would be required in order to calculate these margins.
+
+Performance  management  can  be  improved.  Anderson  will  focus  on  the  most
+profitable products and, as a result, performance should be improved. In addition,
+control should be improved since the more realistic costs will form the basis of the
+budget.
+
+Tutorial note
+Take note, however, that the benefits obtained from ABC may not justify the costs. In some
+situations  ABC  does  not  provide  very  different  information  from  traditional  absorption
+costing. To practice an important past exam question on the subject, we recommend you
+tackle Question 5 from the December 2012 exam, 'Wash Co.' as part of your revision process
+(note however that ABC is no longer tested in Section C questions).
+19
+C
+Statement 1 is not correct. ABC can be applied to all overhead costs, not just production
+overheads.
+20
+D
+Statement (1) is not correct: ABC provides a more accurate cost per unit. As a result, future
+pricing, sales strategy, performance management and decision making should be improved.
+Statement (2) is not correct either; the benefits obtained from ABC might not justify the
+costs.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 9 OF 16
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+9
+21
+C
+On  the  basis  of  maximising  expected  values,  we  have  the  following  expected  values  of
+profits:
+If Rebecca supplies 10 cases, the expected value of profits is (0.3 × $100) + (0.5 × $100) +
+(0.2 × $100) = $100.
+If  Rebecca  supplies  20  cases,  the  expected  value  of  profits  is  (0.3  ×  $10)  +
+(0.5 × $200) + (0.2 × $200) = $143.
+If Rebecca supplies 30 cases, the expected value of profits is (0.3 × ($80)) + (0.5 × $110) +
+(0.2 × $300) = $91.
+Therefore,  Rebecca  will  chose  the  level  of  supply  that  maximises  profits  using  expected
+values, and that is a supply of 20 cases.
+22
+A
+The maximin rule involves selecting the alternative that maximises the minimum pay‐off
+achievable. Rebecca would look at the worst possible outcome at each supply level, then
+select the highest one of these.
+If Rebecca supplies 10 cases, the worst possible outcome is a profit of $100.
+If Rebecca supplies 20 cases, the worst possible outcome is a profit of $10.
+If Rebecca supplies 30 cases, the worst possible outcome is a loss of $(80).
+Rebecca would therefore opt for 10 cases when using the maximin criteria.
+23
+D
+The maximax rule involves selecting the alternative that maximises the maximum pay‐off
+achievable.  Rebecca would look at the best possible outcome at each supply level, then
+select the highest one of these.
+If Rebecca supplies 10 cases, the best possible outcome is a profit of $100.
+If Rebecca supplies 20 cases, the best possible outcome is a profit of $200.
+If Rebecca supplies 30 cases, the best possible outcome is a profit of $300.
+Rebecca would therefore opt for 30 cases when using the maximax criteria.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 10 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+10
+KAPLAN PUBLISHING
+24
+C
+The minimax regret strategy is the one that minimises the maximum regret. Regrets can be
+tabulated as follows:
+
+Supply of cases
+
+10 cases
+20 cases
+30 cases
+Daily demand
+
+10 cases
+$0
+$90
+$180
+20 cases
+$100
+$0
+$90
+30 cases
+$200
+$100
+$0
+Maximum regret
+$200
+$100
+$180
+Rebecca should order 20 cases a day.
+
+Tutorial note
+You must remember how to calculate the values in a regret table. For example, in the first
+row of 10 cases: choosing to supply 10 cases will incur no ‘regret’ from the decision maker,
+who has made the best decision and will ‘lose’ $0.
+If, however, the decision maker chooses to supply 20 cases when the daily demand is only of
+10 cases, the resulting profit will be of $10, as per the question. This profit of $10 occurs
+when a better decision (to supply 10 cases) would have incurred a profit of $100: that is a
+‘regret’ of $90.
+If the decision maker chooses to supply 30 cases when the daily demand is only of 10 cases,
+the resulting loss will be $80, as per the question. This loss of $80 occurs when a better
+decision (to supply 10 cases) would have incurred a profit of $100: that is a ‘regret’ of $180.
+25
+C
+All statements are correct.
+26
+D
+Statement  (1)  is  not  correct.  Cost  is  a  factor  that  should  be  considered  when  deciding
+whether a variance should be investigated. For an investigation to be worthwhile, the cost
+of the investigation must be less than the benefits of correcting the cost of the variance.
+Statement (2) is not correct: a business may decide to only investigate variances above a
+certain amount.
+Statement (3) is correct: Implementing a Just in Time system will affect the labour efficiency
+variance. The consequences of poor efficiency are magnified in a JIT system.
+Statement  (4)  is  correct:  the  system  for  measuring  and  recording  the  figures  may  be
+unreliable. In that case, the variances will be meaningless, and should not be investigated.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 11 OF 16
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+11
+27
+C
+Learning curve:
+Y = 40 × 200–0.1520
+
+= 17.877 hours/unit
+Therefore:
+200 units = 3,575 hours
+new standard
+
+200 × 40 = 8,000 hours
+old standard
+Hence 4,425 hours = planning variance, which at $5 per hour = $22,125 F
+28
+A
+First, we calculate the time taken to produce 400 units.
+Y400 = 40 hours× 400–0.1520
+Y400 = 16.0897 hours on average, or, for all 400 units, 6,435.87 hours in total.
+Then, we calculate the time taken to produce 399 units.
+Y399 = 40 hours × 399–0.1520
+Y399 = 16.0958 hours on average, or, for all 399 units, 6,422.22 hours in total.
+Therefore, to make the 400th unit would have taken 6,435.87 – 6,422.22 = 13.65 minutes.
+To make the next 250 units, we would need 250 × 13.65 minutes = 3,412.50 hours in total.
+29
+C
+Expected idle time:
+5,250 × 0.2 = 1,050
+Actual idle time
+5,250 – 4,500 = 750.
+Hence variance is 300 hours favourable at $5.00 hour = $1,500.
+30
+A
+Statements (2) and (4) are not correct:  Planning variances will result in managers changing
+the  assumptions  in  future  budgets,  and  significant  planning  variances  do  need  to  be
+investigated
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 12 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+12
+KAPLAN PUBLISHING
+SECTION C
+31
+PAINT MIXERS
+(a)
+The purchasing manager was responsible for a series of significant adverse material
+price variances in the first three months of the year which averaged approx 10% of
+the standard monthly spend.
+The adverse variances have steadily declined over the three months (from $3,000 to
+$1,000) and if this level of progress is maintained a favourable variance will arise in
+April.  We  do  not  know  whether  the  adverse  variances  were  the  result  of  poor
+purchasing decisions or the inevitable result of, say, increased commodity prices.
+The steadily improving trend suggests that the purchasing manager is in control of
+the  situation  and  that  he  may  have  inherited  a  purchasing  environment  of  rising
+prices  that  were  not  fully  reflected  in  the  cost  standards.  The  comments  of  the
+Sales Director suggest that the purchasing manager has not sacrificed quality in order
+to achieve this improving position mix of materials used and the yield achieved. His
+performance in the first month was exceptionally poor – the adverse mix and yield
+variances of $6,000 equalled approximately 30% of the standard monthly spend.
+The production manager controls both the mix and the production process and must
+bear responsibility for this initial very poor performance. That said, in month three,
+the  production  manager  has  achieved  modest  favourable  mix  and  yield  variances
+($100 and $50), maintaining the improving trend that started in month two. His very
+poor  initial  performance  may,  in  part,  have  been  the  result  of  an  inadequate
+induction process or could have reflected a conscious attempt to improve the quality
+of the output by increasing the quality of the mix.
+It may also be possible that certain customers requested a different shade of green
+requiring a change in the mix of blue and yellow paint. Whatever the background, the
+very poor yield performance in January suggests that his changes to the mix had very
+unfortunate consequences in terms of productivity.
+Quality
+The managing director will have been concerned in January and February that the
+increasing sales and customer satisfaction levels reported by the sales director may
+have been bought at a high price.
+The comment of the sales director however that sales continue to rise suggests that
+the  new  production  manager  –  after  some  initial  costly  experimentation  –  has
+managed  to  identify  a  new  mix  that  is  both  cost  efficient  and  very  appealing  to
+customers.
+Overall
+There was cause for concern in January and February over the performance of both
+new appointments. The performance of the purchasing manager still continues to be
+of concern but is on an improving trend, which, if maintained, should ensure that
+costs are brought fully under control. The production manager, after a very worrying
+start, appears now to be delivering green paint using a recipe that is both economical
+and popular with customers.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 13 OF 16
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+13
+(b)
+Materials Price variance
+
+Standard
+Actual
+Difference
+Actual
+quantity
+Variance
+Blue paint
+$2.50
+$2.60
+–0.1
+1,000
+100 (A)
+Yellow paint
+$3.00
+$3.10
+–0.1
+4,000
+400 (A)
+Bonding agent
+$10.00
+$9.90
+0.1
+500
+50 (F)
+
+$450 (A)
+Materials Mix Variance
+Standard mix:
+Blue paint 5,500 litres × 0.2 = 1,100 litres
+
+Yellow paint 5,500 litres × 0.7 = 3,850 litres
+
+Bonding agent 5,500 litres × 0.1 = 550 litres
+
+Actual mix
+Difference
+Price per
+litre
+Variance
+Blue paint
+1,000 litres
+100 litres
+$2.50
+$250 (F)
+Yellow paint
+4,000 litres
+150 litres
+$3.00
+$450 (A)
+Bonding agent
+500 litres
+50 litres
+$10.00
+$500 (F)
+
+5,500
+
+$300 (F)
+Materials Yield variance
+5,500 litres × 90% = 4,950 litres
+5,000 – 4,950 litres = 50 litres × $4 per litre = $200 (F)
+
+Marking scheme
+
+Marks
+(a)
+Every valid comment re performance of purchasing manager worth 1 mark,
+maximum 6 marks.
+6
+ Every valid comment re performance of production manager worth 1 mark,
+maximum 5 marks.
+5
+(b)
+2 mark for correct price variance
+2
+4 marks materials mix variance
+4
+3 marks material yield variance
+3
+
+–––
+Total
+20
+
+–––
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 14 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+14
+KAPLAN PUBLISHING
+32
+SUCCESS SERVICES COMPANY
+(a)
+Financial analysis
+Turnover
+This is up substantially, an increase over the previous year of 44%. The new MD has
+clearly had a significant impact. How has this been achieved?
+Profit
+This is also up, by 16%. However, net profits have grown at a much slower rate than
+sales  and  this  is  reflected  in  the  sharply  reduced  net  profit  margin  of  20.1%,
+compared with 25% in the previous year. It appears that the increased turnover may
+have  been  “bought”  via  price  reductions  and  lower  margins  or  a  combination  of
+lower prices and increased costs – perhaps increased expenditure on marketing and
+advertising.
+Gearing and credit management
+Interest cover was 5X but has fallen to just 3X. If the company has borrowed at a
+variable rate it is now substantially more vulnerable to interest rate rises. Average
+receivables  days  are  up  by  12  days  –  indicating  reduced  efficiency  in  chasing  up
+outstanding  debts  and/or  the  granting  of  more  generous  payment  terms  to
+encourage prospective customers.
+Overall,  significant  growth  is  being  achieved  –  but  at  the  expense  of  margins,
+interest cover and extended credit. This is a potentially worrying trend.
+(b)
+Customer perspective
+Customer numbers
+The number of customers has increased by nearly 50%. This is a dramatic increase
+and  suggests  that  there  has  been  a  major  promotional  drive  to  recruit  new
+customers. The cost of such promotion may account for part of the reduction in the
+net  profit  margin.  This  recruitment  drive  may  have  included  some  form  of  new
+customer incentives such as reduced prices for a limited period and may also have
+included a relaxation of payment terms
+% of sales from new software products
+This metric also reflects a substantial increase, from 15% to 24%, and implies that
+substantially increased resource has been devoted to new product development. This
+focus on new development may well have increased costs but has the potential to lay
+the foundations for a sustainable increase in sales.
+% ontime installation of new products
+This metric shows a sharp and worrying fall in the proportion of products that are
+delivered  on  time,  implying  that  the  increased  effort  and  cost  expended  on
+promotion and developing new software products may be being compromised by a
+failure to meet promised delivery dates.
+Average value of software sales
+The average value of software sales has fallen by over 20%. The mix of sales may
+have changed or, perhaps more likely in view of the reduced margin data, there may
+have been price reductions to increase sales volume.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 15 OF 16
+==============================================================================
+MOCK B ANSWERS
+KAPLAN PUBLISHING
+15
+% customers who complained
+This metric, showing a tripling in the rate of complaints, suggests that there has been
+a major failure to meet customer requirements. This data should prompt an urgent
+review of both product development procedures and customer relationships with a
+view to:
+A
+Identifying what went wrong and the steps needed to prevent a recurrence of
+the development/installation problems and
+B
+Establishing  the  general  level  of  customer  satisfaction  and  seeking  to  repair
+any damaged relationships
+Internal perspective
+The launch of two new products – from a zero base in the previous year – suggests
+that significant effort has gone into new product launches in the current year.
+The two products could have been under development for some time or they could
+have been initiated and launched within the current year. The launch of these new
+products – if they were not thoroughly tested to ensure they were bug free – could
+have  been  a  major  contributor  to  the  dramatic  increase  in  the  level  of  customer
+complaints.  If  it  is  found  that  the  new  products  were  a  significant  contributor  to
+customer  complaints  the  procedures  for  testing  and  launch  of  new  products  will
+need to be reviewed.
+The tender success rate has increased from 24% to 38%. This could reflect a number
+of factors such as better understanding of customer requirements which has been
+successfully  translated  into  product  specifications  or  –  much  less  encouraging  –  a
+decision to tender at lower prices or to offer more challenging delivery dates. The
+latter interpretation appears more likely in the light of the deterioration in service
+levels suggested by other indicators.
+Learning and growth perspective
+Programmer  output  has  increased  sharply  –  by  some  14%.  This  has  been
+accompanied  however  by  a  worrying  33%  increase  in  the  number  of  bugs  per
+1,000 lines  of  code.  Has  the  company  been  selling  products  that  were  released
+prematurely – hence the customer complaints?
+The 8% fall in the number of development staff who have completed a development
+course and the 15% deterioration in the employee retention rate is also indicative of
+increased pressure to “get product out of the door”.
+This perspective suggests that product quality – and customer satisfaction – is taking
+second place to a sales drive. Overall, the company appears to have made a major
+change in direction under its new MD. Priority appears to have been given to short
+term  sales  and  profit  growth  at  the  expense  of  customers,  product  quality,  staff,
+margins, interest cover and liquidity. The financial data shows growth but has some
+worrying  features  –  margins,  gearing  and  liquidity.  The  balanced  scorecard  data
+reveals a dramatic deterioration in service quality and customer and staff satisfaction
+which  suggests  that  the  sales  and  profit  growth  is  likely  to  be  short  lived.  Urgent
+action is required by Michael Speed to ensure that much greater emphasis is given to
+product quality and customer satisfaction – this may mean longer development times
+and a reduced rate of sales growth but this is a price that is worth paying.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 16 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+16
+KAPLAN PUBLISHING
+Marking scheme
+
+Marks
+(a)
+Valid comments on turnover growth, 1 mark each, maximum 3
+3
+
+Valid comments on profit growth and cost management, 1 mark each,
+maximum 2
+3
+
+Valid  comments  on  gearing/working  capital  control,  1  mark  each,
+maximum 2
+2
+
+Conclusion growth at the expense of cost control
+2
+
+–––
+
+10
+
+–––
+(b)
+Valid comments on customer perspective, 1 mark each, maximum 3
+3
+
+Valid comments on Internal perspective, 1 mark each, maximum 3
+3
+
+Valid  comments  learning  and  growth  perspective,  1  mark  each,
+maximum 3
+3
+
+Conclusion
+1
+
+–––
+
+10
+
+–––
+Total
+20
+
+–––
+
+
+##############################################################################
+PM Mock D - Questions J21.pdf
+##############################################################################
+PM — PERFORMANCE MANAGEMENT
+SOURCE: PM Mock D - Questions J21.pdf
+PAGES: 16
+
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 1 OF 16
+==============================================================================
+ACCA MOCK D
+Performance
+Management
+
+June 2021
+Question paper
+Please note that the real exam is a computer based exam.
+Therefore, the questions in this paper version reflect the question
+formats of a computer based exam.
+Time allowed
+3 hours and 15 minutes
+This paper is divided into three sections:
+Section A – All 15 questions are compulsory and MUST be attempted
+Section B – All 15 questions are compulsory and MUST be attempted
+Section C – BOTH questions are compulsory and MUST be attempted
+Formulae is on page 16
+Do not open this paper until instructed by the supervisor. This
+question paper must not be removed from the examination hall.
+Kaplan Publishing/Kaplan Financial
+
+ACCA PM
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 2 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+2
+KAPLAN PUBLISHING
+
+© Kaplan Financial Limited, 2021
+The text in this material and any others made available by any Kaplan Group company does not
+amount to advice on a particular matter and should not be taken as such. No reliance should be
+placed on the content as the basis for any investment or other decision or in connection with any
+advice given to third parties. Please consult your appropriate professional adviser as necessary.
+Kaplan Publishing Limited and all other Kaplan group companies expressly disclaim all liability to
+any person in respect of any losses or other claims, whether direct, indirect, incidental,
+consequential or otherwise arising in relation to the use of such materials.
+All rights reserved. No part of this examination may be reproduced or transmitted in any form or
+by any means, electronic or mechanical, including photocopying, recording, or by any information
+storage and retrieval system, without prior permission from Kaplan Publishing.
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 3 OF 16
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+3
+SECTION A
+ALL 15 QUESTIONS ARE COMPULSORY AND MUST BE ATTEMPTED
+EACH QUESTION IS WORTH 2 MARKS
+1
+Which ONE of the following does NOT represent a control in a computer network?
+A
+A firewall
+B
+Data encryption
+C
+Passwords
+D
+A cookie
+2
+Which TWO of the following actions would increase a product’s throughput accounting
+ratio (TPAR), from one year to the next?
+A
+Removing settlement discounts currently being offered to businesses that buy the
+product
+B
+Agreeing a less than expected annual pay rise for the factory staff
+C
+Removing trade discounts being offered on the product
+D
+Increasing the capacity of the business by working a longer day
+3
+A business produces a monthly newsletter to explain the steps it is taking to further improve
+its environmental management.  This newsletter is sent out to all staff and customers of the
+business.
+This type of expenditure is best defined as:
+A
+A conventional environment cost
+B
+A contingent environmental cost
+C
+A reputational environmental cost
+D
+A relationship environmental cost
+4
+A business is considering changing its fixed cost to variable cost mix (its operational gearing),
+by encouraging some staff to agree to be paid for the hours they actually work, rather than
+being fully employed on salaries. If they make this change the C/S ratio will reduce from 0.6
+to 0.45 but the fixed cost base will drop 20% to $720,000 in total.
+What will be the effect on the breakeven point in revenue terms and the risk profile of the
+business?
+A
+The BEP will increase by $100,000 and the risk profile will worsen
+B
+The BEP will increase by $100,000 and the risk profile will improve
+C
+The BEP will reduce by $100,000 and the risk profile will worsen
+D
+The BEP will reduce by $100,000 and the risk profile will improve
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 4 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+4
+KAPLAN PUBLISHING
+5
+Which of the following statements is/are true?
+(i)
+Data is information that has been processed in such a way that it has meaning to the
+person who receives it.
+(ii)
+Big data can be used to predict consumer preferences, but is only relevant for short-
+term decisions.
+(iii)
+In order for a business to analyse big data and gain insights from it, the source data
+needs to be structured into a software package.
+A
+(i) only
+B
+(i) and (ii)
+C
+(ii) and (iii)
+D
+None of the statements are true
+6
+The optimal solution for a linear programming problem has been correctly calculated as
+follows:
+Product X: 2,200 units
+Product Y: 3,100 units
+One of the non-critical resources was found to be the material, where a unit of X used 1.25
+kg and a unit of Y used 1.75 kg of this material.
+If there was 8,520 kg of this non-critical material available, but it could only be delivered in
+40 kg bags, how many bags could be cancelled without the material becoming critical?
+Enter your answer here
+bags
+7
+A business has an objective to maximise profit through its pricing strategy.  It has carried out
+some analysis of past sales and prices. It concluded that for every $5 it increases prices, the
+sales of a particular product reduces by 500 units. Last year, the sales of the product in
+question were 45,000 units at an average selling price of $2,000 per unit. The variable costs
+of making and selling the product are $800 per unit.
+What is the marginal revenue function that would be used in a profit maximisation
+calculation?
+A
+MR = 2,450 – 0.01Q
+B
+MR = 1,550 – 0.01Q
+C
+MR = 2,450 – 0.02Q
+D
+MR = 1,550 – 0.02Q
+8
+Electronic Executive Information Systems (EIS) and Expert Systems (ES) are examples of
+which ONE of the following?
+A
+Customer Relationship Management Software
+B
+Database Management
+C
+Computer networking
+D
+Decision based software
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 5 OF 16
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+5
+9
+A business sells an established single product to a base of similar customers.  It competes
+primarily on prices as there is little to distinguish their products from others in the market.
+Which is the only pricing methodology appropriate from the options below?
+A
+Price discrimination
+B
+Product line pricing
+C
+Skimming
+D
+Volume based discounting
+10
+A business is considering expanding its product range to include a more upmarket version of
+its tablet PC. It has decided to build this new tablet in spare space within an existing factory.
+The lease has 10 years yet to run and there is no break clause within the lease contract.
+Depreciation is calculated at the rate of 4% on the capitalised value of the leased asset.
+Which TWO of the following statements are true?
+A
+Given the tablet will be manufactured in spare space within the factory, there will be
+no incremental factory costs at all.
+B
+The lease cost is a committed cost, and should be excluded from the decision variables
+for that reason.
+C
+Incremental fixed costs are never included when they relate to a lease rather than an
+outright purchase.
+D
+Depreciation is not a cash flow, and should be excluded from the decision variables for
+that reason.
+11
+A business is considering expanding its product range to include a more upmarket version of
+its tablet PC. The labour required to make the tablet will come from two types of people,
+programmers and engineers.
+Programmers will be needed for 2,400 hours.  There are 10 programmers working for the
+business in contracts demanding 40 hours work per week for 48 weeks.  The business feels
+that 95% utilisation is acceptable and presently the programmers are operating at 93%.  Extra
+programmers are available from an agency at an hourly cost of $35/hr.
+The engineers are fully utilised, and in short supply. The only way to source the 200 hours
+needed to set up the production line is to divert existing engineers from another product.
+Production of this other product will be delayed, meaning a penalty clause in a customer
+contract will be triggered costing $4,000. Additionally, the engineers are paid $20/hr and the
+contribution earned on the delayed products is $8,200.
+What is the total relevant cash flow for the programmers and the engineers for this
+project?
+A
+$88,000
+B
+$74,560
+C
+$96,200
+D
+$82,760
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 6 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+6
+KAPLAN PUBLISHING
+12
+Printing Limited is trying to understand its cost base and has gathered some data covering
+recent periods.
+
+Total jobs
+Total cost ($)
+January
+62
+13,160
+February
+75
+15,800
+The business, in response to the extra work in February employed another technician whose
+monthly salary was $2,000, he was employed for only 80% of February starting late in the
+first full week of that month.
+What is the average variable cost per job and fixed cost per month of the business in
+January?
+A
+VC = $49.23 and FC = $10,108
+B
+VC = $80 and FC = $8,200
+C
+VC = $80 and FC = $9,800
+D
+VC = 49.23 and FC = $12,108
+13
+Skilled Limited works on technically difficult jobs, and as such experiences substantial
+“learning”.  In the past, it has been very unscientific in estimating the effect of the learning,
+but is now keen to understand how much learning is taking place.  Consequently, it has
+gathered some basic data: the time taken for the first 20 units of a new job was 80 hours but
+the next 10 units took only 30 hours and the 10 after that took 25 hours.
+Estimate the learning effect using all the data at your disposal.
+Enter your answer here (to 3 decimal places)
+%
+14
+A new system has been developed to provide a check to see whether a patent that already
+exists would be breached by any new filing. The system will highlight similarities and will even
+suggest which areas need to be changed to gain a successful filing.  This quicker and more
+accurate information should, it is thought, lead to better decisions on future filing
+applications.
+Which type of system is this best described as?
+A
+Enterprise Resource Planning System (ERPS)
+B
+Decision Support System (DSS)
+C
+Expert system (ES)
+D
+Management Information System (MIS)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 7 OF 16
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+7
+15
+A private school has grouped together with other schools to be able to gain volume discounts
+on books and other supplies, and also invest in floating staff who teach part time in a number
+of different schools. Grouping together has led to well-equipped classrooms taught by good
+quality staff. The results have been encouraging too, with good attendance and academic
+achievement. The head master feels that the extra investment in floating staff members is
+worth the cost and has contributed to the above results.
+Which of the following area(s) best describes ‘value for money’ in the context of the extra
+investment in floating staff members?
+A
+Economy
+B
+Efficiency
+C
+Effectiveness
+D
+Efficiency and effectiveness
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 8 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+8
+KAPLAN PUBLISHING
+SECTION B
+ALL 15 QUESTIONS ARE COMPULSORY AND MUST BE ATTEMPTED.
+EACH QUESTION IS WORTH 2 MARKS.
+The following scenario relates to questions 16–20
+Next Day Delivery (NDD) is considering which type of delivery van to buy at its next fleet
+replacement point.  The finance team has correctly prepared a decision table to assist in this
+decision, which considers two van sizes – small (S) and medium (M), and each of three different
+levels of activity expected in the market (the uncertainty). Level 1 is the lowest activity level, and
+level 3 the highest.
+The “outcome” measured in the table is the contribution per van likely to be gained over each year
+of use. The same number of vans would be bought, regardless of type.
+Type of Van
+
+Small
+Medium
+Activity Level
+Probability
+$
+$
+1
+0.2
+9,600
+6,200
+2
+0.3
+11,200
+11,400
+3
+0.5
+13,300
+15,600
+NDD’s board (and owners) consists of four people:
+1
+The Managing Director (MD), who has always been a very confident and optimistic individual.
+2
+The Financial Director (FD), who is often teased by the others as being a bit too cautious; he
+worries about the impact of getting a decision wrong, and insists on using the minimax regret
+technique to make decisions.
+3
+The Operations Director (OD) is of the view that delivering correctly first time with no
+mistakes is the only way to be successful in the delivery business. He defines himself as ‘risk
+neutral’ and bases his decisions on expected values of returns.
+4
+The fourth owner (a silent investor) is on the board but doesn’t really understand the details
+of the business, preferring to focus on long average returns to fund a looming retirement.
+16
+Assuming the MD has the final say, which type of van is likely to be chosen?
+Enter your answer here as ‘small’ or ‘medium’
+Small / Medium
+17
+Assuming the FD prevails, which type of van is likely to be chosen?
+Enter your answer here as small or medium
+Small / Medium
+18
+Assuming the OD’s preferences are met, what will be the average return gained per van?
+A
+$11,930
+B
+$12,460
+C
+$9,600
+D
+$13,300
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 9 OF 16
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+9
+19
+What is the minimum return needed from the medium van at the activity level 1, to make
+the silent partner indifferent between the types of van, assuming that the average return
+for the small van is $11,930?
+Enter your answer here to the nearest whole number
+$
+20
+Which TWO of the following statements are true of an expected value?
+A
+It can never equal an actual result
+B
+It is a poor approach for a one-off decision
+C
+It is normally very difficult to calculate even when you have all of the data
+D
+Investors tend to feel that they understand it
+
+The following scenario relates to questions 21–25
+Hangers Limited manufactures two different styles of clothes hangers: a basic (B) and a luxury (L)
+version. The finance department has correctly produced some costing information about the
+products and the overheads of the business.
+The basic hanger weighs 50g, with the luxury version 60% heavier.  Each hanger suffers waste in
+the manufacturing process with 10% of the input wasted for a basic and 20% wasted for a luxury.
+Both styles of hanger are made from the same material, at a cost of $2 per kg.
+Labour time to make the hangers varies dependent on type of hanger.  A batch of 1,000 of the basic
+hanger takes two hours to make and a batch of 1,000 of the luxury hanger takes three hours to
+make.  Labour costs $8 per hour.
+Production levels expected next period are 10,000 batches of the basic hanger and 20,000 batches
+of the luxury version.
+Overheads total $40,000 per period, which are made up of $10,000 for deliveries and $30,000 for
+set up costs. 25 deliveries in total are expected, 80% of which are for the luxury hanger.  The
+machines will be set up 150 times, including 100 times for the luxury hanger.
+21
+What is the combined cost of materials for one basic and one luxury hanger combined?
+A
+$0.11
+B
+$0.20
+C
+$0.31
+D
+$0.26
+22
+What would be the total labour cost of production in the next period?
+Enter your answer here to the nearest whole number
+$
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 10 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+10
+KAPLAN PUBLISHING
+23
+If overheads are absorbed on a labour hours basis, how much overhead would be allocated
+to each luxury hanger?
+A
+$0.50
+B
+$3.00
+C
+$1.50
+D
+$0.0015
+24
+If activity based costing is to be used, what will the overhead cost allocation be to the
+luxury hanger?
+A
+$0.40
+B
+$0.004
+C
+$1.40
+D
+$0.0014
+25
+Which of the following statements concerning ABC are true?
+(i)
+ABC always makes a big difference to overhead allocations.
+(ii)
+Identifying the drivers of cost does not change the fact that fixed costs cannot be
+controlled, so real savings cannot be made.
+A
+Both are true
+B
+Both are false
+C
+Only statement (i) is true
+D
+Only statement (ii) is true
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 11 OF 16
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+11
+The following scenario relates to questions 26–30
+Coffee Cup manufactures and then hand paints cups for sale to the wholesale traders. It sells two
+types of cup, a small cup for espresso drinkers and a large cup for drinkers liking a longer coffee.
+The process of making a cup can be broken down into three basic processes; forming the cup,
+baking the cup in an oven and then finishing.
+The management accountant has carried out some time and cost analysis and provides the
+following data:
+
+Small
+$
+Large
+$
+Selling price/cup
+3.80
+6.60
+Materials/cup
+0.84
+1.75
+
+Forming time/cup
+4 mins
+6 mins
+Baking time/cup
+2 mins
+3 mins
+Finishing time/cup
+5 mins
+7 mins
+The processes maximum capacities have been measured as follows:
+
+Forming
+Baking
+Finishing
+Production Capacity in period
+120,000 cups
+120,000 cups
+95,000 cups
+Productive time available in period
+12,000 hours
+10,000 hours
+10,000 hours
+Labour costs are all fixed and these, along with other period costs, total $295,000.
+26
+What is the bottleneck process?
+A
+Forming
+B
+Baking
+C
+Finishing
+D
+They all have the same productive time, so the process has three bottlenecks
+27
+Assuming that finishing is the bottleneck, what is the throughput accounting ratio (TPAR)
+for the large product?
+Enter your answer here to 2 decimal places
+$
+28
+Assuming Coffee Cup wanted to improve its TPAR ratios and that finishing remained the
+bottleneck, which two of the following tactics would be most effective and cost efficient?
+A
+Invest in more forming capacity
+B
+Double the number of shifts for all processes
+C
+Double the number of shifts for the finishing process
+D
+Negotiate a materials discount
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 12 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+12
+KAPLAN PUBLISHING
+29
+If a TPAR fell to a positive value below the value of ‘1’, which two of the following
+statements could be made?
+A
+Production of the product in question will cease.
+B
+The product is loss making.
+C
+The product is still making a throughput contribution.
+D
+For a profitable company this is not possible.
+30
+An important feature of throughput accounting is the assumption of just in time
+processing.  Which of the following statements about JIT are true?
+(i)
+It is only workable if a business can predict demand patterns.
+(ii)
+It can often force suppliers to become surrogate stock holders.
+A
+Both are true
+B
+Both are false
+C
+(i) is true only
+D
+(ii) is true only
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 13 OF 16
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+13
+SECTION C
+BOTH QUESTIONS ARE COMPULSORY AND MUST BE ATTEMPTED
+31
+Yummy Doughnuts Limited is attempting to dominate the doughnut market in its home
+market of Seatown. In 20X6, Yummy sold an average of 8,000 doughnuts every week, at a
+unit price of 60 cents. Its 20X7 budget was aggressive, predicting sales of 8,000 doughnuts
+per week which it felt represented 20% of the doughnut market in the area.  The budget was
+in fact beaten, with actual sales of 8,500 doughnuts per week. The marketing director, Mr
+Dumpling, a big fan of the doughnut himself, recently commented:
+“This is an amazing result, particularly when one reflects on the fact that the overall market
+for doughnuts is down by 5% since we did the budget, mainly due to the negative media
+coverage that has hit this type of food. But I want everyone to know that our doughnuts are
+‘Taste of the South Coast’ award winners and that in the marketing department, we are doing
+everything we can to support the growth in sales”.
+The 20X7 price charged on the doughnuts had to be reduced slightly, as there had been
+negative media coverage about the fat content of most of the range. The price per doughnut
+achieved was 5 cents less than the 60 cents budgeted, in order to gain a sufficiently large
+share of the reduced market. This, somewhat inevitably, reduced the budget contribution
+from its predicted level of 18 cents per doughnut.
+Required:
+(a)
+Calculate the price elasticity of the Yummy doughnut and comment briefly on your
+results.
+(3 marks)
+(b)
+Calculate the budget weekly revenue and related contribution.
+(2 marks)
+(c)
+Calculate the weekly sales price and sales volume contribution variances. (4 marks)
+(d)
+Calculate the weekly sales market size and share variances and an estimate of the
+actual market share achieved.
+(6 marks)
+(e)
+Briefly discuss the sales performance of Yummy Doughnuts Limited.
+(5 marks)
+(Total: 20 marks)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 14 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+14
+KAPLAN PUBLISHING
+32
+Armadillo Limited assesses its divisions using return on investment (ROI), with managers
+being rewarded with a bonus of $500 per full percentage point above their target for a given
+year.
+The North division’s manager has been reviewing her prospects for bonus for this year and
+the following year and is a little concerned about her short-term prospects for earnings.  She
+has worked hard and feels she should be rewarded accordingly.
+The financial projections before any last-minute change of strategy are as follows:
+
+20X8
+$m
+20X9
+$m
+Turnover
+260
+285
+Locally controlled costs
+–185
+–205
+Controllable profit
+75
+80
+Head Office costs
+–42
+–49
+Taxation (allocation)
+–5
+–6
+Net profit
+28
+25
+
+Opening capital employed
+550
+625
+Target ROI
+12%
+12%
+Notes on the financial projections
+1
+Right at the end of 20X8, the North division is planning to invest in a new project
+costing $80m.  Predictions are strongly positive for the 10-year project, and the
+expectation is for strong growth in revenue and profit margin as a result.
+2
+Taxation is calculated centrally and allocated to the divisions based on turnover.
+The business’ year end is 31st December and it is now 30th November 20X8.  The new
+investment has not yet been made.
+Armadillo’s CEO feels that both head office costs and taxation should be allocated to the
+divisions on the basis of turnover and taken into account when calculating ROI.  This is
+unpopular with the local managers.
+The head office currently deals with all recruitment, marketing, finance and accounting for
+all the divisions.  It also provides IT support and taxation planning, ensuring that best use of
+divisional losses and reliefs are claimed for everyone.  It is generally accepted that they do a
+good job in these regards.  The head office has no income.
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 15 OF 16
+==============================================================================
+MOCK D QUESTIONS
+KAPLAN PUBLISHING
+15
+Required:
+(a)
+Discuss the arguments for the treatment of head office costs and taxation as shown
+above. Your answer should include a discussion as to:
+•
+whether head office costs should be allocated
+•
+how the allocation should be made
+•
+whether allocated costs should be included in the ROI calculation
+•
+the fairness of the taxation costs (no detailed knowledge of taxation rules is
+expected).
+(10 marks)
+(b)
+Calculate the North division’s ROI based on controllable profit for both years, and
+the related bonus that could be expected.
+(4 marks)
+(c)
+Briefly discuss the suggestion and consider the impact of the new project being
+delayed for 3 months.  You should consider performance metrics, potential bonuses
+and any other relevant factor. Calculations are not required.
+(6 marks)
+(Total: 20 marks)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 16 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+16
+KAPLAN PUBLISHING
+FORMULAE
+Learning curve
+Y = axb
+Where
+y
+= cumulative average time per unit to produce × units
+a
+= the time taken for the first unit of output
+x
+= the cumulative number of units produced
+b
+= the index of learning (log LR/log 2)
+LR
+= the learning rate as a decimal
+Demand curve
+P = a − bQ
+b =
+quantity
+
+in
+
+Change
+price
+
+in
+
+Change
+
+a = price when Q = 0
+MR = a –2bQ
+
+
+##############################################################################
+PM Progress Test - Questions S22-J23.pdf
+##############################################################################
+PM — PERFORMANCE MANAGEMENT
+SOURCE: PM Progress Test - Questions S22-J23.pdf
+PAGES: 18
+
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 1 OF 18
+==============================================================================
+PM
+
+ACCA PROGRESS TEST
+Performance
+Management
+
+September 2022 to June 2023
+
+Time allowed
+Reading and planning:  10 minutes
+Writing:
+ 3 hours
+
+Answer ALL questions.
+
+Do not open this paper until instructed by the supervisor.
+
+This  question  paper  must  not  be  removed  from  the  examination
+hall.
+Kaplan Publishing/Kaplan Financial
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 2 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+2
+KAPLAN PUBLISHING
+
+© Kaplan Financial Limited, 2022
+The text in this material and any others made available by any Kaplan Group company does not
+amount to advice on a particular matter and should not be taken as such. No reliance should be
+placed on the content as the basis for any investment or other decision or in connection with any
+advice given to third parties. Please consult your appropriate professional adviser as necessary.
+Kaplan Publishing Limited and all other Kaplan group companies expressly disclaim all liability to
+any  person  in  respect  of  any  losses  or  other  claims,  whether  direct,  indirect,  incidental,
+consequential or otherwise arising in relation to the use of such materials.
+All rights reserved. No part of this examination may be reproduced or transmitted in any form or
+by any means, electronic or mechanical, including photocopying, recording, or by any information
+storage and retrieval system, without prior permission from Kaplan Publishing.
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 3 OF 18
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+3
+ SECTION A
+ALL 15 questions are compulsory and MUST be attempted
+Each question is worth 2 marks
+1
+The following statements have been made about activity‐based costing (ABC):
+(1)
+ABC is an alternative costing system to traditional overhead absorption costing.
+(2)
+ABC gives a more realistic picture of cost behaviour.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Neither (1) nor (2)
+D
+Both (1) and (2)
+2
+MB manufactures a product that requires 3.75 hours per unit of machining time. Machine
+time is a bottleneck resource, because there is a limited number of machines.
+There are just seven machines, and each is available for up to 15 hours each day, five days a
+week. The product has a selling price of $100 per unit, a direct material cost of $40 per unit,
+a direct labour cost of $10 per unit and a factory overhead cost of $30 per unit. These costs
+are based on a weekly production and sales volume of 140 units.
+What is the throughput accounting ratio?
+A
+0.67
+B
+1.50
+C
+1.67
+D
+5.33
+3
+The following statements have been made about environmental internal failure costs:
+(1)
+They are borne exclusively by the organisation.
+(2)
+The aim in incurring them is to determine whether adverse impacts are being created
+and whether environmental standards and internal policies are being complied with.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Neither (1) nor (2)
+D
+Both (1) and (2)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 4 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+4
+KAPLAN PUBLISHING
+4
+Z sells PCs that it purchases through a regional distributor.  An extract from its budget for
+the 4‐week period ended 28 March 2014 shows that it planned to sell 600 PCs at a unit
+price of $500, which would give a contribution to sales ratio of 25%.
+Actual sales were 642 PCs at an average selling price of $465.  The actual contribution to
+sales ratio averaged 20%.
+What is the sales price variance (to the nearest $1)?
+A
+$22,470 (F)
+B
+$1,470 (A)
+C
+$1,470 (F)
+D
+$22,470 (A)
+5
+Z sells PCs that it purchases through a regional distributor.  An extract from its budget for
+the 4‐week period ended 28 March 2014 shows that it planned to sell 600 PCs at a unit
+price of $500, which would give a contribution to sales ratio of 25%.
+Actual sales were 642 PCs at an average selling price of $465.  The actual contribution to
+sales ratio averaged 20%.
+What is the sales volume contribution variance (to the nearest $1) was:
+A
+$5,050 (F)
+B
+$5,150 (F)
+C
+$5,250 (F)
+D
+$5,350 (F)
+6
+A chemical flavouring, product C, is made by mixing together two materials. The standard
+cost of a batch is as follows:
+Material
+Kg per batch
+$ per kg
+$ per batch
+L
+300
+1.30
+390
+H
+500
+2.82
+1,410
+
+––––
+
+–––––
+Input per batch
+800
+
+1,800
+
+10% standard loss
+80
+
+––––
+
+Output per batch
+720
+
+––––
+
+For batch no. 1247, material input was 250.5 kg of L and 669.5 kg of H. Output from the
+batch was 810 kg of product C.
+What is the total material yield variance for the batch?
+A
+$45 (A)
+B
+$45 (F)
+C
+$143.64 (A)
+D
+$143.64 (F)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 5 OF 18
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+5
+7
+Z Co has just started manufacturing product A. The prototype took 5 hours to complete and
+the next 7 units of Product A took 19.565 hours.
+What is the learning rate for Product A?
+A
+58%
+B
+70%
+C
+79%
+D
+85%
+8
+The following statements have been made about incremental budgeting:
+(1)
+It can be defined as a system of budgetary planning and control that measures the
+additional costs that are incurred when there are unplanned extra units of activity.
+(2)
+Incremental budgets review and, if necessary, revise the budget for the next quarter
+to ensure that budgets remain relevant for the remainder of the accounting period.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Neither (1) nor (2)
+D
+Both (1) and (2)
+9
+Which  TWO  of  the  following  statements  about  forecasting  based  on  simple  linear
+regression are correct?
+A
+It can account for the effect of multiple independent variables
+B
+It assumes that historical data is a reliable guide to the future
+C
+It is not suitable when the variables show strong negative correlation
+D
+Cost forecasts using extrapolation are less accurate than those using
+10
+BVB designs and builds custom‐made yachts for wealthy individuals. It is considering the
+
+launch of a customer extranet.
+Which ONE of the following is the most likely consequence of this for BVB?
+A
+Increased visibility in the market
+B
+Improved market segmentation and analysis
+C
+Increased customer service
+D
+Improved security of company information
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 6 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+6
+KAPLAN PUBLISHING
+11
+The following are measures gathered in the context of a balanced scorecard approach to
+the provision of management information:
+(i)
+Training days per employee
+(ii)
+Percentage of revenue generated by new products and services
+(iii)
+Labour turnover rate
+Which of the following measures might be appropriate for monitoring the innovation and
+learning perspective?
+A
+(i), (ii) and (iii)
+B
+(i) and (iii) only
+C
+(ii) only
+D
+(ii) and (iii) only
+12
+Beauty Insiders Ltd sells cosmetics, and operates a customer loyalty card and online forum
+where customers can leave product reviews. To date, it has not made use of the data that it
+collects, and so its CEO recently attended a conference on big data where speakers talked
+about the potential for big data to improve organisations’ operations through converting
+unstructured data into useful information.
+Which ONE of the following statements regarding the use of big data at Beauty Insiders
+Ltd is correct?
+A
+Big data analytics can improve Beauty Insiders Ltd’s operational performance
+B
+It is unlikely that there would be any unstructured data available to Beauty Insiders
+Ltd.
+C
+There is too much big data available to Beauty Insiders Ltd to be useful.
+D
+The use of loyalty card data cannot help with decisions on which cosmetics Beauty
+Insiders Ltd should hold in inventory.
+13
+A division of a company has capital employed of $2m and its return on capital is 12%.  It is
+considering a new project requiring capital of $500,000 and is expected to yield profits of
+$90,000 per annum.  The company’s interest rate is 10%.
+If the new project is accepted, what will the residual income of the division?
+A
+$40,000
+B
+$80,000
+C
+$30,000
+D
+$330,000
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 7 OF 18
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+7
+14
+The following statements have been made management control reports:
+(1)
+Reports should not include information about uncontrollable items.
+(2)
+Only encryption can be used to ensure the security of highly confidential information.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Both (1) and (2)
+D
+Neither (1) nor (2)
+15
+The following statements have been made about Transaction Processing Systems (TPS):
+(1)
+TPS  systems  support  structured  decisions  at  operational  and  management  control
+levels.
+(2)
+The failure of TPS systems can stop business from operating, as organisations rely
+heavily on them.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Both (1) and (2)
+D
+Neither (1) nor (2)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 8 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+8
+KAPLAN PUBLISHING
+SECTION B
+All 15 questions are compulsory and MUST be attempted.
+Each question is worth 2 marks.
+The following scenario relates to questions 16–20
+MOC  makes  and  sells  an  executive  game  for  two  distinct  markets  in  which  it  currently  has  a
+monopoly.  The  fixed  costs  of  production  per  month  are  $20,000,  and  variable  costs  per  unit
+produced, and sold, are $40. The monthly sales can be thought of as X, where X = X1 + X2, with X1
+and X2 denoting monthly sales in their respective markets. Detailed market research has revealed
+the demand functions in the markets to be as follows, with prices shown as P1 and P2:
+Market 1:
+P1  =    55  0.05X1
+Market 2:
+P2  =  200  0.2X2
+The management accountant believes there should be price discrimination; the price is currently
+$50 per game in either market.
+16
+What is the optimum price to charge in Market 1?
+A
+$37.50
+B
+$47.50
+C
+$120
+D
+$150
+17
+What is the optimum quantity to produce in Market 2?
+A
+120 units
+B
+150 units
+C
+400 units
+D
+500 units
+18
+The following statements have been made about price discrimination:
+(1)
+Price discrimination should be used if a business wishes to discourage new entrants
+into a market.
+(2)
+Price  discrimination  can  be  difficult  to  implement  in  practice,  because  it  relies  for
+success upon the continued existence of certain market conditions.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Neither (1) nor (2)
+D
+Both (1) and (2)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 9 OF 18
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+9
+19
+Some  of  MOC’s  competitors  are  thinking  of  entering  markets  1  and  2,  and  adopt  a
+penetration pricing strategy.
+Which of the following statements is/are true?
+(1)
+MOC  may  be  forced  to  use  going  rate  pricing  to  match  the  competitors’  prices  in
+order to remain competitive.
+(2)
+Competition in these markets will drive down profit margin for all organisations and
+probably drive MOC out of business.
+A
+(1) only
+B
+(2) only
+C
+Neither (1) nor (2)
+D
+Both (1) and (2)
+20
+MOC  is  thinking  of  leaving  markets  1  and  2  and  entering  overseas  markets  3  and  4.  In
+market 3, it would initially charge low prices so as to gain rapid market share while demand
+is relatively elastic. In market 4, it would initially charge high prices so as to earn maximum
+profits while demand is relatively inelastic.
+Which price strategy would MOC use in each market?
+A
+Penetration pricing in market 3 and price skimming in market 4
+B
+Price discrimination in market 3 and penetration pricing in market 4
+C
+Price skimming in market 3 and penetration pricing in market 4
+D
+Price skimming in market 3 and price discrimination in market 4
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 10 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+10
+KAPLAN PUBLISHING
+The following scenario relates to questions 21–25
+JAY Manufacturing operates a marginal costing system and budgets to make and sells 10,000 units
+of a single product every period.
+The standard cost and revenue per unit are as follows:
+
+$
+Selling price
+
+400
+Direct material A
+5 kg at $25 per kg
+125
+Direct material B
+3 kg at $22 per kg
+66
+Direct labour
+3 hours at $10 per hour
+30
+Variable overheads
+3 hours at $7 per hour
+21
+
+––––
+Standard contribution
+
+158
+
+––––
+The mix of materials can be varied and therefore the material usage variance can be sub‐divided
+into mix and yield variances.
+ For the period under review, the actual results were as follows:
+Production and sales
+
+9,000 units
+
+$
+Sales revenue
+
+4,455,000
+Material cost
+A – 35,000 kg
+910,000
+
+B – 50,000 kg
+1,050,000
+Labour cost
+30,000 hours
+385,000
+Variable overhead
+
+230,000
+
+21
+What is the material mix variance?
+A
+$36,250 F
+B
+$36,250 A
+C
+$54,375 F
+D
+$54,375 A
+22
+What is the material yield variance?
+A
+$203,125 F
+B
+$203, 125 A
+C
+$310,375 F
+D
+$310,375 A
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 11 OF 18
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+11
+23
+What is the sales volume variance?
+A
+$158,000 F
+B
+$158,000 A
+C
+$855,000 F
+D
+$855,000 A
+Additional information
+The general market prices at the time of purchase for material A and material B were $21 per kg
+and $19 per kg respectively. There were no opening or closing inventories during the period.
+24
+What is the operational price variance for Material A?
+A
+$81,000 A
+B
+$175,000 F
+C
+$175,000 A
+D
+$180,000 A
+25
+What is the operational price variance for Material B?
+A
+$81,000 A
+B
+$100,000 A
+C
+$175,000 A
+D
+$180,000 A
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 12 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+12
+KAPLAN PUBLISHING
+The following scenario relates to questions 26–30
+Solid Ltd has been asked to provide a quotation for an engineering project that will take one year
+to complete. An analysis of the project has already been completed and the following resource
+requirements have been identified:
+A specialised machine will be required for a total of 10 weeks. It can be hired in from a reputable
+supplier,  who  would  guarantee  its  availability  when  it  is  required,  for  $2,500  per  week.  The
+machinery has a running cost of $720 per week. This cost is incurred by the user of the machine. It
+is company policy to depreciate non‐current assets by 25% per year on a reducing balance basis.
+The company has already incurred expenditure of $25,000 in analysing the resource requirements
+of the project.
+26
+What is the relevant cost of hiring and running the machine for the engineering project?
+A
+$7,200
+B
+$25,000
+C
+$32,200
+D
+$32,825
+Additional information
+Skilled labour would be required for a total of 9,000 hours during the year. The labour required
+could  be  recruited  at  an  hourly  rate  of  $12.  Alternatively  some  of  the  employees  currently
+working on other projects within the company could be transferred to this project. Their hourly
+rate is $10 per hour. If these existing employees were to be transferred to this project then they
+would need to be replaced on their existing project work. Replacements for their existing project
+work would cost $11 per hour.
+27
+What is the relevant cost of skilled labour?
+A
+$90,000
+B
+$99,000
+C
+$108,000
+D
+$189,000
+Additional information
+The  project  would  need  to  be  supervised  and  it  is  estimated  that  there  would  be  a  total  of
+500 hours  of  supervision  required  during  the  year.  Jemima,  one  of  the  supervisors  could
+undertake  this  work,  but  if  she  did  so  she  would  have  to  work  a  total  of  300  hours  overtime
+during the year to carry out the supervision on this project as well as her existing duties. The
+supervisor earns a salary of $50,000 per year for working 2,000 hours and is not paid for overtime
+work. If this project goes ahead the supervisor will be paid a bonus of $500, which would not be
+paid if the project is not undertaken.
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 13 OF 18
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+13
+28
+What is the relevant cost of supervision?
+A
+$0
+B
+$500
+C
+$50,000
+D
+$50,500
+Additional information
+The direct materials required for the project are Materials A and B. With regards to Material A,
+the total amount required for the project would have to be purchased at a cost of $15,000.
+The total amount of Material B required would be 10,000 square metres. The company purchased
+25,000 square metres of this material for a project two years ago at a total cost of $100,000. The
+earlier project used 20,000 square metres of the material and the remainder is currently held in
+inventory. The company does not foresee any other use for this material in the future and could
+sell it for $2 per square metre. The current purchase price of the material is $5 per square metre.
+29
+What is the relevant cost of material B?
+A
+$0
+B
+$25,000
+C
+$35,000
+D
+$50,000
+30
+Which  TWO  of  the  following  statements  relating  to  relevant  cost  concepts  in  decision
+making are correct?
+(1)
+Materials can never have an opportunity cost whereas labour can.
+(2)
+The annual depreciation charge is not a relevant cost.
+(3)
+Fixed costs would have a relevant cost element if a decision causes a  change in their
+total expenditure.
+(4)
+Materials already held in inventory never contribute to relevant cost.
+A
+(1) and (3)
+B
+(1) and (4)
+C
+(2) and (3)
+D
+(3) and (4)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 14 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+14
+KAPLAN PUBLISHING
+SECTION C
+Both questions are compulsory and MUST be attempted
+31
+Scrum Ltd produces two products, the Webb and the Ellis. Budgeted data relating to these
+products on a per unit basis for August 2016 are as follows:
+
+Webb
+Ellis
+Selling price
+$150
+$100
+Materials
+$80
+$30
+Salesmen’s commission
+$30
+$20
+Each unit of product incurs costs of machining and assembly. The total capacity available in
+August 2016 is budgeted to be 700 hours of machining and 1,000 hours of assembly, the
+cost  of  this  capacity  being  fixed  at  $7,000  and  $10,000  respectively  for  the  month,
+whatever the level of usage made of it. The  number of hours required in  each of these
+departments to complete one unit of output is as follows:
+
+Webb
+Ellis
+Machining
+1 hour
+2 hours
+Assembly
+2.5 hours
+2 hours
+In the market Scrum operates in, selling prices are fixed by European Union directives. The
+permitted output of either product in August is 400 units (i.e. Scrum Ltd may produce a
+maximum of 800 units of product). At the present controlled selling prices, the demand for
+the products exceeds this considerably.
+The graph on the following page has been correctly drawn.
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 15 OF 18
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+15
+SCRUM LTD
+
+Required:
+(a)
+Calculate Scrum’s optimal production plan for August 2016, and the profit earned.
+
+(10 marks)
+(b)
+Calculate the shadow price of an extra hour of machining, and the shadow price of
+an  extra  hour  of  assembly.  In  each  case,  assume  that  the  capacity  of  the  other
+department is not altered and the maximum output continues to apply.
+(6 marks)
+
+An external contractor has offered to supply an extra 100 machine hours provided that they
+are paid double the normal rate of $10 per machine hour, at $20 per machine hour.
+Required:
+(c)
+Briefly discuss whether Scrum should accept the offer of additional machine hours
+at double the normal rate.
+(4 marks)
+
+(Total: 20 marks)
+Webb units
+Ellis units
+100
+200
+300
+400
+500
+600
+700
+800
+100
+200
+300
+500
+400
+0
+A
+B
+C
+D
+E = 400
+W = 400
+2.5W + 2E = 1,000
+W + 2E = 700
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 16 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+16
+KAPLAN PUBLISHING
+32
+BWealth  Ltd  provides  a  fee‐based,  high  quality  financial  planning  and  personalised
+investment service to ‘high net worth’ retired individuals, as well as to trusts, charities and
+small businesses.
+BWealth employees work to enhance the income of the business’ long‐term investors. The
+industry  BWealth  operates  in  is  becoming  more  and  more  competitive.  The  Managing
+Partner feels that promotion of new investment products to BWealth’s clients would be
+likely to upset their generally conservative nature and, as a result, the business has been
+managed with similar products for the last couple of years.
+The last two years of financial results are shown below:
+
+20X6
+20X5
+Turnover ($000)
+1,001
+950
+Net profit ($000)
+   198
+190
+Average debtor/trade receivables days
+(industry average 20 days)
+19 days
+21 days
+Average cash balances ($000)
+20
+19
+BWealth operates in a country where the average rate of inflation is around 3% per annum.
+Required:
+(a)
+Assess the financial performance of BWealth using the information given above.
+
+(7 marks)
+During  the  early  part  of  20X5,  BWealth  employed  a  newly  qualified  management
+accountant.  They  quickly  became  concerned  about  the  potential  performance  of  the
+business, and to investigate their concerns, they started to gather data to measure some
+non‐financial measures of success. The data they have gathered is shown below:
+Internal Business Processes
+
+20X6
+20X5
+Error rates in jobs done
+15%
+9%
+Average job completion time
+7 weeks
+9 weeks
+
+Customer Knowledge
+
+20X6
+20X5
+Number of customers
+1,210
+1,432
+Average fee levels ($)
+   549
+   450
+Market Share
+12%
+19%
+
+Learning and Growth
+
+20X6
+20X5
+Percentage of revenue from non‐core work
+  4%
+  5%
+Industry average of the proportion of revenue
+from non‐core work in similar practices
+30%
+25%
+Employee retention rate.
+60%
+80%
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 17 OF 18
+==============================================================================
+PROGRESS TEST QUESTIONS
+KAPLAN PUBLISHING
+17
+Notes
+1
+Error rates measure the number of jobs with mistakes made by staff as a proportion
+of the number of clients serviced.
+2
+Core  work  is  defined  as  being  investment  management.  Non‐core  work  is  defined
+primarily as estate planning and retail banking. Non‐core work is traditionally high
+margin work.
+Required:
+(b)
+Briefly explain why non‐financial information is likely to give a better indication of
+the likely future success of the business than the financial information given in a).
+
+(3 marks)
+(c)
+Assess the performance of the business with comments on all non‐financial aspects
+separately,  as  well  as  a  concluding  comment  on  the  overall  performance  of  the
+business.
+(10 marks)
+(Total: 20 marks)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 18 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+18
+KAPLAN PUBLISHING
+FORMULAE
+Regression analysis
+y = a + bx
+
+Learning curve
+Y = axb
+Where  y
+= cumulative average time per unit to produce × units
+
+a
+= the time taken for the first unit of output
+
+x
+= the cumulative number of units produced
+
+b
+= the index of learning (log LR/log2)
+
+LR   = the learning rate as a decimal
+Demand curve
+P = a − bQ
+b =
+quantity
+
+in
+
+Change
+price
+
+in
+
+Change
+
+a = price when Q = 0
+MR = a – 2bQ
+
+
+##############################################################################
+MARKING GUIDE: PM Progress Test - Answers S22-J23.pdf
+##############################################################################
+PM — ANSWER / MARKING GUIDE
+SOURCE: PM Progress Test - Answers S22-J23.pdf
+PAGES: 18
+
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 1 OF 18
+==============================================================================
+ACCA
+
+PM
+
+Performance Management
+September 2022 to June 2023
+
+Progress Test – Answers
+
+To gain maximum benefit, do not refer to these answers
+until  you  have  completed  the  progress  test  questions
+and submitted them for marking.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 2 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+2
+KAPLAN PUBLISHING
+
+© Kaplan Financial Limited, 2022
+The text in this material and any others made available by any Kaplan Group company does not
+amount to advice on a particular matter and should not be taken as such. No reliance should be
+placed on the content as the basis for any investment or other decision or in connection with any
+advice given to third parties. Please consult your appropriate professional adviser as necessary.
+Kaplan Publishing Limited and all other Kaplan group companies expressly disclaim all liability to
+any  person  in  respect  of  any  losses  or  other  claims,  whether  direct,  indirect,  incidental,
+consequential or otherwise arising in relation to the use of such materials.
+All rights reserved. No part of this examination may be reproduced or transmitted in any form or
+by any means, electronic or mechanical, including photocopying, recording, or by any information
+storage and retrieval system, without prior permission from Kaplan Publishing.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 3 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+3
+SECTION A
+1
+D
+Both  statements  are  true.  Statement  (2)  is  true,  because  costs  collected  into  cost  pools
+tend to behave in the same way, as they have the same cost driver.
+2
+B
+The throughput per factory hour = ($100 – $40)/3.75 hours = $16
+Factory costs per factory hour = ($10 + $30)/3.75 hours  = $10.67
+Throughput  accounting  ratio  =  Throughput  per  factory  hour/cost  per  factory  hour  =
+$16/$10.67 = 1.5
+3
+A
+
+Statement (2) describes environmental appraisal costs.
+4
+D
+Sales price variance
+
+$
+
+Std selling price
+500
+
+Actual selling price
+465
+
+––––
+
+Sales price variance
+35
+(A)
+× Actual no of units sold
+× 642
+
+––––––
+
+22,470
+(A)
+
+Tutorial note
+An alternative debrief reads as follows:
+Sales price variance
+Actual Quantity sold (AQ) x Actual sales Price (AP)
+642 units
+×
+$465/unit
+= $298,530
+
+$22,470A
+Actual Quantity sold (AQ) × Standard sales Price (SP)
+642 units
+×
+$500/unit
+= $321,000
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 4 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+4
+KAPLAN PUBLISHING
+5
+C
+Sales volume contribution variance
+
+Units
+
+Budgeted quantity sold
+600
+
+Actual quantity sold
+642
+
+––––
+
+Sales volume variance in units
+
+42
+(F)
+× Std contribution per unit (25% × $500)
+× $125
+
+––––––
+
+$5,250
+(F)
+
+––––––
+
+Tutorial note
+An alternative debrief reads as follows:
+Sales volume contribution variance
+Actual Quantity sold (AQ) × Standard Margin (SM)
+
+642 units
+ ×
+$125/unit
+= $80,250
+
+$5,250F
+Budgeted Quantity sold (BQ) x Standard Margin (SM)
+
+600 units
+×
+$125/unit
+= $75,000
+
+Where Standard Margin = standard contribution per unit
+Budgeted contribution to sales ratio = 25%
+Standard  contribution  per  unit  =  25%  ×  Standard  sales  price  per  unit  =  25%  ×  500  =
+$125/unit
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 5 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+5
+6
+A
+920 kg input should yield (× 720/800)
+828
+kg
+but did yield
+810
+kg
+
+––––––
+
+Yield variance in kg
+18 kg
+(A)
+× standard price per kg
+× $2.50
+
+––––––
+
+Yield variance
+$45
+(A)
+
+––––––
+
+Tutorial note
+An alternative debrief reads as follows:
+Material Yield variance
+Material
+Act Qu
+Standard Mix
+Std Qu
+Standard Mix
+Difference
+@ Standard
+Price
+Variance
+
+kg
+kg
+kg
+$/kg
+$
+
+L
+345
+337.5
+7.5 A
+1.30
+9.75 A
+
+H
+575
+562.5
+12.5 A
+2.82
+35.25 A
+
+45 A
+Actual Quantity of material used (AQ) = 250.5kg + 669.5kg = 920kg
+Standard material Mix (SM):
+L 300kg/800kg = 0.375
+H 500kg/800kg = 0.625
+Actual Quantity at the Standard Mix (AQSM)
+L 920kg × 0.375 = 345kg
+H 920kg × 0.625 = 575kg
+Standard Quantity per kg of output
+L 300kg/720kg = 0.4167
+H 500kg/720kg = 0.6944
+Standard Quantity for actual production at the Standard Mix (SQSM)
+L 0.4167 × 810kg = 337.5kg
+H 0.6944 × 810kg = 562.5kg
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 6 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+6
+KAPLAN PUBLISHING
+7
+D
+Number of units
+Cumulative average hours
+Total hours
+1
+5
+5
+2
+?
+?
+4
+?
+?
+8
+24.565 / 8 = 3.07
+24.565
+5 x r3 = 3.07, so r3 = 3.07/5
+Hence the learning rate is
+8
+C
+Incremental budgeting uses the current period’s results as a base and adjusts this to allow
+for  any  known  changes,  including  the  cost  increases  caused  by  extra  planned  units  of
+activity.  Statement  (1)  is  therefore  incorrect.  Statement  (2)  is  also  incorrect  and  a  poor
+attempt at defining a rolling budget system, where an extra quarter is added to the end of
+the budget when the most recent quarter has expired.
+9
+B and D
+One assumption of simple linear regression is that the dependent variable is only affected
+by  one  independent  variable.  Therefore  'It  can  account  for  the  effect  of  multiple
+independent variables' is incorrect.
+Another  assumption  is  that  what  happened  in  the  past  will  continue  into  the  future.
+Therefore ‘It assumes that historical data is a reliable guide to the future’ is correct.
+Simple linear regression is suitable when there is correlation between two variables. It can
+be positive or negative correlation. Therefore ‘It is not suitable when the variables show
+strong negative correlation’ is incorrect.
+Interpolation means forecasting within the range of the original data whereas extrapolation
+means forecasting outside the range of the original data. Forecasting within the range is
+more reliable because there is data to back up the forecast. It is more difficult to be sure
+what the results will be if they are outside the range recorded in the past. ‘Cost forecasts
+using extrapolation are less accurate than those using interpolation’ is therefore correct.
+10
+C
+An  extranet  allows  customers  to  access  parts  of  the  company's  systems.  This  may  help
+BVB's customers to design and monitor the progress of the yachts they are having built.
+Extranets are not open to everyone, which means that there is little reason to expect an
+increase in market visibility. There is no obvious link in the scenario to market segmentation
+and analysis. Allowing customers to access company data may actually cause more security
+issues for BVB, rather than increasing security.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 7 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+7
+11
+A
+Any of these measures could be suitable:
+(i)
+Setting a performance target for training days per employee. In principle, the more
+training days an employee receives, the more knowledgeable and skilful he or she
+becomes.
+(ii)
+A target for the percentage of total sales revenue earned from new products focuses
+on  innovation.  The  higher  the  target  percentage,  the  more  innovative  the
+organisation might be with new product development.
+(iii)
+Labour turnover rate could be a suitable target. The rate at which staff leave and are
+replaced provides a measure of the loss of existing employee skills, and possibly also
+the recruitment of new staff with new ideas.
+12
+A
+The first statement is correct: data analytics can help with performance improvements if
+Beauty Insiders sets up systems to collect the data and analyse it.
+All other statements are incorrect:  Unstructured data will be available to Beauty Insiders
+Ltd from its online forum.
+Even though there is a lot of data available, appropriate analytics tools can make it easier to
+manage, and loyalty card data can help with product decisions as Beauty Insiders will be
+able to track which products sell well.
+13
+B
+Original profit
+=
+$2,000,000 × 12%
+=
+$240,000
+New profit
+=
+$240,000 + $90,000
+=
+$330,000
+New capital employed
+=
+$2,000,000 + $500,000
+=
+$2,500,000
+
+Residual income
+=
+$330,000 – (10% × $2,500,000)
+=
+$80,000
+14
+D
+Neither  statement  is  true.  Uncontrollable  information  can  still  be  reported;  Other
+procedures, such as firewalls and passwords, can be used to ensure the security of highly
+confidential information.
+15
+B
+Statement  (1)  describes  Management  Information  Systems;  a  TPS  usually  operates  at
+operational level.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 8 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+8
+KAPLAN PUBLISHING
+SECTION B
+16
+B
+Profit will be maximised when marginal revenue = marginal costs. In each market, marginal
+costs = $40
+Market 1
+
+MR
+
+=
+55  0.1X1
+So that:
+
+55  0.1X1
+=
+40
+
+X1
+
+=
+150
+
+P1
+
+=
+55  0.05X1
+when:    X1
+
+=
+150
+
+P1
+
+=
+$47.50
+17
+C
+Market 2
+
+MR
+
+=
+200  0.4X2
+So that:
+
+200  0.4X2
+=
+40
+
+X2
+
+=
+400
+18
+B
+Statement (1) is not true: a price penetration strategy should be used if a business wishes to
+discourage new entrants into a market.
+19
+A
+Statement (2) is not true: competition at this price will drive down MOC’s profit margins but
+the company may be able to sustain low margins in the short term to try and hold onto its
+customer base. As MOC has had such a strong monopoly of the market, it should already
+have  sufficient  economies  of  scale  to  be  able  to  withstand  the  lower  profit  margins  for
+longer than the competitor.
+20
+A
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 9 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+9
+21
+C
+Mix variance
+Material
+Standard
+mix
+Actual
+mix
+Difference
+@ Standard
+price
+Variance
+
+000s
+000s
+000s
+
+$000
+A
+53.125
+35
+18.125 F
+$25
+453.125 F
+B
+31.875
+50
+18.125 A
+$22
+398.75 A
+
+85
+85
+Nil
+
+54.375 F
+Standard mix of A : B is 5 kg : 3 kg. Hence, standard mix of actual input is:
+A = 85 ×
+8
+5  = 53.125 and B = 85 ×
+8
+3  = 31.875
+22
+D
+Yield variance
+Standard yield from actual input 85,000 kg  8 kg pu
+10,625
+units
+Actual yield (output)
+9,000
+units
+
+–––––––
+
+1,625
+units
+@ Standard Material Price per unit of output
+(5 kg  $25) + (3 kg  $22)
+
+$191
+
+–––––––
+
+Variance
+$310,375
+A
+–––––––
+
+Tutorial note
+An alternative debrief reads as follows:
+Yield variance
+Material
+Act Qu
+Standard Mix
+Std Qu
+Standard Mix
+Difference
+@ Standard
+Price
+Variance
+
+000s
+000s
+000s
+
+$000
+
+L
+53.125
+45
+8.125 A
+$25
+203.125 A
+
+H
+31.875
+27
+4.875 A
+$22
+107.25 A
+
+310.375 A
+Standard Quantity for actual production at the Standard Mix (SQSM)
+L 5kg x 9,000 units = 45,000kg
+H 3kg x 9,000 units = 27,000kg
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 10 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+10
+KAPLAN PUBLISHING
+23
+B
+Sales Volume variance
+AQSM
+9,000 units × $158/unit =
+1,422,000
+
+ 158,000
+A
+BQSM
+10,000 units × $158/unit =
+1,580,000
+where SM = Standard Contribution per unit
+Standard contribution per unit
+
+$
+
+Selling price
+400
+
+Material A
+5 kg  $25
+(125)
+
+Material B
+3 kg  $22
+(66)
+
+Direct labour
+3 hr  $10
+(30)
+
+Variable overhead
+3 hr  $7
+(21)
+
+––––
+
+Contribution
+158
+
+––––
+
+24
+C
+Material A operational price variance
+
+$
+AQRSP
+
+35,000 kg   ×
+$21/kg
+=
+735,000
+AQAP
+
+$175,000 A
+
+=
+910,000
+Price
+25
+B
+Material B operational price variance
+
+$
+AQRSP
+
+50,000 kg   ×
+$19/kg
+=
+950,000
+AQAP
+
+$100,000 A
+
+=
+1,050,000
+Price
+26
+C
+Relevant cost of specialised machine = 2,500 ×10, so $25,000, plus machinery running cost
+$720 × 10 weeks = $7,200.
+Depreciation is not a relevant cash outflow.
+The already incurred expenditure of $25,000 in analysing the resource requirements of the
+project is a sunk cost.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 11 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+11
+27
+B
+External project labour:
+9,000 hours × $12
+£108,000
+External replacement labour    9,000 hours × $11
+£99,000
+The existing  hourly rate is irrelevant, as the company would continue  to pay its existing
+employees regardless of the decision. The relevant cost is the lower cost option: $99,000.
+28
+B
+Existing salaries is not an incremental cost, therefore irrelevant.  Overtime would not be
+paid  in  cash,  therefore  irrelevant.  Bonus  of  $500  is  cash,  incremental  (only  paid  if  the
+project goes ahead), and future, therefore a relevant cost of $500.
+29
+C
+The historical cost of $100,000 is irrelevant (= a sunk cost). Remainder of material currently
+held in inventory: 5,000 metres. There is no other use for this material so the relevant cost
+is the foregone contribution this would otherwise bring, at $2/metre:
+$10,000
+Add: 5,000 metres purchased on open market @ $5 a metre
+$25,000
+Total relevant cost of material B
+$35,000
+30
+C
+Statement (1) is incorrect. Materials can often have an opportunity cost.
+Statement (2) is correct – depreciation is never relevant, as it is not a cash cost.
+The key issue in statement (3) is that a cost is relevant if the  decision leads to a future
+incremental cash flow. Statement (3) effectively says this in the phrase ‘a change in their
+total expenditure’.
+Statement (4) is incorrect: materials already held in inventory can be sold, using them will
+have a relevant cost – the benefit foregone by using them rather than selling them. Thus,
+statement 4 is incorrect and choice 3 is the correct answer.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 12 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+12
+KAPLAN PUBLISHING
+SECTION C
+31
+SCRUM
+(a)
+The constraints are plotted on the graph as follows:
+Machining constraint: If W = 0, E = 350 and if E = 0, W = 700
+Assembly constraint: If W = 0, E = 500 and if E = 0, W = 400
+Output of Webb units constraints: W = 400
+Output of Ellis units constraints: E = 400
+Feasible region = OABC
+Solve for the optimum production plan
+B is the optimum point in the graph, where 200 Webb units and 250 Ellis units should
+be output. This can be read from the graph, or solved using simultaneous equations
+as follows:
+2.5 W +
+2E
+=
+1,000  (1)
+W  +
+2E
+=
+700
+(2)
+Subtract equation (2) from equation (1): 1.5 W = 300 so W = 200
+Substituting in equation (1): 2.5 × 200 + 2E = 1,000 so 2E = 500 and E = 250.
+At the optimum point B, the output mix is as follows:
+200 units of Webb at a contribution of $40 per unit
+$8,000
+250 units of Ellis at a contribution of $50 per unit
+$12,500
+Total Contribution
+$20,500
+Less Fixed Costs ($7,000 + $10,000)
+$17,000
+Profit
+3,500
+(b)
+Machining capacity
+If we obtain additional machine hours, the line W + 2E = 700 will shift upwards. If one
+extra machine hour is obtained, the constraints W + 2E = 700 and 2.5W + 2E will still
+be binding, and the new  optimal plan can be determined  by solving the following
+equations:
+
+(1) W + 2E = 701 (revised machining constraint)
+
+(2) 2.5W + 2E = 1,000 (unchanged assembly constraint)
+
+Solving the simultaneous by doing (2) – (1) gives:
+
+1.5W = 299
+
+W = 199.33
+
+Substitute this value for W into (1):
+
+199.33+ 2E = 701
+
+2E = 501.67
+
+E = 250.83
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 13 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+13
+The values for W and E when the above equations are solved are W = 199.33 and
+E  =  250.83.  Therefore  Ellis  is  increased  by  0.83  units  and  Webb  is  reduced  by
+0.67 units and the change in contribution will be as follows:
+
+Increase in contribution from Ellis: (0.33 × $50)
+=
+$41.50
+
+Decrease in contribution from Webb (0.67 × $40)
+=
+($26.80)
+
+Net increase in contribution
+=
+$14.70
+Hence the value of an extra hour of machining is $14.70 per hour.
+Assembly capacity
+With an additional hour of assembly capacity, the new optimal plan will be given by
+the solution of the following equations:
+
+(1) W + 2E = 700 (unchanged machining constraint)
+
+(2) 2.5W + 2E = 1,001 (revised assembly constraint)
+
+Solving the simultaneous by doing (2) – (1) gives:
+
+1.5W = 301
+
+W = 200.67
+
+Substitute this value for W into (1):
+
+200.67 + 2E = 700
+
+2E = 499.33
+
+E = 249.67
+The values for W and E when the above equations are solved are W = 200.67 and
+E  =  249.67.  Therefore  Webb  is  increased  by  0.67  units  and  Ellis  is  reduced  by
+0.33 units and the change in contribution will be as follows:
+
+Increase in contribution from Webb: (0.67 × $40)
+=
+$26.80
+
+Decrease in contribution from Ellis (0.33 × $50)
+=
+($16.50)
+
+Net increase in contribution
+=
+$10.30
+Hence the value of an extra hour of assembly is $10.30 per hour.
+(c)
+The  shadow  price  represents  the  maximum  premium  above  the  normal  rate  a
+business should be willing to pay for more of a scarce resource. It is equal to the
+increased contribution that can be gained from gaining that extra resource.
+The shadow price of a machine hour is $14.70 per hour. The external contractor has
+offered to supply each hour at a cost of $20 – a premium of $10.00 per machine
+hour. Therefore, the offer seems acceptable.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 14 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+14
+KAPLAN PUBLISHING
+
+Marking scheme
+
+Marks
+(a)
+Identify feasible region
+Solving W = 200 and E = 250 (OFR available)
+Identify optimum point (B) on the graph
+Total contribution calculation
+Total profit calculation
+2
+2
+2
+2
+2
+(b)
+
+(c)
+Revised machining constraint
+W = 199.33 OFR
+E = 250.83 OFR
+Calculation of shadow price OFR
+Revised assembly constraint
+W =200.67 OFR
+E = 249.67 OFR
+Calculation of shadow price OFR
+Definition of shadow price : a PREMIUM
+Difference with shadow price calculated in b)
+Conclusion – OFR applies
+1
+0.5
+0.5
+1
+1
+0.5
+0.5
+1
+1
+1
+2
+
+––––
+Total
+
+20
+
+––––
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 15 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+15
+32
+BWEALTH
+(a)
+Assessment of financial performance
+
+There are various financial observations that can be made from the data:
+–
+Turnover is up by over 5%. This is higher than the rate of inflation, and the sign
+of a growing business.
+–
+The  main  weakness  identified  in  the  financial  results  is  that  the  net  profit
+margin  has  fallen  from  20%  to  19.8%,  suggesting  that  cost  control  may  be
+getting worse or fee levels are being competed away.
+–
+Profit  is  up  4.2%.  In  absolute  terms  profits  are  impressive,  given  that  the
+market is becoming more and more competitive.
+–
+Average cash balances are up 5% – indicating improved liquidity. Positive cash
+balances are always welcome in a business.
+–
+Average debtors days are down by 2 days – indicating improved efficiency in
+chasing up outstanding debts. It is noticeable that BWealth’s days are lower
+than the industry average indicating strong working capital management. The
+only possible concern may be that the company is being particularly aggressive
+in chasing up outstanding debts.
+
+Overall, with a possible concern about margins and low growth, the business looks in
+good shape and would appear to have a healthy future.
+(b)
+The traditional performance measure for a business is of course financial, but one
+problem is that the financial measures relate to the past. Another is that the financial
+accounting  model  does  not  adequately  consider  the  value  to  BWealth  of  its
+intangible  assets  such  as  a  happy  and  loyal  customer  base,  results‐oriented,  well
+trained and efficient staff and good quality services. Good results in these measures
+can lead to a good financial performance:  for example if a business delivers good
+quality to its customers then this could lead to more custom at higher prices in the
+future.
+
+Specifically,  BWealth’s  information  relates  to  the  non‐financial  measures  within  a
+balanced  scorecard.  ‘Internal  business  processes’  are  a  measure  of  BWealth’s
+internal efficiency; ‘Customer knowledge’ measure how well the business is dealing
+with its external customers. A good performance here is very likely to lead to more
+custom in the future.
+
+‘Learning  and  growth’  measures  that  way  the  business  develops.  Non‐core  work
+would be reflected here along with indicators of staff retention. Again this is much
+more  focused  on  the  future  than  the  present.  Measuring  performance  by  way  of
+non‐financial means is much more likely to give an indication of the future success of
+a business.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 16 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+16
+KAPLAN PUBLISHING
+(c)
+The extra non‐financial information gives much greater insight into key operational
+issues within the business and paints a bleaker picture for the future.
+
+Internal business processes
+
+Error rates
+
+Error rates for jobs done are up from 9% to 15%. This is probably a result of reducing
+turnaround times to improve delivery on time percentages. This is critical, as users
+expect the accounts to be correct. Errors could lead to problems for clients with the
+Inland Revenue, bankers, etc. What is worse, BWealth could be sued if clients lose
+out because of such errors. One could say that errors are unlikely to be revealed to
+clients. Businesses rarely advertise mistakes that have been  made. They should of
+course put mistakes right immediately.
+
+Customer Knowledge
+
+Client retention
+
+The number of clients has fallen dramatically – this is alarming and indicates a high
+level of customer dissatisfaction. In this industry, one would normally expect a high
+level  of  repeat  business.  Clearly  existing  clients  are  not  happy  with  the  service
+provided.
+
+Average fees
+
+It  would  appear  that  the  increase  in  revenue  is  thus  due  to  a  large  increase  in
+average  fees  rather  than  extra  clients  –  average  fee  is  up  from  $450  to  $549,  an
+increase of 22%. This could explain the loss of clients in itself, however there could be
+other reasons.
+
+Market share
+
+The result of the above two factors is a fall in market share from 19% to 12%. Looking
+at revenue figures one can estimate the size of the market as having grown from $5m
+to $8.3m, an increase of 66%. Compared to this, BWealth’s figures are particularly
+worrying. The firm should be doing much better and looks to being left behind by
+competitors.
+
+Learning and Growth
+
+Non‐core services
+
+The main weakness of the firm seems to be is its lack of non‐core services offered.
+The industry average revenue from non‐core work has increased from 25% to 30%
+but BWealth’s figures have dropped from 5% to 4%. It would appear that most clients
+are looking for their advisers to provide a wider range of products but BWealth is
+ignoring this trend.
+
+Employee retention
+
+Employee turnover is up, indicating that the staff are dissatisfied. Continuity of staff
+at a client is important to ensure a quality service. Conservative clients may resent
+revealing personal financial details to a variety of different people each year. Staff
+turnover is possibly a result of extra pressure to complete jobs more quickly without
+the satisfaction of a job well done. Also, staff may realise that the lack of range of
+services offered by the firm will limit their own experience and career paths.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 17 OF 18
+==============================================================================
+PROGRESS TEST ANSWERS
+KAPLAN PUBLISHING
+17
+
+Conclusion
+
+In  conclusion,  the  financial  results  do  not  show  the  full  picture.  The  firm  has
+fundamental weaknesses that need to be addressed if it is to grow into the future. At
+present it is being left behind by a changing industry and changing competition. It is
+vital that BWealth reassesses its attitude and ensures that the firm has a better fit
+with its business environment.
+
+In particular, BWealth should seek to develop complementary services and reduce
+errors on existing work.
+
+Marking scheme
+
+Marks
+(a)
+
+(b)
+Turnover growth
+Profitability
+Cash position
+Debtor management
+Any valid point worth 1 mark, up to a maximum of 3
+2
+2
+2
+1
+3
+(c)
+Comment on error rates
+Comment on client retention
+Comment on average fees
+Comment on market share
+Comment on non‐core services
+Comment on employee retention
+Any other valid comment 1 mark, maximum 2 marks
+Conclusion
+1
+1
+1
+1
+1
+1
+2
+2
+
+––––
+Total
+
+20
+
+––––
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 18 OF 18
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+18
+KAPLAN PUBLISHING
+
+
+##############################################################################
+PM Consolidation Test - Questions S22-J23.pdf
+##############################################################################
+PM — PERFORMANCE MANAGEMENT
+SOURCE: PM Consolidation Test - Questions S22-J23.pdf
+PAGES: 16
+
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 1 OF 16
+==============================================================================
+ACCA CONSOLIDATION TEST
+
+Performance
+Management (PM)
+
+September 2022 to June 2023
+Time allowed
+3 hours and 10 minutes
+
+This paper is divided into three sections:
+Section A – All 15 questions are compulsory and MUST be attempted
+Section B – All 15 questions are compulsory and MUST be attempted
+Formulae is on page 15
+Do not open this paper until instructed by the supervisor.
+Do NOT record any of your answers on the question paper. This
+question paper must not be removed from the examination hall.
+
+Kaplan Publishing/Kaplan Financial
+
+ACCA – PM
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 2 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+2
+
+KAPLAN PUBLISHING
+
+© Kaplan Financial Limited, 2022
+The text in this material and any others made available by any Kaplan Group company does not
+amount to advice on a particular matter and should not be taken as such. No reliance should be
+placed on the content as the basis for any investment or other decision or in connection with any
+advice given to third parties. Please consult your appropriate professional adviser as necessary.
+Kaplan Publishing Limited and all other Kaplan group companies expressly disclaim all liability to
+any  person  in  respect  of  any  losses  or  other  claims,  whether  direct, indirect,  incidental,
+consequential or otherwise arising in relation to the use of such materials.
+All rights reserved. No part of this examination may be reproduced or transmitted in any form or
+by any means, electronic or mechanical, including photocopying, recording, or by any information
+storage and retrieval system, without prior permission from Kaplan Publishing.
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 3 OF 16
+==============================================================================
+CONSOLIDATION TEST QUESTIONS
+KAPLAN PUBLISHING
+
+3
+
+SECTION A
+ALL 15 questions are compulsory and must be attempted
+Each question is worth 2 marks
+1
+The target cost for a product has been calculated to be $45, which is 10% less than the
+actual cost currently achievable.
+The business is considering providing some internal training to improve efficiency of labour
+and hence reduce the cost gap. The current material cost is $12 per unit and this will not
+change as efficiency changes. Labour rates are $12 per hour.
+How much of an efficiency improvement (measured by the % reduction in labour time per
+unit) will be necessary to remove the cost gap completely?
+A
+13.2%
+B
+15.2%
+C
+16.8%
+D
+17.1%
+2
+Cloud computing can help the finance function in which TWO of the following ways?
+A
+Remove the need to comply with laws and regulations
+B
+Restricted financial reporting
+C
+Allows collaboration in real time
+D
+Increased security of data
+3
+Which one of the following options is not part of the 5Vs of Big Data?
+A
+Vitality
+B
+Velocity
+C
+Value
+D
+Veracity
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 4 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+4
+
+KAPLAN PUBLISHING
+4
+Company  C  uses  a  throughput  accounting  system.  The  following  information  relates  to
+product Z:
+
+Selling price
+$100
+
+Material cost
+$32
+
+Conversion costs
+$40
+
+Time on bottleneck resource
+16 minutes
+What is the return per hour for product z, to the nearest whole dollar?
+_________
+5
+What is defined as ‘an activity within an organisation which has a lower capacity than
+preceding or subsequent activities thereby reducing throughput’?
+A
+Constraint
+B
+Limiting factor
+C
+Bottleneck
+D
+Restriction
+6
+When  evaluating  a  new  information  system,  which  ONE  of  the  following  would  NOT
+represent a tangible cost?
+A
+Additional training undertaken by IS staff
+B
+Heating and lighting where the system is housed
+C
+Staff uncertainty caused by the change
+D
+Time taken on system design
+7
+J Company manufactures and sells a single product, XY for $56 per unit. In March, budgeted
+volume  was  7,200  units,  the  margin  of  safety  was  26.2%.  The  budgeted  contribution  to
+sales ratio is 21%.
+What are the budgeted fixed costs for March?
+A
+$106,856
+B
+$62,493
+C
+$84,672
+D
+$105,638
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 5 OF 16
+==============================================================================
+CONSOLIDATION TEST QUESTIONS
+KAPLAN PUBLISHING
+
+5
+8
+Blooms  Co  is  using  linear  programming  to  decide  how  many  units  of  each  of  its  two
+products to make each week. Weekly production will be x units of Product X, and y units of
+Product Y. At least 50 units of X must be produced each week, and at least twice as many
+units of Y as of X must be produced  each week.    Each unit of  X requires 30 minutes of
+labour, and each unit of Y requires two hours of labour. There are 5,000 hours of labour
+available each week.
+Which of the following is the correct set of constraints?
+A
+0.5x + 2y
+
+≤
+5,000
+
+x
+
+≥
+50
+
+y
+
+≤
+2x
+B
+x + 4y
+
+≤
+5,000
+
+x
+
+≥
+50
+
+y
+
+≥
+2x
+C
+0.5x + 2y
+
+≤
+5,000
+
+x
+
+≥
+50
+
+y
+
+≥
+100
+D
+0.5x + 2y
+
+≤
+5,000
+
+x
+
+≥
+50
+
+y
+
+≥
+2x
+9
+B Ltd makes three products X, Y and Z. The following information is available:
+
+X
+Y
+Z
+
+$
+$
+$
+Direct materials
+15
+18
+13
+Direct wages ($9/hr)
+18
+13.5
+27
+Variable o’heads
+6
+4.5
+9
+Selling price
+52
+49
+56
+Demand (units)
+2,000
+1,500
+600
+Labour is limited to 6000 hours.
+How will these products be ranked in order to determine the optimum production plan?
+A
+Y,X,Z
+B
+Y,Z,X
+C
+X,Y,Z
+D
+Z,X,Y
+10
+ Which ONE of the following does NOT represent a control in a computer network?
+A
+A firewall
+B
+Data encryption
+C
+Passwords
+D
+A cookie
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 6 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+6
+
+KAPLAN PUBLISHING
+11
+ABC plc is about to launch a new product. Facilities will allow the company to produce up to
+20 units per week. The marketing department has estimated that at a price of $8,000 no
+units will be sold, but for each $150 reduction in price one additional unit per week will be
+sold.
+
+Fixed costs associated with manufacture are expected to be $12,000 per week.
+
+Variable costs are expected to be $4,000 per unit for each of the first 10 units; thereafter
+each  additional  unit  will  cost  $400  more  than  the  preceding  one.  The  most  profitable
+level of output per week for the new product is:
+A
+10 units
+B
+11 units
+C
+13 units
+D
+14 units
+12
+A  skincare  range  is  being  marketed.  The  more  basic  products  such  as  cleanser  and
+moisturiser are priced relatively low but enhanced products such as eye cream and serum
+are priced much higher.
+What is this an example of?
+A
+Complementary product pricing
+B
+Product line pricing
+C
+Price skimming
+D
+Price discrimination
+13
+QT manufactures two products, X and Y. It has created a linear programming problem and
+formulated the objective function as follows:
+Maximise contribution = 20x + 5y
+Where X = Number of product X produced and  Y = Number of product Y produced
+QT has determined that two materials, A and B, form the binding constraints. The
+constraints have been represented by the following formulae:
+(A) 5x + 2y = 11,000 kgs
+(B) 10x + 5y = 25,000 kgs
+The solution to the linear programme formulation provided a contribution of $35,000.
+However, a new market supplier for material A has been found and, although the supplier is
+more expensive than existing suppliers, this may alleviate the material A constraint.
+What is the shadow price for material A?
+A
+$0
+B
+$5
+C
+$10
+D
+$15
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 7 OF 16
+==============================================================================
+CONSOLIDATION TEST QUESTIONS
+KAPLAN PUBLISHING
+
+7
+14
+Which TWO of the following statements about Environmental Management Accounting
+are true?
+(1)
+Cost savings in environmental costs are easily identified.
+(2)
+Environmental management accounting considers financial costs only.
+(3)
+ABC can be used to analyse environmental costs.
+(4)
+Flow cost accounting is a recognised method of accounting for environmental costs.
+A
+(1) and (2)
+B
+(2) and (3)
+C
+(3) and (4)
+D
+(1) and (4)
+15
+Garv is setting up a business printing newspapers and magazines.  The following standard
+cost information is available:
+
+Newspapers
+Magazines
+Selling price
+3.00
+4.00
+Direct materials:
+
+– Paper
+0.4
+0.5
+– Ink
+0.2
+0.3
+
+Direct labour
+0.6
+0.8
+Variable overhead
+0.3
+0.45
+Fixed overhead
+0.9
+0.8
+
+––––
+––––
+Profit per unit
+0.6
+1.15
+
+––––
+––––
+
+Budgeted production
+1,000 units per week
+3,000 units per month
+If  newspapers  and  magazines  are  sold  in  their  budgeted  mix,  what  is  the  budgeted
+breakeven revenue?
+A
+$312,397
+B
+$154,286
+C
+$43,826
+D
+$153,036
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 8 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+8
+
+KAPLAN PUBLISHING
+SECTION B
+All 15 questions are compulsory and MUST be attempted.
+Each question is worth 2 marks.
+The following scenario relates to questions 16–20
+Horatio Co operates an activity‐based costing system in its factory.
+Horatio Co has forecast the following information for next year.
+
+Cost pool
+Cost ($)
+Number of drivers
+ABC OAR ($)
+Production set‐ups
+105,000
+300 set‐ups
+350.00 per set‐up
+Product testing
+300,000
+1,500 tests
+200.00 per test
+Component supply/storage
+  25,000
+500 component orders
+50.00 per order
+Customer orders/delivery
+112,500
+1,000 customer orders
+112.50 per order
+General  fixed  overheads  such  as  lighting  and  heating,  which  cannot  be  linked  to  any  specific
+activity, are expected to be $900,000 and these overheads are absorbed on a direct labour hour
+basis. Total direct labour hours for next year are expected to be 300,000 hours.
+Horatio Co expects orders for Product ZT3 next year to be 100 orders of 60 units per order and
+60 orders of 50 units per order. The company holds no inventories of Product ZT3 and will need to
+produce  the  order  requirement  in  production  runs  of  900 units.  One  order  for  components  is
+placed prior to each production run. Four tests are made during each production run to ensure
+that quality standards are maintained. The following additional cost and profit information relates
+to product ZT3:
+Component cost:
+$1.00 per unit
+Direct labour:
+10 minutes per unit at $7.80 per hour
+16
+The following statements have been made about Activity Based Costing:
+(1)
+ABC provides much better insight into what drives overhead costs.
+(2)
+All overheads can be allocated to specific activities.
+(3)
+ABC can only be applied to production overheads.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Both (1) and (2)
+D
+All of the above
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 9 OF 16
+==============================================================================
+CONSOLIDATION TEST QUESTIONS
+KAPLAN PUBLISHING
+
+9
+17
+The following statements have been made about overheads:
+(1)
+For long term variable overhead costs, the cost driver will be the volume of activity.
+(2)
+A cost driver is any factor that causes a change in the cost of an activity.
+(3)
+Traditional absorption costing tends to under‐allocate overhead costs to low volume
+products.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+None of the above
+D
+All of the above
+18
+How much of the general fixed overheads should be absorbed into each unit of Product
+ZT3 using ABC (to 2.d.p)?
+A
+$0.04
+B
+$0.50
+C
+$1.00
+D
+$3.00
+19
+How  much  of  the  production  set‐up  overhead  should  be  absorbed  into  each  unit  of
+Product ZT3 using ABC (to 2.d.p)?
+A
+$0.04
+B
+$0.39
+C
+$2.18
+D
+$11.67
+20
+Horatio  Co  is  operating  in  a  TQM  environment.  Which  one  of  the  following  would  be
+classified as an external failure cost?
+Which of the above statements is/are true?
+A
+TZ3 product liability costs
+B
+Quality engineering costs in the design department
+C
+Factory staff training costs
+D
+TZ£ production line downtime due to quality problems
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 10 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+10
+
+KAPLAN PUBLISHING
+The following scenario relates to questions 21–25
+Cleopatra Ltd manufactures and sells three products with the following selling prices and variable
+costs:
+
+Cesar
+Lepidus
+Antony
+
+$/unit
+$/unit
+$/unit
+Selling price
+3.00
+2.45
+4.00
+Variable cost
+1.20
+1.67
+2.60
+So  far,  Cleopatra  Ltd  has  adopted  a  price  skimming  approach  for  its  products,  with  a  price
+calculated using on a cost‐plus basis.
+Existing annual sales volume of the three products is:
+Cesar
+460,000 units
+Lepidus
+1,000,000 units
+Antony
+380,000 units
+Annual fixed costs are currently $1,710,000 per annum.
+Cleopatra is thinking of setting up an online business importing and selling a new product, the
+‘Pompey’. The cost of each Pompey varies depending on the number purchased, although they
+can only be purchased in batches of 1,000 units. Cleopatra also has to pay import taxes which vary
+according to the quantity purchased.
+Cleopatra has already carried out some market research and identified that sales quantities are
+expected  to  vary  depending  on  the  price  charged.  Consequently,  the  following  data  has  been
+established for the first month:
+Number of batches
+imported and sold
+Average cost per unit in
+$, including import taxes
+Total fixed costs per
+month ($)
+Expected selling price
+per unit ($)
+1
+12
+10,000
+20
+2
+10
+10,500
+18
+3
+8.95
+11,000
+16
+4
+8.5
+11,500
+13
+5
+7.5
+13,000
+12
+
+21
+The following statements have been made about price skimming:
+(1)
+Market  skimming  should  be  used  if  an  organisation  wishes  to  discourage  new
+entrants into a market.
+(2)
+Market skimming should be used if a product is new and different.
+(3)
+Market skimming should be used if a product is predicted to have a short life cycle.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+(1), (2) and (3)
+D
+(2) and (3) only
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 11 OF 16
+==============================================================================
+CONSOLIDATION TEST QUESTIONS
+KAPLAN PUBLISHING
+
+11
+22
+Which of the following statements regarding cost‐plus pricing are correct?
+(1)
+Marginal cost‐plus pricing should be only used for short term decision making.
+(2)
+Cost‐plus pricing requires that the profit mark‐up applied by an organisation is fixed.
+(3)
+Cost‐plus  pricing  is  a  strategically  focused  approach,  as  it  accounts  for  external
+factors.
+(4)
+Full cost‐plus pricing requires the budgeted level of output to be determined at the
+outset.
+A
+(1) and (2) only
+B
+(1), (2) and (3) only
+C
+(1) and (4) only
+D
+(1), (2), (3) and (4)
+23
+Based on  the existing 3  products (ignoring  the ‘Pompey’),  what is the  breakeven sales
+revenue of the business?
+A
+$1,710,000
+B
+$2,850,000
+C
+$4,275,000
+D
+$5,350,000
+24
+The following statements have been made about Cost‐Volume‐Profit analysis:
+(1)
+CVP analysis allows for fluctuating selling prices.
+(2)
+CVP analysis assumes productivity remains unchanged.
+(3)
+CVP analysis assumes that the only factor affecting cost is volume.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+(1), (2) and (3)
+D
+(2) and (3) only
+25
+How many batches of Pompey should the company import and sell?
+A
+1 batch
+B
+2 batches
+C
+3 batches
+D
+5 batches
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 12 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+12
+
+KAPLAN PUBLISHING
+The following scenario relates to questions 26–30
+Cressida Co bakes and sells two type of luxury miniature cakes: cake type ‘P’ and cake type ‘S’. All
+cakes  use  the  same  type  of  exceptional  quality  chocolate,  which  can  be  difficult  to  source  in
+sufficient quantity. The supply of chocolate is restricted to 5,400 kg per period. Chocolate costs
+$40 per kg.
+The  cakes  are  made  by  skilled  bakers  (highly  skilled  labour)  who  are  well  known  for  their
+workmanship. The skilled bakers take years to train and are difficult to recruit. Cressida’s bakers
+are generally only able to work for 12,000 hours in a period. The bakers are paid $18 per hour.
+Cressida Co sells the cakes to a large market. Demand for the cakes is strong, and in any period,
+up to 15,000 ‘P’ cakes and 12,000 ‘S’ cakes could be sold. The selling price for ‘P’ cakes is $41 and
+the selling price for ‘S’ cakes is $69.
+Manufacturing details for the two products are as follows:
+
+‘P’ cake
+‘S’ cake
+Bakers time per cue
+0.5 hours
+0.75 hours
+Chocolate per cake
+270 g
+270 g
+Other variable costs per cake
+$1.20
+$4.70
+Cressida Co does not keep inventory.
+26
+What is the contribution earned from each cake?
+A
+$30.20 for a ‘P’ and $58.20 for a ‘S’
+B
+$21.20 for a ‘P’ and $58.20 for a ‘S’
+C
+$21.20 for a ‘P’ and $40.00 for a ‘S’
+D
+$20.00 for a ‘P’ and $40.00 for a ‘S’
+27
+Which of the following constraint statements (relating to material and to highly skilled
+labour respectively) is correct?
+
+Material Constraint
+
+Labour Constraint
+A
+0.270 P + 0.270 S ≤ 5,400
+
+0.50 P + 0.50 S ≤ 12,000
+B
+0.270 P + 0.270 S ≤ 5,400
+
+0.50 P + 0.75 S ≤ 12,000
+C
+0.50 P + 0.270 S ≤ 5,400
+
+0.50 P + 0.75 S ≤ 12,000
+D
+0.50 P + 0.50 S ≤ 5,400
+
+0.50 P + 1.75 S ≤ 12,000
+28
+The linear graph on the following page has been correctly drawn. What is the maximum
+contribution that can be earned?
+A
+$120,000
+B
+$480,000
+C
+$600,000
+D
+$720,000
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 13 OF 16
+==============================================================================
+CONSOLIDATION TEST QUESTIONS
+KAPLAN PUBLISHING
+
+13
+
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+24
+22
+Chocolate
+Max P
+Max S
+Max contribution
+Bakers
+B
+C
+F
+D
+contribution
+S
+0
+Feasible region = OABCDE
+A
+E
+
+P
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 14 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+14
+
+KAPLAN PUBLISHING
+29
+The shadow price of labour has been worked out and found to be $40 per extra hour of
+bakers’ time.
+
+If an extra 1,000 hours of skilled labour time become available at $18 per hour, what will
+the maximum increase in contribution be?
+A
+$20,000
+B
+$40,000
+C
+$60,000
+D
+$80,000
+30
+The following statements have been made about shadow prices:
+(1)
+The  shadow  price  of  a  resource  represents  the  maximum  premium  that  the  firm
+should be willing to pay for one extra unit of each constraint.
+(2)
+Non‐critical constraints will have zero shadow prices, as slack exists already.
+Which of the above statements is/are true?
+A
+(1) only
+B
+(2) only
+C
+Both (1) and (2)
+D
+Neither (1) nor (2)
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 15 OF 16
+==============================================================================
+CONSOLIDATION TEST QUESTIONS
+KAPLAN PUBLISHING
+
+15
+FORMULAE
+
+Regression analysis
+y = a + bx
+
+Learning curve
+Y = axb
+Where  y
+= cumulative average time per unit to produce × units
+
+a
+= the time taken for the first unit of output
+
+x
+= the cumulative number of units produced
+
+b
+= the index of learning (log LR/log2)
+
+LR   = the learning rate as a decimal
+Demand curve
+P = a − bQ
+b =
+quantity
+
+in
+
+Change
+price
+
+in
+
+Change
+
+a = price when Q = 0
+MR = a – 2bQ
+
+==============================================================================
+PM QUESTION PAPER — SOURCE PDF PAGE 16 OF 16
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+16
+
+KAPLAN PUBLISHING
+
+
+##############################################################################
+MARKING GUIDE: PM Consolidation Test - Answers S22-J23.pdf
+##############################################################################
+PM — ANSWER / MARKING GUIDE
+SOURCE: PM Consolidation Test - Answers S22-J23.pdf
+PAGES: 8
+
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 1 OF 8
+==============================================================================
+ACCA
+
+PM
+
+Performance Management
+
+September 2022 to June 2023
+
+Consolidation Test – Answers
+
+To gain maximum benefit, do not refer to these answers
+until  you  have  completed  the  consolidation  test
+questions and submitted them for marking.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 2 OF 8
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+2
+
+KAPLAN PUBLISHING
+
+© Kaplan Financial Limited, 2022
+The text in this material and any others made available by any Kaplan Group company does not
+amount to advice on a particular matter and should not be taken as such. No reliance should be
+placed on the content as the basis for any investment or other decision or in connection with any
+advice given to third parties. Please consult your appropriate professional adviser as necessary.
+Kaplan Publishing Limited and all other Kaplan group companies expressly disclaim all liability to
+any  person  in  respect  of  any  losses  or  other  claims,  whether  direct, indirect,  incidental,
+consequential or otherwise arising in relation to the use of such materials.
+All rights reserved. No part of this examination may be reproduced or transmitted in any form or
+by any means, electronic or mechanical, including photocopying, recording, or by any information
+storage and retrieval system, without prior permission from Kaplan Publishing.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 3 OF 8
+==============================================================================
+CONSOLIDATION TEST ANSWERS
+KAPLAN PUBLISHING
+
+3
+SECTION A
+1
+A
+Actual cost currently achievable: ($45/(1–10%)) = $50.
+The cost gap is therefore $50 currently achieved – $45 target cost = $5.00.
+Labour  cost  is  currently  Total  cost  $50  –  material  cost  $12  =  $38.  This  means  it  takes
+$38/$12 = 3.167 hours per unit.
+To achieve the target cost, we need to move to a labour cost of $38.00 – $5.00 = $33.00
+and therefore take $33/$12 = 2.75 hours per unit.
+We  therefore  need  a  reduction  in  time  per  unit  of  (3.167  –  2.75)  =  0.417  hours,  which
+represents 0.417/3.167 = 13.16% improvement.
+2
+C AND D
+Collaboration such as file sharing, and cloud service providers’ knowledge on security are
+advantages. It does not remove the need to comply with laws, but may help us to comply. It
+may help with more detailed financial reporting as organisations can store and use more
+data.
+3
+A
+ The five V’s represent the defining characteristics of Big Data.  Velocity (data streaming in
+at a virtually constant rate), volume (multiple sources of data feeding into systems), variety
+(data can now be generated and collected in a huge range of formats), veracity (because of
+so many different sources of data, there is an increased risk of inaccuracies) and value (all
+the volumes of fast‐moving data of different variety and veracity have to be turned into
+value for business users).
+4
+$255
+Return per minute
+= (Selling price – Material cost)/Time on bottleneck resource
+
+= ($100 – $32)/16 minutes
+
+= $4.25 per minute, so return per hour =$4.25 × 60 = $255
+5
+C
+6
+C
+7
+B
+Break even volume = 7,200 – (7,200 × 26.2%) = 5,314 units
+Contribution at break even point = Fixed costs
+Contribution at break even point = 5,314 × 21% × $56  = $62,493  = Fixed costs
+8
+D
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 4 OF 8
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+4
+
+KAPLAN PUBLISHING
+9
+A
+
+X
+Y
+Z
+Contribution ($)
+13
+13
+7
+Labour hours
+2
+1.5
+3
+Cont/hour
+6.5
+8.66
+2.33
+Rank
+2nd
+1st
+3rd
+10
+D
+11
+B
+
+The best approach is to calculate the profit for a range of outputs from 10 units upwards,
+then select the output with the highest profit.
+Units
+Total variable
+costs
+Selling price
+per unit
+Total select
+revenue
+Total
+contribution
+10
+$40,000
+$6,500
+$65,000
+$25,000
+11
+$44,400
+$6,350
+$69,850
+$25,450
+12
+$49,200
+$6,200
+$74,400
+$25,200
+13
+$54,400
+$6,050
+$78,650
+$24,250
+12
+B
+13
+C
+
+Tutorial note
+One definition of the shadow price that gives us the method of calculating it is ‘the extra
+contribution that is earned by having available one more unit of the binding constraint.
+To calculate it, increase the available amount of material A by 1 unit and solve the new
+simultaneous equations as follows:
+   (A) 5x + 2y = 11,001 kgs and     (B) 10x + 5y = 25,000 kgs
+Multiply the A equation by 2 to make the X values match:
+   (A) 10x + 4y = 22,002 and   (B) 10x + 5y = 25,000
+Deduct the A equation from the B equation (as the A equation has the lower numbers to
+avoid dealing with negatives), leaving:
+1y = 2,998 so the value of y is 2,998 units
+Substitute this into any of the equations used in the calculation. For example,  substituting
+into the original A equation:
+5x + 2 × 2,998 = 11,001
+5x + 5,996 = 11,001
+5x = 5,005
+X = 1,001
+So y = 2,998 and x = 1,001
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 5 OF 8
+==============================================================================
+CONSOLIDATION TEST ANSWERS
+KAPLAN PUBLISHING
+
+5
+Next calculate the contribution now earned:
+C = 20x + 5y from the question
+C = 20 x 1,001 + 5 × 2,998 = $35,010
+Original contribution (from question) = $35,000
+Shadow price = $35,010 – $35,000 = $10
+14
+C
+Statement  (1)  is  not  correct:  identifying  the  costs  of  environment‐related  activities  is
+difficult. Statement (2) is not correct either: EMA generates and analyses both financial and
+non‐financial  information  in  order  to  support  internal  environmental  management
+processes.
+15
+D
+
+Tutorial note
+Make sure you read the question carefully and note that one set of data (newspapers) is
+given per week and the other set (magazines), per month.
+$153,036
+Contribution for magazines = 1.95 (4.00 – 0.5 – 0.3 – 0.8 – 0.45)
+Contribution for newspapers = 1.50 (3.00 – 0.4 – 0.2 – 0.6 – 0.3)
+Weighted average c/s ratio = total contribution/total revenue
+Hence:
+
+4)
+
+12
+
+(3,000
+
+3)
+
+52
+
+(1,000
+1.95)
+
+12
+
+(3,000
+
+1.5)
+
+52
+
+(1,000
+
+
+
+
+
+
+
+
+
+
+
+=
+300,000
+148,200  = 0.494
+Fixed costs = (0.9 × 1,000 × 52 weeks ) + (0.8 × 3,000 × 12 months) = $75,600
+Breakeven revenue:
+=
+ratio
+
+C/S
+
+average
+
+Weighted
+costs
+
+Fixed
+
+=
+75,600/0.494 = $153,036
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 6 OF 8
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+6
+
+KAPLAN PUBLISHING
+SECTION B
+16
+A
+17
+D
+18
+B
+ General overheads absorption rate = 900,000/300,000 = $3.00 per direct labour hour
+ General overhead per unit of Product ZT3 = $3.00 × 10/60 = $0.50
+19
+D
+Production of product ZT3 = (100 × 60) + (60 × 50) = 9,000 units per year
+Number of production runs = number of set‐ups = 9,000/900 = 10 set‐ups
+Production set‐up annual cost for Product ZT3 = $350 per set‐up x 10 set‐ups = $3,500
+Production set‐up cost per unit for Product ZT3 = $3,500/9,000 = $0.39 to 2 d.p.
+20
+A
+External failure costs are costs arising outside the manufacturing organisation of failure to
+achieve a specified quality (after transfer of ownership to the customer).
+Quality engineering costs in the design department, staff training costs and production line
+downtime  costs  occur  before  transfer  of  ownership  to  the  customer  (and  are  internal
+failure costs).
+21
+D
+Statement (1) is not true. It is market penetration that should be used if an organisation
+wishes to discourage new entrants into a market.
+22
+C
+Statement 1 is correct: Marginal or variable Cost Plus Pricing is not suitable for long term
+pricing, as recovery of fixed cost may not be possible.
+Statements 2 and 3 are not correct: Cost plus pricing is internally focused and a drawback
+of  the  technique  is  that  it  fails  to  consider  external  influence,  like  competitor  pricing
+strategies.
+The mark‐up percentage does not have to be fixed: it can vary and be adjusted to reflect
+market conditions.
+Statement 4 is correct: the budgeted level of output does need to be determined for full
+cost‐plus  pricing  as  it  would  be  used  to  calculate  the  overhead  absorption  rate  for  the
+calculation of the full cost per unit.
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 7 OF 8
+==============================================================================
+CONSOLIDATION TEST ANSWERS
+KAPLAN PUBLISHING
+
+7
+23
+C
+
+Sales
+volume
+Selling
+price
+Sales
+revenue
+Contribution
+per unit
+Contribution
+C/S
+ratio
+
+$
+$000
+
+$000
+
+Cesar
+460,000
+3.00
+1,380
+1.80
+   828
+0.60
+Lepidus
+1,000,000
+2.45
+2,450
+0.78
+   780
+0.32
+Antony
+380,000
+4.00
+1,520
+––––––
+1.40
+   532
+––––––
+0.35
+
+5,350
+––––––
+
+2,140
+––––––
+
+Contribution is 40% of sales $(2,140,000/5,350,000)
+
+The breakeven sales revenue is:
+
+ratio
+
+on/sales
+Contributi
+costs
+
+Fixed
+
+=
+40%
+£1,710,000
+
+= $4,275,000
+24
+D
+25
+C
+Number of batches
+imported and sold
+Contribution
+per unit
+Total number
+of units
+Total
+contribution
+Total profit or
+loss
+1
+8
+1,000
+$8,000
+–$2,000
+2
+8
+2,000
+16,000
+$5,500
+3
+7.05
+3,000
+21,150
+$10,150
+4
+4.50
+4,000
+18,000
+$6,500
+5
+4.50
+5,000
+22,500
+$9,500
+26
+D
+Contribution per cake
+
+‘P’
+‘S’
+
+$
+$
+Selling price
+41.00
+69.00
+Material cost at $40/kg
+(10.80)
+(10.80)
+Bakers cost at $18/hr
+(9.00)
+(13.50)
+Other variable cost
+(1.20)
+   (4.70)
+
+––––––
+––––––
+Contribution per cake
+20.00
+40.00
+
+––––––
+––––––
+
+==============================================================================
+PM ANSWER PAPER — SOURCE PDF PAGE 8 OF 8
+==============================================================================
+PM: PERFORMANCE MANAGEMENT
+8
+
+KAPLAN PUBLISHING
+27
+B
+Formulation of the linear programming problem
+Variables
+Let P and S be the number of ‘P’ and ‘S’ cakes made and sold in any period.
+Let C represent the contribution earned in any three month period.
+Constraints:
+Bakers:
+0.5P + 0.75S ≤  12,000
+Chocolate:
+0.27P + 0.27S ≤   5,400
+28
+C
+The feasible region is identified as the area inside OABCDE.
+The contribution line is identified as the dotted line. Pushing the contribution line outward
+increases  the  contribution  gained  (theory  of  iso‐contribution).  The  contribution  line  last
+leaves the feasible region at point D which is the intersect of the skilled labour line and the
+maximum demand line for S.
+Solving at point D:
+Maximum demand
+S =  12,000   (1)
+Bakers
+0.5P + 0.75S =  12,000   (2)
+Substituting S = 12,000 in equation (2)
+
+0.5P + (0.75 × 12,000) =  12,000
+
+0.5P + 9,000 =  12,000
+
+0.5P =  12,000   – 9,000
+
+0.5P =   3,000
+
+P =   6,000
+Therefore the maximum contribution is earned when 6,000 ‘P cakes and 12,000 ‘S’ cakes
+are made and sold in a period.
+The contribution earned is
+C = (20 × 6,000) + (40 × 12,000)
+C = 120,000 + 480,000
+C = $600,000
+29
+B
+We do not need to make any more ‘S’ cakes at point D; therefore, every extra hour would
+be used to make 2 extra ‘P’ cakes, thereby increasing total contribution by $40.
+So with an extra 1,000 hours, extra contribution = $40,000.
+30
+C
+Both statements are correct.

@@ -1,0 +1,225 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://yateseducation.local/schemas/question.schema.json",
+  "title": "Yates Education ACCA Question",
+  "type": "object",
+  "required": [
+    "id",
+    "subject",
+    "originalQuestionNumber",
+    "questionType",
+    "marks",
+    "content",
+    "source",
+    "verification"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "subject": {
+      "enum": [
+        "AA",
+        "FR",
+        "PM"
+      ]
+    },
+    "originalQuestionNumber": {
+      "type": [
+        "string",
+        "integer"
+      ]
+    },
+    "chapter": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "difficulty": {
+      "enum": [
+        "foundation",
+        "standard",
+        "challenging",
+        "unknown"
+      ]
+    },
+    "questionType": {
+      "enum": [
+        "single",
+        "multi",
+        "numeric",
+        "matrix",
+        "columns",
+        "written",
+        "financial-statements",
+        "consolidation",
+        "interpretation",
+        "table",
+        "scenario",
+        "unknown"
+      ]
+    },
+    "marks": {
+      "type": "number",
+      "minimum": 0
+    },
+    "scenario": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "content": {
+          "type": "string"
+        },
+        "exhibits": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "content": {
+                "type": "string"
+              },
+              "table": {
+                "type": [
+                  "array",
+                  "null"
+                ]
+              }
+            },
+            "required": [
+              "title"
+            ]
+          }
+        }
+      }
+    },
+    "content": {
+      "type": "object",
+      "required": [
+        "questionText"
+      ],
+      "properties": {
+        "questionText": {
+          "type": "string"
+        },
+        "requirements": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "table": {
+          "type": [
+            "array",
+            "null"
+          ]
+        },
+        "figures": {
+          "type": "array"
+        }
+      }
+    },
+    "answer": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "explanation": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "file",
+        "questionPages"
+      ],
+      "properties": {
+        "file": {
+          "type": "string"
+        },
+        "questionPages": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "answerPages": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "rawQuestionOCR": {
+          "type": "string"
+        },
+        "rawAnswerOCR": {
+          "type": "string"
+        }
+      }
+    },
+    "verification": {
+      "type": "object",
+      "required": [
+        "status"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "needs_review",
+            "verified",
+            "rejected",
+            "missing_answer"
+          ]
+        },
+        "reviewer": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reviewedAt": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "published": {
+      "type": "boolean"
+    }
+  }
+}
