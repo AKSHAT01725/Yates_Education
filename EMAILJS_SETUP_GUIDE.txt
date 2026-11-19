@@ -1,0 +1,60 @@
+ASK-A-DOUBT BUTTON  -  EMAILJS SETUP  (one time, about 5 minutes)
+==================================================================
+Students tap the "Ask a doubt" button (bottom-right on every page, and inside Study Planner).
+Their doubt is emailed to:  yateseducationaccaresource@gmail.com
+Reply-To is the student's own email, so you can simply press "Reply" in Gmail.
+
+UNTIL YOU DO THIS SETUP the button still works: it opens the student's email app with the doubt
+already drafted for the admin email. After setup it sends automatically, with no email app needed.
+
+STEP 1  Create the free account
+  - Go to https://www.emailjs.com  ->  Sign up.
+
+STEP 2  Connect Gmail  ->  copy the SERVICE ID
+  - Dashboard > Email Services > Add New Service > Gmail.
+  - Log in with yateseducationaccaresource@gmail.com and allow access.
+  - Copy the Service ID (looks like  service_abc123).
+
+STEP 3  Create the template  ->  copy the TEMPLATE ID
+  - Dashboard > Email Templates > Create New Template. Fill it like this:
+      To Email  :  yateseducationaccaresource@gmail.com
+      From Name :  {{from_name}}
+      Reply To  :  {{reply_to}}
+      Subject   :  {{subject}}
+      Content   :
+        New doubt from {{from_name}} ({{from_email}})
+
+        Topic    : {{topic}}
+        Question : {{question_ref}}
+
+        Doubt:
+        {{message}}
+
+        ------------------------------
+        Student progress: {{student_progress}}
+        Sent at: {{sent_at}}   |   App: {{app}}
+  - Save. Copy the Template ID (looks like  template_xyz789).
+
+STEP 4  Copy the PUBLIC KEY
+  - Dashboard > Account > General > Public Key  (looks like  AbCdEfGh123456789).
+
+STEP 5  Paste the three values into index.html
+  - Open index.html in any text editor (Notepad / VS Code).
+  - Search for:  EMAILJS_CONFIG
+  - Fill the three quotes:
+        const EMAILJS_CONFIG = {
+          serviceId : 'service_abc123',
+          templateId: 'template_xyz789',
+          publicKey : 'AbCdEfGh123456789',
+          adminEmail: 'yateseducationaccaresource@gmail.com'
+        };
+  - Save and upload index.html to your website again.
+
+STEP 6  Test
+  - Open the website, tap "Ask a doubt", send a test doubt, check the Gmail inbox.
+
+NOTES
+  - The Public Key is meant to be public (same as the Firebase config). It can only send email
+    through YOUR template. In EmailJS > Account > Security you can also restrict it to your
+    website domain.
+  - Free EmailJS plan = 200 emails / month. The form blocks double-clicks and rapid re-sends.

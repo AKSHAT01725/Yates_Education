@@ -1,0 +1,8 @@
+SECTION A ADDITION REPORT
+========================
+Added 39 original, independently written Section A MCQs (Q276-Q315 range; one duplicate skipped).
+Topics: Ethics; Planning and risk assessment; Internal controls; Audit evidence and assertions; Sampling and testing; Substantive procedures; Completion and reporting; Fraud and laws.
+Each item has four options, an answer key and explanation.
+Existing records preserved: 274 Section A questions; 67 Section B records.
+Duplicate check: no exact normalized duplicate stems among existing and added records.
+Validation: embedded JSON parsed after update. This is original practice material, not a verbatim import from BPP.

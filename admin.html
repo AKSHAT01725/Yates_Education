@@ -1,0 +1,796 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#1f3a8a">
+<title>Admin · AA Exam Practice</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f3f4f8; --surface:#ffffff; --surface2:#f7f8fb; --ink:#14171f; --muted:#667085; --line:#e4e7ee;
+  --brand:#2b45b8; --brand2:#4a63d8; --brandSoft:#e9edfc;
+  --a:#2563eb; --aSoft:#e3ecfe; --b:#7c3aed; --bSoft:#efe7fd;
+  --ok:#0f8a5f; --okSoft:#e1f5ec; --bad:#c2372f; --badSoft:#fbe9e7; --flag:#c26a04; --flagSoft:#fdf1dc;
+  --shadow:0 1px 2px rgba(16,24,40,.05),0 6px 20px rgba(16,24,40,.05); --r:16px;
+}
+:root[data-theme="dark"]{
+  --bg:#0d0f14; --surface:#161a22; --surface2:#1c212b; --ink:#eceef4; --muted:#9aa3b5; --line:#262c38;
+  --brand:#8ea2ff; --brand2:#a9b8ff; --brandSoft:#1d2442;
+  --a:#6ea0ff; --aSoft:#16264a; --b:#b794ff; --bSoft:#271c45;
+  --ok:#3fcf8e; --okSoft:#10302a; --bad:#ff7a70; --badSoft:#3a1b1a; --flag:#f5a524; --flagSoft:#3a2a0f;
+  --shadow:0 1px 2px rgba(0,0,0,.35),0 6px 20px rgba(0,0,0,.3);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0d0f14; --surface:#161a22; --surface2:#1c212b; --ink:#eceef4; --muted:#9aa3b5; --line:#262c38;
+    --brand:#8ea2ff; --brand2:#a9b8ff; --brandSoft:#1d2442;
+    --a:#6ea0ff; --aSoft:#16264a; --b:#b794ff; --bSoft:#271c45;
+    --ok:#3fcf8e; --okSoft:#10302a; --bad:#ff7a70; --badSoft:#3a1b1a; --flag:#f5a524; --flagSoft:#3a2a0f;
+    --shadow:0 1px 2px rgba(0,0,0,.35),0 6px 20px rgba(0,0,0,.3);
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:14.5px/1.55 "Plus Jakarta Sans",system-ui,-apple-system,Segoe UI,Roboto,sans-serif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%}
+button,input,select{font:inherit;color:inherit}
+button{cursor:pointer}
+h1,h2,h3{margin:0;line-height:1.2}
+.ic{width:18px;height:18px;flex:none}
+.muted{color:var(--muted)}
+
+/* ---------- shell ---------- */
+.shell{min-height:100vh}
+body.authed .shell{display:grid;grid-template-columns:252px minmax(0,1fr)}
+.side{display:none}
+body.authed .side{display:flex;flex-direction:column;position:sticky;top:0;height:100vh;padding:20px 14px;background:var(--surface);border-right:1px solid var(--line)}
+.brand{display:flex;align-items:center;gap:11px;padding:2px 8px 22px;font-weight:800;letter-spacing:-.01em}
+.mark{width:36px;height:36px;border-radius:11px;background:linear-gradient(135deg,var(--brand),#6d4bd8);color:#fff;display:grid;place-items:center;font-family:Fraunces,serif;font-size:18px;flex:none}
+.brand small{display:block;font-weight:600;color:var(--muted);font-size:11px;letter-spacing:.06em;text-transform:uppercase;line-height:1.3}
+.navl{display:flex;flex-direction:column;gap:4px}
+.navl button{display:flex;align-items:center;gap:11px;border:0;background:none;border-radius:11px;padding:11px 12px;font-weight:650;color:var(--muted);text-align:left}
+.navl button:hover{background:var(--surface2);color:var(--ink)}
+.navl button.on{background:var(--brandSoft);color:var(--brand)}
+.me{margin-top:auto;border-top:1px solid var(--line);padding-top:14px;display:flex;flex-direction:column;gap:10px}
+.mecard{display:flex;align-items:center;gap:10px;min-width:0}
+.mecard .t{min-width:0}
+.mecard b{display:block;font-size:13.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mecard small{display:block;color:var(--muted);font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.meact{display:flex;gap:8px}
+.meact .btn{flex:1;min-width:0;padding:9px 8px}
+.topbar{display:none}
+.main{min-width:0}
+#app{max-width:1180px;margin:0 auto;padding:28px 28px 60px}
+.av{width:34px;height:34px;border-radius:50%;flex:none;background:var(--brandSoft);color:var(--brand);display:grid;place-items:center;font-weight:800;font-size:13px;object-fit:cover}
+img.av{background:var(--surface2)}
+.av.lg{width:60px;height:60px;font-size:22px}
+
+/* ---------- controls ---------- */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:11px;padding:9px 14px;font-weight:650;font-size:13.5px;line-height:1.2;white-space:nowrap;text-decoration:none}
+.btn:hover{border-color:var(--brand)}
+.btn.primary{background:var(--brand);border-color:var(--brand);color:#fff}
+:root[data-theme="dark"] .btn.primary{color:#0d0f14}
+.btn.danger{color:var(--bad)}
+.btn.danger:hover{border-color:var(--bad)}
+.btn:disabled{opacity:.55;cursor:wait}
+.icn{width:38px;height:38px;border-radius:11px;border:1px solid var(--line);background:var(--surface);display:grid;place-items:center;padding:0;color:var(--muted)}
+.icn:hover{color:var(--ink);border-color:var(--brand)}
+.back{display:inline-flex;align-items:center;gap:8px;border:0;background:none;color:var(--brand);font-weight:700;padding:4px 0;margin-bottom:12px}
+input,select{border:1px solid var(--line);background:var(--surface);border-radius:11px;padding:10px 12px;font-size:14px;min-height:42px;max-width:100%}
+input:focus,select:focus{outline:2px solid var(--brandSoft);border-color:var(--brand)}
+.search{position:relative;flex:1;min-width:200px}
+.search .ic{position:absolute;left:12px;top:12px;color:var(--muted)}
+.search input{width:100%;padding-left:38px}
+
+/* ---------- page parts ---------- */
+.ph{display:flex;align-items:flex-end;justify-content:space-between;gap:14px;flex-wrap:wrap;margin-bottom:20px}
+.ph h1{font-family:Fraunces,serif;font-size:30px;letter-spacing:-.01em}
+.ph p{margin:4px 0 0;color:var(--muted)}
+.acts{display:flex;gap:8px;flex-wrap:wrap}
+.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin-bottom:18px}
+.kpi{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px;box-shadow:var(--shadow);display:flex;gap:13px;align-items:center;min-width:0}
+.kpi .ico{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;flex:none;background:var(--brandSoft);color:var(--brand)}
+.kpi .ico.a{background:var(--aSoft);color:var(--a)} .kpi .ico.b{background:var(--bSoft);color:var(--b)} .kpi .ico.g{background:var(--okSoft);color:var(--ok)}
+.kpi b{display:block;font-size:22px;letter-spacing:-.02em;line-height:1.15}
+.kpi span{display:block;color:var(--muted);font-size:12.5px}
+.kpi small{display:block;color:var(--muted);font-size:12px;margin-top:1px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:18px;margin-bottom:18px;min-width:0}
+.card>h3{font-size:16px;margin-bottom:14px;display:flex;align-items:center;justify-content:space-between;gap:10px}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
+.err{background:var(--badSoft);color:var(--bad);border-radius:12px;padding:12px 14px;margin:0 0 16px;font-size:13.5px}
+.empty{text-align:center;color:var(--muted);padding:34px 10px}
+.empty .ic{width:34px;height:34px;opacity:.5;margin-bottom:8px}
+.tag{display:inline-block;font-weight:800;font-size:11.5px;padding:2px 10px;border-radius:99px}
+.tag.a{background:var(--aSoft);color:var(--a)} .tag.b{background:var(--bSoft);color:var(--b)}
+.pill{display:inline-block;font-size:11.5px;font-weight:800;padding:2px 10px;border-radius:99px;white-space:nowrap}
+.pill.s{background:var(--okSoft);color:var(--ok)} .pill.w{background:var(--badSoft);color:var(--bad)}
+.over{color:var(--flag);font-weight:700}
+.skel i{display:block;height:46px;border-radius:11px;margin:9px 0;background:linear-gradient(90deg,var(--surface2) 25%,var(--line) 50%,var(--surface2) 75%);background-size:200% 100%;animation:sh 1.2s infinite linear}
+@keyframes sh{to{background-position:-200% 0}}
+
+/* ---------- tables (become cards on phones) ---------- */
+.tw{overflow-x:auto}
+table.rt{width:100%;border-collapse:collapse;font-size:13.5px}
+.rt th{text-align:left;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:9px 12px;border-bottom:1px solid var(--line);white-space:nowrap;font-weight:700}
+.rt td{padding:12px;border-bottom:1px solid var(--line);vertical-align:middle}
+.rt tbody tr:last-child td{border-bottom:0}
+.rt .num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.rt tr.click{cursor:pointer}
+.rt tr.click:hover td{background:var(--surface2)}
+.rt tr.total td{background:var(--surface2);font-weight:700}
+.cv{display:block}
+.rt td[data-l*="Date"],.rt td[data-l="Last active"],.rt td[data-l="Last login"]{white-space:nowrap}
+.who{display:flex;align-items:center;gap:11px;min-width:0}
+.who b{display:block}
+.who small{display:block;color:var(--muted);font-size:12px;overflow:hidden;text-overflow:ellipsis}
+td small.sub2{display:block;color:var(--muted);font-size:11.5px}
+.meter{height:5px;border-radius:99px;background:var(--line);overflow:hidden;margin-top:6px;min-width:70px}
+.meter i{display:block;height:100%;background:linear-gradient(90deg,var(--a),var(--b));border-radius:99px}
+
+/* ---------- student profile ---------- */
+.prof{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:20px}
+.prof h1{font-family:Fraunces,serif;font-size:28px}
+.prof .grow{flex:1;min-width:220px}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+.chip{background:var(--surface);border:1px solid var(--line);border-radius:99px;padding:3px 11px;font-size:12px;color:var(--muted)}
+.split{display:flex;height:12px;border-radius:99px;overflow:hidden;background:var(--line)}
+.split i{display:block;height:100%}
+.legend{display:flex;gap:18px;flex-wrap:wrap;margin-top:10px;font-size:13px}
+.legend span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:7px;background:var(--c)}
+
+/* ---------- PDF page ---------- */
+.form{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.form label{display:flex;flex-direction:column;gap:6px;font-weight:650;font-size:13px}
+.form label input{font-weight:400}
+.form .full{grid-column:1/-1}
+.hint{margin:0;color:var(--muted);font-size:12.5px}
+.hint code{background:var(--surface2);border:1px solid var(--line);border-radius:6px;padding:1px 6px;font-size:12px}
+.prow{display:flex;align-items:center;gap:14px;padding:14px 0;border-bottom:1px solid var(--line)}
+.prow:last-child{border-bottom:0;padding-bottom:0}
+.pic{width:44px;height:44px;border-radius:12px;background:var(--badSoft);color:var(--bad);display:grid;place-items:center;font-weight:800;font-size:11px;letter-spacing:.05em;flex:none}
+.pmain{flex:1;min-width:0}
+.pmain b{display:block}
+.pmain span{display:block;color:var(--muted);font-size:13px}
+.pmain .lnk{font-size:12px;color:var(--brand);word-break:break-all}
+.pact{display:flex;gap:8px;flex:none}
+
+/* ---------- gate + toast ---------- */
+.gate{max-width:410px;margin:14vh auto 0;background:var(--surface);border:1px solid var(--line);border-radius:24px;padding:34px 28px;box-shadow:var(--shadow);text-align:center}
+.gate .mark{margin:0 auto 14px;width:46px;height:46px;font-size:22px}
+.gate h2{font-family:Fraunces,serif;font-size:26px;margin-bottom:8px}
+.gate p{color:var(--muted);margin:0 0 22px}
+.gate .btn{padding:12px 20px;font-size:15px}
+.gate .msg{margin-top:14px;font-size:13.5px;color:var(--bad)}
+#toast{position:fixed;left:50%;bottom:24px;transform:translate(-50%,20px);background:var(--ink);color:var(--bg);padding:11px 18px;border-radius:12px;font-weight:650;font-size:13.5px;opacity:0;pointer-events:none;transition:.25s;z-index:60;max-width:90vw}
+#toast.show{opacity:1;transform:translate(-50%,0)}
+
+/* ---------- tablet ---------- */
+@media(max-width:1100px){ .kpis{grid-template-columns:repeat(2,minmax(0,1fr))} }
+
+/* ---------- mobile ---------- */
+@media(max-width:900px){
+  body.authed .shell{display:block}
+  body.authed .side{position:fixed;top:auto;bottom:0;left:0;right:0;height:auto;flex-direction:row;padding:6px 10px calc(6px + env(safe-area-inset-bottom));border-right:0;border-top:1px solid var(--line);z-index:40;background:color-mix(in srgb,var(--surface) 94%,transparent);backdrop-filter:blur(12px)}
+  .side .brand,.side .me{display:none}
+  .navl{flex-direction:row;flex:1;gap:6px}
+  .navl button{flex:1;flex-direction:column;gap:3px;padding:8px 6px;font-size:11.5px;align-items:center;justify-content:center;text-align:center}
+  .topbar{display:flex;align-items:center;gap:10px;position:sticky;top:0;z-index:30;padding:calc(10px + env(safe-area-inset-top)) 16px 10px;background:color-mix(in srgb,var(--bg) 90%,transparent);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+  body:not(.authed) .topbar{display:none}
+  .topbar .brand{padding:0;font-size:15px;flex:1;min-width:0}
+  .topbar .mark{width:32px;height:32px;font-size:16px}
+  .topbar .row{display:flex;gap:8px}
+  #app{padding:18px 14px calc(96px + env(safe-area-inset-bottom))}
+  .ph h1,.prof h1{font-size:24px}
+  .ph{align-items:flex-start}
+  .acts{width:100%}.acts .btn{flex:1}
+  .card{padding:14px}
+  .form{grid-template-columns:1fr}
+  #toast{bottom:calc(86px + env(safe-area-inset-bottom))}
+  .gate{margin-top:8vh}
+}
+@media(max-width:720px){
+  .kpi{padding:13px;gap:10px}.kpi b{font-size:18px}.kpi .ico{width:36px;height:36px}
+  .search{min-width:100%}.toolbar select{flex:1}
+  .rt thead{display:none}
+  .rt,.rt tbody,.rt tr,.rt td{display:block;width:100%}
+  .rt tr{border:1px solid var(--line);border-radius:14px;margin-bottom:10px;padding:10px 12px;background:var(--surface)}
+  .rt tr.click:active{background:var(--surface2)}
+  .rt td{display:flex;justify-content:space-between;align-items:center;gap:14px;padding:6px 0;border:0;text-align:right}
+  .rt td::before{content:attr(data-l);color:var(--muted);font-size:12px;font-weight:600;text-align:left;flex:none}
+  .rt td.primary{display:block;text-align:left;padding:2px 0 8px;border-bottom:1px solid var(--line);margin-bottom:4px}
+  .rt td.primary::before{display:none}
+  .rt td.hm{display:none}
+  .rt td .cv{text-align:right}
+  .prof{align-items:flex-start;gap:12px}.prof .av.lg{width:48px;height:48px;font-size:18px}.prof .grow{min-width:0;flex:1}
+  .rt tr.total{background:var(--surface2)}
+  .rt tr.total td{background:none}
+  .rt tr.click:hover td{background:none}
+  .meter{min-width:0;width:100%}
+  .rt td .meterwrap{flex:1;min-width:0;text-align:right}
+  .prow{flex-wrap:wrap}.pact{width:100%}.pact .btn{flex:1}
+}
+@media(max-width:380px){ .kpis{grid-template-columns:1fr} }
+
+/* ---------- Section B marking ---------- */
+textarea{width:100%;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:11px;padding:10px 12px;font:inherit;font-size:14px;line-height:1.5;min-height:80px;resize:vertical}
+textarea:focus{outline:2px solid var(--brandSoft);border-color:var(--brand)}
+.seg2{display:inline-flex;border:1px solid var(--line);border-radius:11px;overflow:hidden;background:var(--surface)}
+.seg2 button{border:0;background:none;padding:9px 14px;font-weight:700;color:var(--muted)}
+.seg2 button.on{background:var(--brand);color:#fff}
+:root[data-theme="dark"] .seg2 button.on{color:#0d0f14}
+.pill.p{background:var(--flagSoft);color:var(--flag)}
+.mkreq{border:1px solid var(--line);border-radius:14px;padding:14px;margin-bottom:14px;background:var(--surface)}
+.mkreq h4{margin:0 0 4px;font-size:15px;display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.mkq{color:var(--muted);white-space:pre-line;font-size:13.5px;margin-bottom:10px}
+.mkans{background:var(--surface2);border:1px dashed var(--line);border-radius:11px;padding:10px 12px;white-space:pre-wrap;font-size:14px;max-height:360px;overflow:auto;overflow-wrap:anywhere}
+.mklbl{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:12px 0 6px}
+.mkmark{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:12px}
+.mkmark input{width:90px;font-weight:800;text-align:center}
+.mkfold{margin-top:10px;border:1px solid var(--line);border-radius:11px;background:var(--surface2)}
+.mkfold summary{padding:9px 12px;font-weight:700;cursor:pointer}
+.mkfold .in{padding:0 12px 12px;white-space:pre-wrap;font-size:13.5px;overflow-wrap:anywhere}
+.mkfold table{width:100%;border-collapse:collapse;font-size:13px}.mkfold td{padding:4px 6px;border-bottom:1px solid var(--line);vertical-align:top}.mkfold td.m{text-align:right;white-space:nowrap;font-weight:700}
+.mkbar{position:sticky;bottom:0;z-index:5;display:flex;gap:12px;align-items:center;flex-wrap:wrap;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px 14px;box-shadow:var(--shadow)}
+@media(max-width:720px){.mkbar .btn{flex:1}.seg2{width:100%}.seg2 button{flex:1;padding:10px 6px}}
+@keyframes softIn{from{opacity:0;transform:translateY(10px) scale(.985)}to{opacity:1;transform:translateY(0) scale(1)}}
+.card,.prow,.kpi{animation:softIn .28s ease both}
+.btn,button,.navl button{transition:transform .18s ease,box-shadow .18s ease,background .18s ease}
+.btn:hover,.navl button:hover{transform:translateY(-1px);box-shadow:0 8px 22px rgba(35,48,100,.10)}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+</style>
+</head>
+<body>
+<div class="shell">
+  <aside class="side" id="side">
+    <div class="brand"><span class="mark">Y</span><span>AA Exam Practice<small>Admin console</small></span></div>
+    <nav class="navl" id="nav">
+      <button data-nav="students"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg><span>Students</span></button>
+      <button data-nav="marking"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/></svg><span>Section B marking <b id="mkBadge"></b></span></button>
+      <button data-nav="plan"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg><span>Study plan</span></button>
+      <button data-nav="mocks"><span>📝</span><span>Mock exams</span></button>
+      <button data-nav="doubts"><span>💬</span><span>Common doubts</span></button>
+      <button data-nav="pdfs"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg><span>PDF library</span></button>
+    </nav>
+    <div class="me" id="who"></div>
+  </aside>
+  <div class="main">
+    <header class="topbar"><div class="brand"><span class="mark">Y</span><span>Admin console<small>AA Exam Practice</small></span></div><div class="row" id="whoTop"></div></header>
+    <main id="app"><div class="gate"><p style="margin:0">Loading…</p></div></main>
+  </div>
+</div>
+<div id="toast" role="status"></div>
+<script type="module">
+const FIREBASE_CONFIG = {
+  apiKey: "AIzaSyDZVvHO_hlM51j2qTeGKfGLpH8t_YTSLDU",
+  authDomain: "aa-exam-practice.firebaseapp.com",
+  projectId: "aa-exam-practice",
+  storageBucket: "aa-exam-practice.firebasestorage.app",
+  messagingSenderId: "348006785291",
+  appId: "1:348006785291:web:621592fb02be5a24cf020e",
+  measurementId: "G-LJE8YG75GL"
+};
+// Must match isAdmin() in firestore.rules (lowercase).
+const ADMIN_EMAILS = ['akshat.y.shah1725@gmail.com','yateseducationaccaresource@gmail.com'];
+
+/* ---------- helpers ---------- */
+const $=id=>document.getElementById(id);
+const appEl=$('app');
+const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const adminEmails=ADMIN_EMAILS.map(e=>String(e).trim().toLowerCase());
+const isAdmin=u=>!!(u&&u.email&&adminEmails.includes(u.email.toLowerCase()));
+let FB=null, auth=null, db=null, user=null, view='students';
+
+const P={
+  users:'<path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>',
+  file:'<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>',
+  refresh:'<polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/>',
+  download:'<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/>',
+  search:'<circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>',
+  back:'<line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/>',
+  out:'<path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/>',
+  plus:'<line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/>',
+  trash:'<polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/>',
+  ext:'<path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>',
+  clock:'<circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>',
+  moon:'<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>',
+  pulse:'<polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>',
+  target:'<circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/>',
+  inbox:'<polyline points="22 12 16 12 14 15 10 15 8 12 2 12"/><path d="M5.45 5.11L2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z"/>'
+};
+const ic=n=>`<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${P[n]}</svg>`;
+const GOOGLE='<svg width="18" height="18" viewBox="0 0 48 48" aria-hidden="true"><path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9.1 3.6l6.8-6.8C35.8 2.4 30.3 0 24 0 14.6 0 6.5 5.4 2.6 13.2l7.9 6.1C12.4 13.6 17.7 9.5 24 9.5z"/><path fill="#4285F4" d="M46.5 24.5c0-1.6-.1-3.1-.4-4.5H24v9h12.7c-.6 3-2.3 5.5-4.8 7.2l7.5 5.8c4.4-4.1 7.1-10.1 7.1-17.5z"/><path fill="#FBBC05" d="M10.5 28.7A14.5 14.5 0 0 1 9.5 24c0-1.6.3-3.2.8-4.7l-7.9-6.1A24 24 0 0 0 0 24c0 3.9.9 7.5 2.6 10.8l7.9-6.1z"/><path fill="#34A853" d="M24 48c6.5 0 11.9-2.1 15.9-5.8l-7.5-5.8c-2.1 1.4-4.8 2.3-8.4 2.3-6.3 0-11.6-4.1-13.5-9.8l-7.9 6.1C6.5 42.6 14.6 48 24 48z"/></svg>';
+
+const fmtT=s=>{s=Math.max(0,Math.round(s||0));const h=Math.floor(s/3600),m=Math.floor(s%3600/60),x=s%60;return h?`${h}h ${String(m).padStart(2,'0')}m`:m?`${m}m ${String(x).padStart(2,'0')}s`:`${x}s`;};
+const when=ms=>ms?new Date(ms).toLocaleString(undefined,{day:'numeric',month:'short',year:'numeric',hour:'numeric',minute:'2-digit'}):'—';
+const whenShort=ms=>ms?new Date(ms).toLocaleString(undefined,{day:'numeric',month:'short',hour:'numeric',minute:'2-digit'}):'—';
+const tsMs=v=>v&&v.toMillis?v.toMillis():(v?(typeof v==='number'?v:Date.parse(v)||0):0);
+const pct=(a,b)=>b?Math.round(a/b*100):null;
+const pctTxt=v=>v==null?'—':v+'%';
+const skel=(n=5)=>'<div class="skel">'+Array.from({length:n},()=>'<i></i>').join('')+'</div>';
+const empty=(icon,t)=>`<div class="empty">${ic(icon)}<div>${esc(t)}</div></div>`;
+let toastT; function toast(t){ const el=$('toast'); el.textContent=t; el.classList.add('show'); clearTimeout(toastT); toastT=setTimeout(()=>el.classList.remove('show'),2600); }
+const ph=(title,sub,actions)=>`<div class="ph"><div><h1>${esc(title)}</h1><p>${esc(sub)}</p></div>${actions?`<div class="acts">${actions}</div>`:''}</div>`;
+const kpi=(icon,tone,val,label,sub)=>`<div class="kpi"><div class="ico ${tone}">${ic(icon)}</div><div style="min-width:0"><b>${val}</b><span>${label}</span>${sub?`<small>${sub}</small>`:''}</div></div>`;
+
+function friendlyError(e){
+  const c=(e&&e.code)||'';
+  const map={
+    'auth/unauthorized-domain':"This website's domain isn't authorised. Firebase Console → Authentication → Settings → Authorized domains → add it.",
+    'auth/operation-not-allowed':"Google sign-in isn't enabled. Firebase Console → Authentication → Sign-in method → enable Google.",
+    'auth/network-request-failed':'Network error. Check your internet connection.',
+    'auth/too-many-requests':'Too many attempts. Wait a little and try again.',
+    'permission-denied':'Firestore denied access. Publish firestore.rules and make sure your email is listed as admin there.',
+    'unavailable':'Firestore is unreachable right now. Check your connection.'
+  };
+  return map[c]||(e&&e.message)||'Something went wrong.';
+}
+function dl(name,rows){
+  const csv=rows.map(r=>r.map(v=>'"'+String(v==null?'':v).replace(/"/g,'""')+'"').join(',')).join('\r\n');
+  const a=document.createElement('a'); a.href=URL.createObjectURL(new Blob(['\ufeff'+csv],{type:'text/csv'}));
+  a.download=name; document.body.appendChild(a); a.click(); a.remove(); toast('CSV downloaded');
+}
+
+/* ---------- theme ---------- */
+const savedTheme=localStorage.getItem('adm-theme'); if(savedTheme) document.documentElement.dataset.theme=savedTheme;
+function toggleTheme(){
+  const dark=document.documentElement.dataset.theme==='dark'||(!document.documentElement.dataset.theme&&matchMedia('(prefers-color-scheme: dark)').matches);
+  const t=dark?'light':'dark'; document.documentElement.dataset.theme=t; localStorage.setItem('adm-theme',t);
+}
+
+/* ---------- auth + shell ---------- */
+function gate(title,text,btn){
+  document.body.classList.remove('authed');
+  appEl.innerHTML=`<div class="gate"><div class="mark">Y</div><h2>${esc(title)}</h2><p>${esc(text)}</p>${btn||''}<div class="msg" id="gmsg"></div></div>`;
+}
+const GBTN=`<button class="btn primary" data-act="signin">${GOOGLE}<span>Sign in with Google</span></button>`;
+async function signIn(btn){
+  btn.disabled=true;
+  try{ const p=new FB.GoogleAuthProvider(); p.setCustomParameters({prompt:'select_account'}); await FB.signInWithPopup(auth,p); }
+  catch(e){ if(e.code!=='auth/popup-closed-by-user'&&e.code!=='auth/cancelled-popup-request'&&$('gmsg')) $('gmsg').textContent=friendlyError(e); }
+  finally{ btn.disabled=false; }
+}
+function avatarOf(u,lg){ return u.photoURL?`<img class="av${lg?' lg':''}" src="${esc(u.photoURL)}" alt="" referrerpolicy="no-referrer">`:`<span class="av${lg?' lg':''}">${esc(((u.student||u.displayName||u.email||'?')+'').trim().charAt(0).toUpperCase())}</span>`; }
+function renderUser(){
+  if(!user||!isAdmin(user)){ $('who').innerHTML=''; $('whoTop').innerHTML=''; return; }
+  $('who').innerHTML=`<div class="mecard">${avatarOf(user)}<div class="t"><b>${esc(user.displayName||'Admin')}</b><small>${esc(user.email)}</small></div></div><div class="meact"><button class="btn" data-act="theme">${ic('moon')}<span>Theme</span></button><button class="btn" data-act="out">${ic('out')}<span>Sign out</span></button></div>`;
+  $('whoTop').innerHTML=`<button class="icn" data-act="theme" aria-label="Toggle theme">${ic('moon')}</button><button class="icn" data-act="out" aria-label="Sign out">${ic('out')}</button>`;
+}
+function setNav(k){ view=k; document.querySelectorAll('[data-nav]').forEach(b=>b.classList.toggle('on',b.dataset.nav===k)); }
+async function onAuth(u){
+  user=u; renderUser();
+  if(!u){ gate('Admin console','Sign in with the Google account that has admin access.',GBTN); return; }
+  if(!isAdmin(u)){ gate('Not authorised',`${u.email} does not have admin access.`,`<button class="btn" data-act="out">${ic('out')}<span>Sign out</span></button>`); return; }
+  document.body.classList.add('authed'); setNav('students'); loadStudents(); loadMarkingBadge();
+}
+
+/* ---------- students ---------- */
+const adm={students:[],sel:null,rows:[],grades:{},loading:false,err:'',q:'',sort:'active',f:{sec:'',topic:'',q:''},limit:100};
+function adminError(e){ return (e&&e.code==='permission-denied')?'Firestore denied access. Publish firestore.rules and make sure your admin email is listed in the rules.':friendlyError(e); }
+const sName=s=>s.student||s.displayName||s.email;
+const sActive=s=>Math.max(s.lastActivityAt||0,tsMs(s.lastSeenAt));
+
+function buildReport(maxChars){
+  const s=adm.sel, R=adm.rows||[];
+  const aS=R.filter(r=>r.section!=='B'), bS=R.filter(r=>r.section==='B');
+  const aT=aS.reduce((a,r)=>a+(r.secs||0),0), bT=bS.reduce((a,r)=>a+(r.secs||0),0);
+  const aAcc=pct(aS.filter(r=>r.correct).length,aS.length), bM=bS.filter(r=>r.score!=null), bAcc=pct(bM.reduce((a,r)=>a+r.score,0),bM.reduce((a,r)=>a+(r.max||0),0));
+  const L=[];
+  L.push(`Hi ${sName(s)},`,'','Here is your AA Exam Practice progress report.','');
+  L.push('OVERVIEW');
+  L.push(`Total practice time: ${fmtT(aT+bT)}`);
+  L.push(`Section A: ${aS.length} questions attempted, ${pctTxt(aAcc)} correct, ${fmtT(aT)}`);
+  L.push(`Section B: ${bS.length} submissions, average score ${pctTxt(bAcc)}, ${fmtT(bT)}`,'');
+  const tp=topicAgg(R).map(([t,x])=>({t,a:pct(x.A.ok,x.A.n),an:x.A.n,b:pct(x.B.sc,x.B.mx),bn:x.B.n}));
+  const rank=x=>{const v=[x.a,x.b].filter(v=>v!=null); return v.length?Math.min(...v):101;};
+  const weak=tp.filter(x=>rank(x)<=100).sort((p,q)=>rank(p)-rank(q)).slice(0,6);
+  if(weak.length){ L.push('TOPICS TO FOCUS ON (lowest scores first)');
+    weak.forEach(x=>L.push(`- ${x.t}: `+[x.an?`Section A ${pctTxt(x.a)} (${x.an} Qs)`:'',x.bn?`Section B ${pctTxt(x.b)} (${x.bn})`:''].filter(Boolean).join(', '))); L.push(''); }
+  if(bM.length){ L.push('RECENT SECTION B SCORES');
+    bM.slice(0,5).forEach(x=>L.push(`- ${x.qLabel} ${x.title||''}: ${x.score}/${x.max} (${pct(x.score,x.max)}%)${x.parts?' – '+x.parts:''}`)); L.push(''); }
+  L.push('Keep practising!');
+  let t=L.join('\n');
+  if(maxChars&&t.length>maxChars) t=t.slice(0,maxChars-30).replace(/\n[^\n]*$/,'')+'\n...\n\nKeep practising!';
+  return t;
+}
+function emailReport(){
+  const s=adm.sel; if(!s) return;
+  if(!s.email){ toast('This student has no email'); return; }
+  const subject='Your AA Exam Practice progress report';
+  window.location.href='mailto:'+encodeURIComponent(s.email).replace('%40','@')+'?subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(buildReport(1500));
+}
+async function copyReport(){
+  const t=buildReport(0);
+  try{ await navigator.clipboard.writeText(t); toast('Full report copied'); }
+  catch{ const ta=document.createElement('textarea'); ta.value=t; document.body.appendChild(ta); ta.select(); try{document.execCommand('copy'); toast('Full report copied');}catch{toast('Copy failed');} ta.remove(); }
+}
+const isAdminEmail=e=>adminEmails.includes(String(e||'').toLowerCase());
+async function setBan(banned){
+  const s=adm.sel; if(!s||isAdminEmail(s.email)) return;
+  const name=sName(s);
+  if(!confirm(banned?`Ban ${name}?\n\nThey will be signed out and blocked from using the site and saving progress. Their data is kept. You can unban them at any time.`:`Unban ${name}?\n\nThey will be able to sign in and practise again.`)) return;
+  try{
+    adm.busy=true; renderAdmin();
+    const data=banned?{banned:true,bannedAt:FB.serverTimestamp(),bannedBy:(user.email||'').toLowerCase()}:{banned:false,bannedAt:null,bannedBy:null};
+    await FB.updateDoc(FB.doc(db,'users',s.id),data);
+    s.banned=banned; adm.err=''; toast(banned?'Student banned':'Student unbanned');
+  }catch(e){ console.error(e); adm.err=adminError(e); }
+  adm.busy=false; renderAdmin();
+}
+async function removeStudent(){
+  const s=adm.sel; if(!s||isAdminEmail(s.email)) return;
+  const name=sName(s);
+  if(!confirm(`Remove ${name} permanently?\n\nThis deletes their profile, saved progress and ALL their attempts and scores. It cannot be undone.\n\nNote: their Google sign-in is not deleted, so they could sign in again as a brand-new student. To stop that, use Ban instead.`)) return;
+  try{
+    adm.busy=true; renderAdmin();
+    const snap=await FB.getDocs(FB.query(FB.collection(db,'attempts'),FB.where('uid','==',s.id)));
+    for(let i=0;i<snap.docs.length;i+=400){ const b=FB.writeBatch(db); snap.docs.slice(i,i+400).forEach(d=>b.delete(d.ref)); await b.commit(); }
+    try{ await FB.deleteDoc(FB.doc(db,'users',s.id,'aaStudyHubProgress','current')); }catch(e){ console.warn('progress delete',e); }
+    await FB.deleteDoc(FB.doc(db,'users',s.id));
+    adm.students=adm.students.filter(x=>x.id!==s.id); adm.sel=null; adm.rows=[]; adm.err=''; toast('Student removed');
+  }catch(e){ console.error(e); adm.err=adminError(e); }
+  adm.busy=false; renderAdmin();
+}
+async function loadStudents(){
+  adm.loading=true; adm.err=''; renderAdmin();
+  try{ const snap=await FB.getDocs(FB.collection(db,'users')); adm.students=snap.docs.map(d=>({id:d.id,...d.data()})).filter(s=>s.email); }
+  catch(e){ console.error(e); adm.err=adminError(e); }
+  adm.loading=false; renderAdmin();
+}
+async function openStudent(id){
+  const s=adm.students.find(x=>x.id===id); if(!s) return;
+  adm.sel=s; adm.rows=[]; adm.f={sec:'',topic:'',q:''}; adm.limit=100; adm.loading=true; adm.err=''; renderAdmin(); window.scrollTo(0,0);
+  try{
+    const snap=await FB.getDocs(FB.query(FB.collection(db,'attempts'),FB.where('uid','==',id)));
+    adm.rows=snap.docs.map(d=>({...d.data(),_id:d.id})).sort((a,b)=>(b.t||0)-(a.t||0));
+    adm.grades={}; try{ const gs=await FB.getDocs(FB.query(FB.collection(db,'gradings'),FB.where('uid','==',id))); gs.docs.forEach(d=>{adm.grades[d.id]=d.data();}); }catch(e){ console.warn('gradings',e); }
+  }catch(e){ console.error(e); adm.err=adminError(e); }
+  adm.loading=false; renderAdmin();
+}
+function renderAdmin(){
+  if(view!=='students') return;
+  appEl.innerHTML=(adm.err?`<div class="err">${esc(adm.err)}</div>`:'')+(adm.sel?studentHTML():listHTML());
+  if(!adm.sel) renderList(); else { renderTopics(); renderRows(); }
+}
+function listHTML(){
+  const st=adm.students, week=Date.now()-7*864e5;
+  const act=st.filter(s=>sActive(s)>week).length;
+  const att=st.reduce((a,s)=>a+((s.stats&&(s.stats.aN+s.stats.bN))||0),0);
+  const time=st.reduce((a,s)=>a+((s.stats&&s.stats.totalSecs)||0),0);
+  const L=adm.loading;
+  return ph('Students','Everyone who has signed in with Google, what they practised and how long it took.',
+      `<button class="btn" data-adm="refresh">${ic('refresh')}<span>Refresh</span></button><button class="btn" data-adm="csvAll">${ic('download')}<span>Export CSV</span></button>`)+
+  `<div class="kpis">${kpi('users','',L?'…':st.length,'Students')+kpi('pulse','g',L?'…':act,'Active (7 days)')+kpi('target','a',L?'…':att,'Questions attempted')+kpi('clock','b',L?'…':fmtT(time),'Practice time')}</div>
+  <div class="card"><div class="toolbar"><label class="search">${ic('search')}<input data-admf="q" placeholder="Search name or email…" value="${esc(adm.q)}"></label>
+    <select data-admf="sort" aria-label="Sort"><option value="active"${adm.sort==='active'?' selected':''}>Last active</option><option value="time"${adm.sort==='time'?' selected':''}>Total time</option><option value="qs"${adm.sort==='qs'?' selected':''}>Questions attempted</option><option value="name"${adm.sort==='name'?' selected':''}>Name</option></select></div>
+  <div id="admList">${L?skel(6):''}</div></div>`;
+}
+function sortedStudents(){
+  const q=adm.q.trim().toLowerCase();
+  const r=adm.students.filter(s=>!q||(sName(s)+' '+s.email).toLowerCase().includes(q));
+  const tot=s=>(s.stats&&s.stats.totalSecs)||0, qs=s=>s.stats?s.stats.aN+s.stats.bN:0;
+  return r.sort({active:(a,b)=>sActive(b)-sActive(a),time:(a,b)=>tot(b)-tot(a),qs:(a,b)=>qs(b)-qs(a),name:(a,b)=>sName(a).localeCompare(sName(b))}[adm.sort]);
+}
+function wrapCells(box){ box.querySelectorAll('td[data-l]').forEach(td=>{ if(td.childNodes.length>1){ const s=document.createElement('span'); s.className='cv'; while(td.firstChild) s.appendChild(td.firstChild); td.appendChild(s); } }); }
+function renderList(){
+  const box=$('admList'); if(!box||adm.loading) return;
+  const r=sortedStudents();
+  if(!r.length){ box.innerHTML=empty('inbox',adm.students.length?'No students match your search.':'No students have signed in yet.'); return; }
+  box.innerHTML=`<div class="tw"><table class="rt"><thead><tr><th>Student</th><th>Last login</th><th>Last active</th><th class="num">Section A</th><th class="num">A time</th><th class="num">Section B</th><th class="num">B time</th><th class="num">Total time</th></tr></thead><tbody>`+
+  r.map(s=>{const t=s.stats||{aN:0,aOk:0,aSecs:0,bN:0,bScore:0,bMax:0,bSecs:0,totalSecs:0};
+    return `<tr class="click" data-adm="open" data-id="${esc(s.id)}"><td class="primary"><div class="who">${avatarOf(s)}<div style="min-width:0"><b>${esc(sName(s))}${s.banned?' <span class="tag" style="background:#fde8e8;color:#b42318">Banned</span>':''}</b><small>${esc(s.email)}</small></div></div></td>
+    <td class="hm" data-l="Last login">${whenShort(tsMs(s.lastLoginAt))}</td><td data-l="Last active">${whenShort(sActive(s))}</td>
+    <td class="num" data-l="Section A">${t.aN} <span class="muted">· ${pctTxt(pct(t.aOk,t.aN))}</span></td><td class="num hm" data-l="A time">${fmtT(t.aSecs)}</td>
+    <td class="num" data-l="Section B">${t.bN} <span class="muted">· ${pctTxt(pct(t.bScore,t.bMax))}</span></td><td class="num hm" data-l="B time">${fmtT(t.bSecs)}</td>
+    <td class="num" data-l="Total time"><b>${fmtT(t.totalSecs)}</b></td></tr>`;}).join('')+`</tbody></table></div>`;
+  wrapCells(box);
+}
+
+function topicAgg(rows){
+  const m=new Map();
+  rows.forEach(r=>{ const t=r.topic||'(none)'; let x=m.get(t); if(!x){x={A:{n:0,ok:0,s:0},B:{n:0,sc:0,mx:0,s:0}};m.set(t,x);}
+    if(r.section==='B'){x.B.n++;if(r.score!=null){x.B.sc+=r.score;x.B.mx+=r.max||0;}x.B.s+=r.secs||0;} else {x.A.n++;x.A.ok+=r.correct?1:0;x.A.s+=r.secs||0;} });
+  return [...m.entries()].sort((a,b)=>(b[1].A.s+b[1].B.s)-(a[1].A.s+a[1].B.s));
+}
+function renderTopics(){
+  const box=$('admTopics'); if(!box) return;
+  if(adm.loading){ box.innerHTML=skel(4); return; }
+  const list=topicAgg(adm.rows);
+  if(!list.length){ box.innerHTML=empty('inbox','No attempts yet.'); return; }
+  const tot={aN:0,aOk:0,aS:0,bN:0,bSc:0,bMx:0,bS:0}; const grand=list.reduce((a,[,x])=>a+x.A.s+x.B.s,0)||1;
+  const body=list.map(([t,x])=>{tot.aN+=x.A.n;tot.aOk+=x.A.ok;tot.aS+=x.A.s;tot.bN+=x.B.n;tot.bSc+=x.B.sc;tot.bMx+=x.B.mx;tot.bS+=x.B.s;
+    const sum=x.A.s+x.B.s;
+    return `<tr><td class="primary"><b>${esc(t)}</b></td>
+    <td class="num" data-l="Section A">${x.A.n?`${x.A.n} Qs · ${pct(x.A.ok,x.A.n)}%`:'—'}</td>
+    <td class="num" data-l="A time">${x.A.n?`${fmtT(x.A.s)}<small class="sub2">avg ${fmtT(x.A.s/x.A.n)}</small>`:'—'}</td>
+    <td class="num" data-l="Section B">${x.B.n?`${x.B.n} · ${x.B.mx?pct(x.B.sc,x.B.mx)+'%':'—'}`:'—'}</td>
+    <td class="num" data-l="B time">${x.B.n?fmtT(x.B.s):'—'}</td>
+    <td class="num" data-l="Total time"><div class="meterwrap"><b>${fmtT(sum)}</b><div class="meter"><i style="width:${Math.round(sum/grand*100)}%"></i></div></div></td></tr>`;}).join('');
+  box.innerHTML=`<div class="tw"><table class="rt"><thead><tr><th>Topic</th><th class="num">Section A</th><th class="num">A time</th><th class="num">Section B</th><th class="num">B time</th><th class="num">Total time</th></tr></thead><tbody>${body}
+  <tr class="total"><td class="primary">All topics</td><td class="num" data-l="Section A">${tot.aN} Qs · ${pctTxt(pct(tot.aOk,tot.aN))}</td><td class="num" data-l="A time">${fmtT(tot.aS)}</td><td class="num" data-l="Section B">${tot.bN} · ${pctTxt(pct(tot.bSc,tot.bMx))}</td><td class="num" data-l="B time">${fmtT(tot.bS)}</td><td class="num" data-l="Total time">${fmtT(tot.aS+tot.bS)}</td></tr></tbody></table></div>`;
+  wrapCells(box);
+}
+function studentHTML(){
+  const s=adm.sel, R=adm.rows, L=adm.loading;
+  const aS=R.filter(r=>r.section!=='B'), bS=R.filter(r=>r.section==='B');
+  const aT=aS.reduce((a,r)=>a+(r.secs||0),0), bT=bS.reduce((a,r)=>a+(r.secs||0),0), tT=aT+bT;
+  const aAcc=aS.length?pct(aS.filter(r=>r.correct).length,aS.length):null;
+  const bM=bS.filter(r=>r.score!=null), bAcc=bM.length?pct(bM.reduce((a,r)=>a+r.score,0),bM.reduce((a,r)=>a+(r.max||0),0)):null;
+  const topics=[...new Set(R.map(r=>r.topic).filter(Boolean))].sort();
+  const aw=tT?Math.round(aT/tT*100):0;
+  return `<button class="back" data-adm="back">${ic('back')}<span>All students</span></button>
+  <div class="prof">${avatarOf(s,true)}<div class="grow"><h1>${esc(sName(s))}</h1><div class="muted">${esc(s.email)}</div>
+    <div class="chips"><span class="chip">Member since ${whenShort(tsMs(s.createdAtAuth))}</span><span class="chip">Last login ${when(tsMs(s.lastLoginAt))}</span><span class="chip">Last active ${when(sActive(s))}</span>${s.banned?'<span class="chip" style="background:#fde8e8;color:#b42318;font-weight:800">Banned</span>':''}</div></div>
+    <div class="acts"><button class="btn" data-adm="refresh">${ic('refresh')}<span>Refresh</span></button><button class="btn" data-adm="csvOne">${ic('download')}<span>Export CSV</span></button><button class="btn" data-adm="emailRep" ${L?'disabled':''}><span>Email report</span></button><button class="btn" data-adm="copyRep" ${L?'disabled':''}><span>Copy report</span></button>${isAdminEmail(s.email)?'':(s.banned?`<button class="btn" data-adm="unban" ${adm.busy?'disabled':''}><span>Unban</span></button>`:`<button class="btn danger" data-adm="ban" ${adm.busy?'disabled':''}><span>Ban</span></button>`)+`<button class="btn danger" data-adm="remove" ${adm.busy?'disabled':''}>${ic('trash')}<span>Remove</span></button>`}</div></div>
+  <div class="kpis">${kpi('clock','',L?'…':fmtT(tT),'Total time on questions')+kpi('target','a',L?'…':fmtT(aT),'Section A time',L?'':`${aS.length} attempts · ${pctTxt(aAcc)} correct`)+kpi('file','b',L?'…':fmtT(bT),'Section B time',L?'':`${bS.length} submissions · ${pctTxt(bAcc)} score`)+kpi('pulse','g',L?'…':(aS.length?fmtT(aT/aS.length):'—'),'Avg per Section A question')}</div>
+  ${tT?`<div class="card"><h3>Time split</h3><div class="split"><i style="width:${aw}%;background:var(--a)"></i><i style="width:${100-aw}%;background:var(--b)"></i></div><div class="legend"><span style="--c:var(--a)">Section A · ${fmtT(aT)} (${aw}%)</span><span style="--c:var(--b)">Section B · ${fmtT(bT)} (${100-aw}%)</span></div></div>`:''}
+  <div class="card"><h3>Time by topic &amp; section</h3><div id="admTopics"></div></div>
+  <div class="card"><h3>Question log</h3>
+    <div class="toolbar"><label class="search">${ic('search')}<input data-admf="fq" placeholder="Search question, case or topic…" value="${esc(adm.f.q)}"></label>
+      <select data-admf="fsec" aria-label="Section"><option value="">All sections</option><option value="A"${adm.f.sec==='A'?' selected':''}>Section A</option><option value="B"${adm.f.sec==='B'?' selected':''}>Section B</option></select>
+      <select data-admf="ftopic" aria-label="Topic"><option value="">All topics</option>${topics.map(t=>`<option${adm.f.topic===t?' selected':''}>${esc(t)}</option>`).join('')}</select></div>
+    <div id="admRows"></div></div>`;
+}
+function filteredRows(){
+  const q=adm.f.q.trim().toLowerCase();
+  return adm.rows.filter(r=>(!adm.f.sec||(r.section||'A')===adm.f.sec)&&(!adm.f.topic||r.topic===adm.f.topic)&&(!q||[r.qLabel,r.title,r.topic,r.qType].join(' ').toLowerCase().includes(q)));
+}
+function renderRows(){
+  const box=$('admRows'); if(!box) return;
+  if(adm.loading){ box.innerHTML=skel(6); return; }
+  const r=filteredRows();
+  if(!r.length){ box.innerHTML=empty('inbox',adm.rows.length?'No attempts match your filters.':'No attempts yet.'); return; }
+  box.innerHTML=`<div class="tw"><table class="rt"><thead><tr><th>Question</th><th>Date &amp; time</th><th>Section</th><th>Topic</th><th class="hm">Mode</th><th>Result</th><th class="num">Time taken</th></tr></thead><tbody>`+
+  r.slice(0,adm.limit).map(x=>{
+    const isB=x.section==='B';
+    const g=isB&&adm.grades&&adm.grades[x._id], sc=g?g.score:x.score;
+    const mkBtn=isB?` <button class="btn" style="padding:4px 10px;min-height:0" data-adm="grade" data-id="${esc(x._id)}">${g?'Review':'Mark'}</button>`:'';
+    const res=isB?((sc==null?'<span class="pill p">Awaiting marking</span>':`${sc}/${x.max} <span class="muted">(${pct(sc,x.max)}%)</span>`)+mkBtn):(x.correct?'<span class="pill s">Correct</span>':'<span class="pill w">Wrong</span>');
+    const over=x.allowed&&x.secs>x.allowed;
+    return `<tr><td class="primary"><b>${esc(x.qLabel)}</b> <span class="muted">· ${esc(x.title)}</span></td><td data-l="Date">${whenShort(x.t)}</td><td data-l="Section"><span class="tag ${isB?'b':'a'}">${isB?'B':'A'}</span></td><td data-l="Topic">${esc(x.topic)}</td><td class="hm" data-l="Mode">${esc(x.mode)}</td><td data-l="Result">${res}</td><td class="num${over?' over':''}" data-l="Time taken"${over?` title="Over the exam-pace allowance of ${fmtT(x.allowed)}"`:''}>${fmtT(x.secs)}${over?' ▲':''}</td></tr>`;}).join('')+
+  `</tbody></table></div><p class="muted" style="margin:12px 2px 0;font-size:12.5px">Showing ${Math.min(adm.limit,r.length)} of ${r.length}. ▲ = over the exam-pace allowance.${r.length>adm.limit?` <button class="back" style="margin:0 0 0 6px" data-adm="more">Show more</button>`:''}</p>`;
+  wrapCells(box);
+}
+
+/* ---------- Section B marking ---------- */
+const mk={items:[],grades:{},loading:false,err:'',filter:'pending',q:'',sel:null,back:'',busy:false};
+const mkGrade=r=>mk.grades[r._id]||null;
+const mkStatus=r=>mkGrade(r)?'marked':(r.score!=null?'legacy':'pending');
+async function loadMarkingBadge(){ try{ const a=await FB.getDocs(FB.query(FB.collection(db,'attempts'),FB.where('section','==','B'))); const g=await FB.getDocs(FB.collection(db,'gradings')); const gi=new Set(g.docs.map(d=>d.id)); const n=a.docs.filter(d=>!gi.has(d.id)&&d.data().score==null).length; const bd=$('mkBadge'); if(bd) bd.textContent=n?'('+n+')':''; }catch(e){} }
+async function loadMarking(){
+  setNav('marking'); mk.loading=true; mk.err=''; renderMarking();
+  try{
+    const a=await FB.getDocs(FB.query(FB.collection(db,'attempts'),FB.where('section','==','B')));
+    mk.items=a.docs.map(d=>({...d.data(),_id:d.id})).sort((x,y)=>(y.t||0)-(x.t||0));
+    mk.grades={}; const g=await FB.getDocs(FB.collection(db,'gradings')); g.docs.forEach(d=>{mk.grades[d.id]=d.data();});
+  }catch(e){ console.error(e); mk.err=adminError(e); }
+  mk.loading=false; const n=mk.items.filter(r=>mkStatus(r)==='pending').length; const bd=$('mkBadge'); if(bd) bd.textContent=n?'('+n+')':'';
+  renderMarking();
+}
+function renderMarking(){
+  if(view!=='marking') return;
+  if(mk.sel){ appEl.innerHTML=(mk.err?`<div class="err">${esc(mk.err)}</div>`:'')+markHTML(); return; }
+  const q=mk.q.trim().toLowerCase(), cnt={pending:0,marked:0};
+  mk.items.forEach(r=>{ if(mkStatus(r)==='pending') cnt.pending++; else cnt.marked++; });
+  const rows=mk.items.filter(r=>{ const st=mkStatus(r); return (mk.filter==='all'||(mk.filter==='pending'?st==='pending':st!=='pending'))&&(!q||[r.student,r.email,r.qLabel,r.title,r.topic].join(' ').toLowerCase().includes(q)); });
+  appEl.innerHTML=(mk.err?`<div class="err">${esc(mk.err)}</div>`:'')+
+  ph('Section B marking','Read each student\'s written answer, give marks per requirement and release them. Students only see marks (and the model answer) after you release them.',`<button class="btn" data-adm="mkrefresh">${ic('refresh')}<span>Refresh</span></button>`)+
+  `<div class="card"><div class="toolbar"><div class="seg2"><button data-adm="mkfilter" data-v="pending" class="${mk.filter==='pending'?'on':''}">Awaiting marking (${cnt.pending})</button><button data-adm="mkfilter" data-v="marked" class="${mk.filter==='marked'?'on':''}">Marked (${cnt.marked})</button><button data-adm="mkfilter" data-v="all" class="${mk.filter==='all'?'on':''}">All</button></div>
+   <label class="search">${ic('search')}<input data-mkq placeholder="Search student or question…" value="${esc(mk.q)}"></label></div>
+   <div id="mkList">${mk.loading?skel(5):(rows.length?`<div class="tw"><table class="rt"><thead><tr><th>Student</th><th>Question</th><th>Submitted</th><th>Status</th><th class="num">Time</th><th></th></tr></thead><tbody>`+rows.map(r=>{ const st=mkStatus(r), g=mkGrade(r), sc=g?g.score:r.score;
+     return `<tr class="click" data-adm="mkopen" data-id="${esc(r._id)}"><td class="primary"><b>${esc(r.student||r.email)}</b><div class="muted" style="font-size:12px">${esc(r.email||'')}</div></td><td data-l="Question"><b>${esc(r.qLabel)}</b> <span class="muted">· ${esc(r.title)}</span></td><td data-l="Submitted">${whenShort(r.subAt||r.t)}</td><td data-l="Status">${st==='pending'?'<span class="pill p">Awaiting marking</span>':`<span class="pill s">${sc}/${r.max}</span>${st==='legacy'?' <span class="muted" style="font-size:12px">self-marked</span>':''}`}</td><td class="num" data-l="Time">${fmtT(r.secs)}</td><td class="num" data-l=""><button class="btn" style="padding:6px 12px;min-height:0" data-adm="mkopen" data-id="${esc(r._id)}">${st==='marked'?'Review':'Mark'}</button></td></tr>`; }).join('')+`</tbody></table></div>`:empty('inbox',mk.filter==='pending'?'Nothing waiting to be marked.':'No submissions here yet.'))}</div></div>`;
+  wrapCells($('mkList')||document.body);
+}
+function openMark(r){ mk.sel=r; mk.err=''; renderMarking(); window.scrollTo(0,0); }
+function markReqs(r){ return Array.isArray(r.reqs)?r.reqs:[]; }
+function markHTML(){
+  const r=mk.sel, g=mkGrade(r), reqs=markReqs(r);
+  const tot=reqs.reduce((a,q)=>a+(g&&g.marks&&+g.marks[q.id]||0),0);
+  return `<button class="back" data-adm="mkback">${ic('back')}<span>${mk.back==='student'?'Back to student':'All submissions'}</span></button>
+  <div class="ph"><div><h1>${esc(r.qLabel)} · ${esc(r.title)}</h1><p>${esc(r.student||r.email)} · ${esc(r.email||'')} · submitted ${when(r.subAt||r.t)} · time ${fmtT(r.secs)}${r.allowed?' of '+fmtT(r.allowed):''}</p></div></div>
+  ${g?`<div class="card" style="border-color:var(--ok)"><b>Marks released: ${g.score} / ${r.max}</b> <span class="muted">· ${when(g.gradedAt)}${g.gradedBy?' by '+esc(g.gradedBy):''}. You can edit and release again.</span></div>`:''}
+  ${reqs.length?reqs.map(q=>{ const gm=g&&g.marks?g.marks[q.id]:'', gf=g&&g.feedback?g.feedback[q.id]:'';
+    return `<div class="mkreq"><h4>${esc(q.label)} <span class="muted" style="font-weight:600">${q.max} marks</span></h4><div class="mkq">${esc(q.text)}</div>
+      <div class="mklbl">Student's answer</div><div class="mkans">${esc(q.answer)||'<span class="muted">No answer written.</span>'}</div>
+      ${q.model?`<details class="mkfold"><summary>Model answer</summary><div class="in">${esc(q.model)}</div></details>`:''}
+      ${(q.scheme&&q.scheme.length)?`<details class="mkfold"><summary>ACCA marking scheme</summary><div class="in"><table>${q.scheme.map(it=>`<tr><td>${esc(it.text)}</td><td class="m">${esc(it.marks)}</td></tr>`).join('')}</table></div></details>`:''}
+      <div class="mkmark"><b>Mark</b><input type="number" inputmode="decimal" min="0" max="${q.max}" step="0.5" data-mk="mark" data-r="${esc(q.id)}" data-max="${q.max}" value="${gm!=null&&gm!==undefined?esc(gm):''}" placeholder="0"><span>/ ${q.max}</span></div>
+      <div class="mklbl">Feedback to student (optional)</div><textarea data-mk="fb" data-r="${esc(q.id)}" placeholder="What was good, what was missing…">${esc(gf||'')}</textarea></div>`; }).join('')
+   :`<div class="err">This submission has no per-requirement data yet. It is stored by the student's app the next time they open the site while signed in. Ask the student to open the site, then press Refresh.</div>${r.answer?`<div class="mkans">${esc(r.answer)}</div>`:''}`}
+  ${reqs.length?`<div class="mklbl">Overall comment (optional)</div><textarea data-mk="overall" placeholder="Overall feedback for the student…">${esc((g&&g.overall)||'')}</textarea>
+  <div class="mkbar" style="margin-top:14px"><b style="font-size:17px">Total: <span id="mkTotal">${tot}</span> / ${r.max}</b><span class="muted">Releasing sends marks, feedback and the model answer to the student.</span><div class="spacer" style="flex:1"></div><button class="btn primary" data-adm="mksave" ${mk.busy?'disabled':''}><span>${g?'Update & release marks':'Release marks to student'}</span></button></div>`:''}`;
+}
+async function saveMark(){
+  const r=mk.sel; if(!r||mk.busy) return; const reqs=markReqs(r);
+  const marks={}, feedback={}; let score=0, bad=null;
+  reqs.forEach(q=>{ const inp=document.querySelector(`[data-mk="mark"][data-r="${CSS.escape(q.id)}"]`), fb=document.querySelector(`[data-mk="fb"][data-r="${CSS.escape(q.id)}"]`);
+    const raw=inp?inp.value.trim():''; const v=Math.round(parseFloat(raw)*2)/2;
+    if(raw===''||isNaN(v)||v<0||v>q.max){ bad=bad||q.label; } else { marks[q.id]=v; score+=v; }
+    if(fb&&fb.value.trim()) feedback[q.id]=fb.value.trim().slice(0,4000); });
+  if(bad){ toast('Enter a mark between 0 and the maximum for '+bad); return; }
+  const ov=document.querySelector('[data-mk="overall"]'); const id=r._id;
+  mk.busy=true; const sb=document.querySelector('[data-adm="mksave"]'); if(sb) sb.disabled=true;
+  try{
+    const doc={uid:r.uid,email:r.email||'',student:r.student||'',n:String(r.n),subAt:+r.subAt||0,qLabel:r.qLabel||'',title:r.title||'',score,max:r.max,marks,feedback,overall:ov?ov.value.trim().slice(0,4000):'',gradedAt:Date.now(),gradedBy:(user.email||'').toLowerCase(),updatedAt:FB.serverTimestamp()};
+    await FB.setDoc(FB.doc(db,'gradings',id),doc);
+    mk.grades[id]=doc; if(adm.grades) adm.grades[id]=doc;
+    toast('Marks released: '+score+'/'+r.max);
+    mk.busy=false; mk.sel=null; if(mk.back==='student'){ setNav('students'); renderAdmin(); } else { const n=mk.items.filter(x=>mkStatus(x)==='pending').length; const bd=$('mkBadge'); if(bd) bd.textContent=n?'('+n+')':''; renderMarking(); }
+    window.scrollTo(0,0);
+  }catch(e){ console.error(e); mk.busy=false; if(sb) sb.disabled=false; toast('Could not save: '+adminError(e)); }
+}
+document.addEventListener('input',e=>{
+  const t=e.target; if(t.dataset&&t.dataset.mkq!==undefined){ mk.q=t.value; const pos=t.selectionStart; renderMarking(); const ni=document.querySelector('[data-mkq]'); if(ni){ ni.focus(); try{ni.setSelectionRange(pos,pos);}catch{} } return; }
+  if(t.dataset&&t.dataset.mk==='mark'){ let sum=0; document.querySelectorAll('[data-mk="mark"]').forEach(i=>{ sum+=Math.min(+i.dataset.max,Math.max(0,parseFloat(i.value)||0)); }); const el=$('mkTotal'); if(el) el.textContent=sum; }
+});
+
+/* ---------- PDF library (links only) ---------- */
+const pdf={items:[],loading:false,err:'',busy:false,edit:null};
+const okLink=u=>/^https?:\/\/\S+$/i.test(u)||(!/^[a-z][a-z0-9+.\-]*:/i.test(u)&&!u.startsWith('//')&&!/\s/.test(u)&&u.length>0);
+async function loadPdfs(){
+  pdf.loading=true; pdf.err=''; renderPdfs();
+  try{ const snap=await FB.getDocs(FB.query(FB.collection(db,'pdfs'),FB.orderBy('createdAt','desc'))); pdf.items=snap.docs.map(d=>({id:d.id,...d.data()})); }
+  catch(e){ console.error(e); pdf.err=friendlyError(e); }
+  pdf.loading=false; renderPdfs();
+}
+function renderPdfs(){
+  if(view!=='pdfs') return;
+  const keep={t:($('pTitle')||{}).value||'',d:($('pDesc')||{}).value||'',u:($('pUrl')||{}).value||''};
+  const rows=pdf.items.map(x=>pdf.edit&&pdf.edit.id===x.id?`<div class="prow" style="flex-wrap:wrap;gap:10px"><div class="pic">PDF</div><div class="pmain" style="display:flex;flex-direction:column;gap:8px;min-width:240px;flex:1">\
+    <input data-pedit="title" placeholder="Title" value="${esc(pdf.edit.title)}" style="width:100%">\
+    <input data-pedit="description" placeholder="Description (optional)" value="${esc(pdf.edit.description)}" style="width:100%">\
+    <input data-pedit="url" placeholder="PDF link or path" value="${esc(pdf.edit.url)}" style="width:100%"></div>\
+    <div class="pact"><button class="btn primary" data-pdf="save" ${pdf.busy?'disabled':''}><span>${pdf.busy?'Saving…':'Save'}</span></button><button class="btn" data-pdf="cancel"><span>Cancel</span></button></div></div>`:`<div class="prow"><div class="pic">PDF</div><div class="pmain"><b>${esc(x.title||'Untitled')}</b>${x.description?`<span>${esc(x.description)}</span>`:''}<span class="lnk">${esc(x.url||'')}</span></div>
+    <div class="pact"><button class="btn" data-pdf="edit" data-id="${esc(x.id)}"><span>Edit</span></button><a class="btn" href="${esc(okLink(x.url||'')?x.url:'#')}" target="_blank" rel="noopener">${ic('ext')}<span>Open</span></a><button class="btn danger" data-pdf="del" data-id="${esc(x.id)}">${ic('trash')}<span>Delete</span></button></div></div>`).join('');
+  appEl.innerHTML=ph('PDF library','Add links to PDFs. Signed-in students see them under PDFs in the navigation bar and beside Section A / B.')+
+  (pdf.err?`<div class="err">${esc(pdf.err)}</div>`:'')+
+  `<div class="card"><h3>Add a PDF</h3><div class="form">
+    <label><span>Title</span><input id="pTitle" placeholder="e.g. Chapter 3 – Internal controls" value="${esc(keep.t)}"></label>
+    <label><span>Description <span class="muted" style="font-weight:400">(optional)</span></span><input id="pDesc" placeholder="Short note for students" value="${esc(keep.d)}"></label>
+    <label class="full"><span>PDF link or path</span><input id="pUrl" placeholder="pdfs/chapter3.pdf" value="${esc(keep.u)}"></label>
+    <p class="hint full">Put the file in your GitHub repo (e.g. a <code>pdfs</code> folder) and enter <code>pdfs/chapter3.pdf</code>, or paste a full <code>https://…</code> link such as your GitHub Pages address. Avoid spaces in file names.</p>
+    <div class="full"><button class="btn primary" data-pdf="add" ${pdf.busy?'disabled':''}>${ic('plus')}<span>${pdf.busy?'Saving…':'Add PDF'}</span></button></div></div></div>
+  <div class="card"><h3>Library <span class="muted" style="font-weight:600;font-size:13px">${pdf.items.length}</span></h3>${pdf.loading?skel(3):(rows||empty('file','No PDFs yet. Add your first one above.'))}</div>`;
+}
+async function addPdf(){
+  const title=$('pTitle').value.trim(), desc=$('pDesc').value.trim(), url=$('pUrl').value.trim().replace(/^\.\//,'');
+  if(!title){ toast('Enter a title'); return; }
+  if(!url){ toast('Enter the PDF link or path'); return; }
+  if(!okLink(url)){ toast('Link must be https://… or a path like pdfs/file.pdf'); return; }
+  try{
+    pdf.busy=true; renderPdfs();
+    await FB.addDoc(FB.collection(db,'pdfs'),{title,description:desc,url,kind:'link',createdAt:FB.serverTimestamp(),uploadedBy:(user.email||'').toLowerCase()});
+    pdf.busy=false; pdf.err=''; ['pTitle','pDesc','pUrl'].forEach(i=>{const el=$(i); if(el) el.value='';}); toast('PDF added'); await loadPdfs();
+  }catch(e){ console.error(e); pdf.busy=false; pdf.err=friendlyError(e); renderPdfs(); }
+}
+function editPdf(id){ const x=pdf.items.find(i=>i.id===id); if(!x) return; pdf.edit={id,title:x.title||'',description:x.description||'',url:x.url||''}; renderPdfs(); }
+async function savePdfEdit(){
+  const ed=pdf.edit; if(!ed) return;
+  const title=ed.title.trim(), description=ed.description.trim(), url=ed.url.trim().replace(/^\.\//,'');
+  if(!title){ toast('Enter a title'); return; }
+  if(!url){ toast('Enter the PDF link or path'); return; }
+  if(!okLink(url)){ toast('Link must be https://… or a path like pdfs/file.pdf'); return; }
+  try{
+    pdf.busy=true; renderPdfs();
+    await FB.updateDoc(FB.doc(db,'pdfs',ed.id),{title,description,url,updatedAt:FB.serverTimestamp(),updatedBy:(user.email||'').toLowerCase()});
+    pdf.busy=false; pdf.edit=null; pdf.err=''; toast('PDF updated'); await loadPdfs();
+  }catch(e){ console.error(e); pdf.busy=false; pdf.err=friendlyError(e); renderPdfs(); }
+}
+async function delPdf(id){
+  const x=pdf.items.find(i=>i.id===id); if(!x||!confirm('Remove "'+(x.title||'this PDF')+'" from the library?\n(The file itself stays in GitHub.)')) return;
+  try{ await FB.deleteDoc(FB.doc(db,'pdfs',id)); pdf.err=''; toast('PDF removed'); await loadPdfs(); }
+  catch(e){ console.error(e); pdf.err=friendlyError(e); renderPdfs(); }
+}
+
+/* ---------- study plan: exam date + time (admin only) ---------- */
+const plan={cfg:null,loading:false,busy:false,err:''};
+async function loadPlan(){
+  plan.loading=true; plan.err=''; renderPlan();
+  try{ const s=await FB.getDoc(FB.doc(db,'config','planner')); plan.cfg=s.exists()?s.data():null; }
+  catch(e){ console.error(e); plan.err=adminError(e); }
+  plan.loading=false; renderPlan();
+}
+function renderPlan(){
+  if(view!=='plan') return;
+  const c=plan.cfg||{}, keepD=($('plDate')||{}).value, keepT=($('plTime')||{}).value;
+  const d=keepD!==undefined?keepD:(c.examDate||''), t=keepT!==undefined?keepT:(c.examTime||'09:00');
+  const upd=c.updatedAt&&c.updatedAt.toMillis?new Date(c.updatedAt.toMillis()).toLocaleString():'';
+  const left=c.examDate?Math.ceil((new Date(c.examDate+'T'+(c.examTime||'09:00'))-Date.now())/86400000):null;
+  appEl.innerHTML=ph('Study plan','Set the exam date and start time shown on every student\'s Study Planner. Students can only view it; only admins can change it.')+
+  (plan.err?`<div class="err">${esc(plan.err)}</div>`:'')+
+  `<div class="card"><h3>Exam date &amp; time</h3>${plan.loading?skel(2):`<div class="form">
+    <label><span>Exam date</span><input id="plDate" type="date" value="${esc(d)}"></label>
+    <label><span>Exam start time</span><input id="plTime" type="time" value="${esc(t)}"></label>
+    <div class="full"><button class="btn primary" data-plan="save" ${plan.busy?'disabled':''}><span>${plan.busy?'Saving…':'Save for all students'}</span></button> <button class="btn" data-plan="reload"><span>Reload</span></button></div>
+    <p class="hint full">${c.examDate?`Currently live: <b>${esc(c.examDate)}</b> at <b>${esc(c.examTime||'09:00')}</b>${left!==null?` (${left>=0?left+' day(s) left':'date passed'})`:''}${upd?` · last updated ${esc(upd)}`:''}${c.updatedBy?` by ${esc(c.updatedBy)}`:''}.`:'No exam date saved yet. Students currently see the default date (7 Dec 2026, 09:00).'} Changes appear on students\' screens instantly.</p></div>`}</div>`;
+}
+async function savePlan(){
+  const d=($('plDate')||{}).value, t=($('plTime')||{}).value||'09:00';
+  if(!d){ toast('Choose the exam date'); return; }
+  try{
+    plan.busy=true; renderPlan();
+    await FB.setDoc(FB.doc(db,'config','planner'),{examDate:d,examTime:t,updatedAt:FB.serverTimestamp(),updatedBy:(user.email||'').toLowerCase()});
+    plan.busy=false; toast('Exam date & time saved for all students'); await loadPlan();
+  }catch(e){ console.error(e); plan.busy=false; plan.err=adminError(e); renderPlan(); }
+}
+
+/* ---------- Shared mock exams + public student doubt board ---------- */
+let ST=null;
+const mx={items:[],attempts:[],doubts:[],draft:null,selected:null,busy:false};
+async function loadMockAdmin(){
+  if(view!=='mocks')return; renderMockAdmin();
+  try{const [m,a]=await Promise.all([FB.getDocs(FB.query(FB.collection(db,'mocks'),FB.orderBy('createdAt','desc'))),FB.getDocs(FB.query(FB.collection(db,'mockAttempts'),FB.orderBy('submittedAt','desc')))]);mx.items=m.docs.map(d=>({id:d.id,...d.data()}));mx.attempts=a.docs.map(d=>({id:d.id,...d.data()}));}catch(e){toast(adminError(e));}renderMockAdmin();
+}
+function renderMockAdmin(){if(view!=='mocks')return;const draft=mx.draft;appEl.innerHTML=ph('Mock exams','Upload a PDF, extract its text into editable question records, review the questions, then publish the mock to all students.')+
+`<div class="card"><h3>Upload a new mock PDF</h3><div class="form"><label><span>Subject</span><select id="mxSubject"><option value="AA">AA · Audit & Assurance</option><option value="PM">F5 · Performance Management</option><option value="FR">F7 · Financial Reporting</option><option value="ALL">All subjects</option></select></label><label><span>Mock title</span><input id="mxTitle" placeholder="e.g. March Mock 2027"></label><label><span>Time allowed (minutes)</span><input id="mxDuration" type="number" min="5" max="300" value="195"></label><label><span>PDF file</span><input id="mxFile" type="file" accept="application/pdf"></label><p class="hint full">PDF.js extracts selectable PDF text in the browser. Scanned/image-only PDFs need OCR before upload. The auto-split is a draft only: review and correct every question before publishing.</p><div class="full"><button class="btn primary" data-mx="extract" ${mx.busy?'disabled':''}>${mx.busy?'Extracting…':'Extract PDF questions'}</button></div></div></div>
+${draft?`<div class="card"><h3>Review extracted questions <span class="pill w">Draft · not visible to students</span></h3><p class="hint">${draft.questions.length} questions detected from ${esc(draft.fileName)}. Edit the extracted question text below; publishing makes the mock appear as a student invitation.</p><details class="card"><summary><b>Full extracted PDF text (source reference)</b></summary><pre style="white-space:pre-wrap;max-height:360px;overflow:auto;font-size:12px">${esc(draft.rawText||'')}</pre></details>${draft.questions.map((q,i)=>`<div class="card" style="background:var(--surface2)"><b>Question ${i+1}</b><label class="hint" style="display:block;margin:8px 0 4px">Question text / prompt</label><textarea data-mxq="${i}" style="width:100%;min-height:100px">${esc(q.prompt)}</textarea><label class="hint" style="display:block;margin-top:8px">Maximum marks <input type="number" min=1 max=100 step=0.5 data-mxmark="${i}" value="${q.marks}" style="width:90px;margin-left:8px"></label><div class="hint">${q.options.length?`Detected options: ${q.options.map(o=>o.key).join(', ')} · verify each option in the extracted prompt.`:'Written-response question · student will receive a text answer field.'}</div></div>`).join('')}<div class="acts"><button class="btn primary" data-mx="publish">Save reviewed mock as draft</button><button class="btn" data-mx="discard">Discard draft</button></div></div>`:''}
+<div class="card"><h3>Published / saved mocks</h3>${mx.items.length?mx.items.map(m=>`<div class="prow"><div class="pic">${esc(m.subject)}</div><div class="pmain"><b>${esc(m.title)}</b><span>${esc(m.subject)} · ${m.questionCount||0} questions · ${m.duration||195} min · <span class="pill ${m.status==='published'?'s':'w'}">${esc(m.status)}</span></span>${m.pdfUrl?`<a class="lnk" href="${esc(m.pdfUrl)}" target="_blank" rel="noopener">Open original PDF</a>`:''}</div><div class="pact"><button class="btn" data-mx="toggle" data-id="${m.id}">${m.status==='published'?'Unpublish':'Publish'}</button></div></div>`).join(''):'<p class="empty">No mock PDFs uploaded yet.</p>'}</div>
+<div class="card"><h3>Student mock submissions <span class="muted">${mx.attempts.length}</span></h3>${mx.attempts.length?`<div class="tw"><table class="rt"><thead><tr><th>Student</th><th>Subject / Mock</th><th>Submitted</th><th>Status</th><th></th></tr></thead><tbody>${mx.attempts.map(a=>`<tr><td><b>${esc(a.student||a.email)}</b><small class="sub2">${esc(a.email)}</small></td><td>${esc(a.subject)} · ${esc(a.title)}</td><td>${when(a.submittedAt)}</td><td>${a.status==='released'?`<span class="pill s">${a.score}/${a.maxMarks} released</span>`:'<span class="pill w">Awaiting review</span>'}</td><td><button class="btn" data-mx="mark" data-id="${a.id}">${a.status==='released'?'Review marks':'Check mock'}</button></td></tr>`).join('')}</tbody></table></div>`:'<p class="empty">No students have submitted a mock yet.</p>'}</div>`;
+}
+async function extractMock(){const file=$('mxFile')?.files?.[0],title=$('mxTitle')?.value.trim(),subject=$('mxSubject')?.value,duration=Math.max(5,Math.min(300,+$('mxDuration')?.value||195));if(!file||!title){toast('Choose a PDF and enter a mock title.');return}if(file.type!=='application/pdf'){toast('Please choose a PDF file.');return}if(file.size>20*1024*1024){toast('PDF must be 20 MB or smaller.');return}mx.busy=true;renderMockAdmin();try{const pdfjs=await import('https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.4.168/pdf.min.mjs');pdfjs.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.4.168/pdf.worker.min.mjs';const doc=await pdfjs.getDocument({data:await file.arrayBuffer()}).promise;let lines=[];for(let n=1;n<=doc.numPages;n++){const page=await doc.getPage(n),tc=await page.getTextContent();let rows={};for(const it of tc.items){if(!it.str?.trim())continue;const y=Math.round(it.transform?.[5]||0);(rows[y]??=[]).push(it.str)}lines.push(...Object.keys(rows).sort((a,b)=>+b-(+a)).map(y=>rows[y].join(' ').replace(/\s+/g,' ').trim()))}let parsed=parseMockLines(lines);if(!parsed.length||lines.join(' ').length<100){toast('No selectable text found. Running OCR on PDF pages…');const tx=await import('https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.esm.min.js');const worker=await tx.createWorker('eng');try{lines=[];for(let n=1;n<=doc.numPages;n++){const page=await doc.getPage(n),viewport=page.getViewport({scale:1.7}),canvas=document.createElement('canvas');canvas.width=viewport.width;canvas.height=viewport.height;await page.render({canvasContext:canvas.getContext('2d'),viewport}).promise;const rec=await worker.recognize(canvas);lines.push(...rec.data.text.split(/\r?\n/).map(x=>x.trim()).filter(Boolean));}parsed=parseMockLines(lines)}finally{await worker.terminate()}}if(!parsed.length)throw Error('OCR/text extraction could not identify numbered questions. Please use a clearer PDF or split it into smaller PDFs.');mx.draft={title,subject,duration,fileName:file.name,file,questions:parsed,rawText:lines.join('\n')};toast(`Extracted ${parsed.length} question drafts. Review before publishing.`)}catch(e){toast('PDF extraction failed: '+e.message);console.error(e)}finally{mx.busy=false;renderMockAdmin()}}
+function parseMockLines(lines){const starts=[];for(let i=0;i<lines.length;i++){const m=lines[i].match(/^\s*(\d{1,2})[.)]?\s*$/);if(m){const n=+m[1],next=(lines[i+1]||'')+' '+(lines[i+2]||'');if(n>=1&&n<=60&&next.trim().length>18&&!/^(KAPLAN|ACCA|SECTION|PAGE|MOCK|PROGRESS TEST)/i.test(next.trim()))starts.push({i,n})}else{const m2=lines[i].match(/^\s*(\d{1,2})[.)]?\s+(.{18,})$/);if(m2&&/^(which|what|a |an |the |calculate|explain|discuss|identify|prepare|select|determine|state|describe|how|why|for each|based on|using|you are|in relation)/i.test(m2[2].trim()))starts.push({i,n:+m2[1],inline:m2[2]})}}
+const unique=starts.filter((x,i)=>!i||x.i!==starts[i-1].i);const out=[];for(let k=0;k<unique.length;k++){const a=unique[k],end=unique[k+1]?.i??lines.length;let body=lines.slice(a.i+(a.inline?1:1),end);if(a.inline)body.unshift(a.inline);body=body.filter(x=>!/^\s*(KAPLAN PUBLISHING|ACCA (AA|PM|FR)|\d{1,2})\s*$/i.test(x));const text=body.join('\n').trim();if(text.length<35)continue;const options=[];const promptLines=[];for(let z=0;z<body.length;z++){const line=body[z],om=line.match(/^\s*([A-D])[.)]\s*(.+)$/),solo=line.match(/^\s*([A-D])\s*$/);if(om)options.push({key:om[1],text:om[2]});else if(solo&&body[z+1]&&!/^\s*[A-D]\s*$/.test(body[z+1])){options.push({key:solo[1],text:body[++z]});}else promptLines.push(line)}out.push({number:a.n,prompt:promptLines.join('\n').slice(0,12000),options,marks:options.length?2:10})}return out.slice(0,100)}
+async function publishMock(){if(!mx.draft)return;const d=mx.draft;for(const el of document.querySelectorAll('[data-mxq]'))d.questions[+el.dataset.mxq].prompt=el.value.trim();for(const el of document.querySelectorAll('[data-mxmark]'))d.questions[+el.dataset.mxmark].marks=Math.max(1,Math.min(100,Number(el.value)||1));if(d.questions.some(q=>q.prompt.length<20)){toast('Every question needs readable text.');return}mx.busy=true;renderMockAdmin();try{const storage=await import('https://www.gstatic.com/firebasejs/10.14.1/firebase-storage.js');const st=storage.getStorage(FB.getApp());const id=FB.doc(FB.collection(db,'mocks')).id;const safe=d.fileName.replace(/[^a-zA-Z0-9._-]/g,'_');const ref=storage.ref(st,`mock-pdfs/${id}/${safe}`);await storage.uploadBytes(ref,d.file,{contentType:'application/pdf'});const url=await storage.getDownloadURL(ref);await FB.setDoc(FB.doc(db,'mocks',id),{title:d.title,subject:d.subject,duration:d.duration,questionCount:d.questions.length,fileName:d.fileName,pdfUrl:url,status:'draft',createdAt:FB.serverTimestamp(),createdBy:user.email||'',createdAtMs:Date.now()});for(let i=0;i<d.questions.length;i++){const q=d.questions[i];await FB.setDoc(FB.doc(db,'mocks',id,'questions',`q${String(i+1).padStart(3,'0')}`),{order:i+1,number:q.number,prompt:q.prompt,options:q.options,marks:q.marks,type:q.options.length?'mcq':'written'});}mx.draft=null;toast('Mock PDF and question drafts saved. Publish it from the list when ready.');await loadMockAdmin()}catch(e){console.error(e);toast('Could not save mock: '+adminError(e))}finally{mx.busy=false;renderMockAdmin()}}
+async function toggleMock(id){const m=mx.items.find(x=>x.id===id);if(!m)return;const status=m.status==='published'?'draft':'published';try{await FB.updateDoc(FB.doc(db,'mocks',id),{status,updatedAt:FB.serverTimestamp(),publishedAt:status==='published'?FB.serverTimestamp():null});toast(status==='published'?'Mock released to students':'Mock unpublished');await loadMockAdmin()}catch(e){toast(adminError(e))}}
+async function markMock(id){const a=mx.attempts.find(x=>x.id===id);if(!a)return;mx.selected=a;try{const [answerSnap,questionSnap]=await Promise.all([FB.getDocs(FB.collection(db,'mockAttempts',id,'answers')),FB.getDocs(FB.query(FB.collection(db,'mocks',a.mockId,'questions'),FB.orderBy('order')))]);const answerMap={};answerSnap.docs.forEach(d=>answerMap[d.id]=d.data().answer||{});a.answerRows=questionSnap.docs.map(d=>({id:d.id,...d.data(),answer:answerMap[d.id]||{}}));}catch(e){toast('Could not load answer pages: '+adminError(e));return}const rows=a.answerRows||[],existing=a.questionMarks||{};appEl.innerHTML=ph('Review mock submission',`${esc(a.student)} · ${esc(a.email)} · ${esc(a.subject)} · ${esc(a.title)}`,'<button class="btn" data-mx="back">← All mocks</button>')+`<div class="card"><h3>Student answers · ${rows.length} questions</h3>${rows.map((q,i)=>{const ans=q.answer||{},max=Number(q.marks)||1;return `<div class="card" style="background:var(--surface2)"><b>Question ${i+1} · ${max} marks</b><p style="white-space:pre-wrap">${esc(q.prompt)}</p>${q.options?.length?`<div class="muted">${q.options.map(o=>esc(o.key+'. '+o.text)).join('<br>')}</div>`:''}<div style="margin-top:10px"><b>Student response</b><p style="white-space:pre-wrap">${esc(ans.option?'Selected option: '+ans.option:ans.text||'Not answered')}</p></div><div class="form"><label><span>Marks awarded (out of ${max})</span><input type="number" min="0" max="${max}" step="0.5" data-mxpart="${esc(q.id)}" data-max="${max}" value="${existing[q.id]??''}"></label><label><span>Feedback (optional)</span><input data-mxpartfb="${esc(q.id)}" value="${esc((a.questionFeedback||{})[q.id]||'')}"></label></div></div>`}).join('')}</div><div class="card"><h3>Release final result</h3><p>Total available: <b>${rows.reduce((n,q)=>n+(Number(q.marks)||1),0)}</b> marks · Awarded: <b id="mxScorePreview">${Object.values(existing).reduce((n,v)=>n+(+v||0),0)}</b></p><label>Overall tutor feedback<textarea id="mxFeedback" style="width:100%;min-height:90px">${esc(a.feedback||'')}</textarea></label><div class="acts"><button class="btn primary" data-mx="release">Save & release marks to this student</button></div></div>`;updateMockTotal();}
+function updateMockTotal(){let sum=0;document.querySelectorAll('[data-mxpart]').forEach(i=>{sum+=Math.min(+i.dataset.max,Math.max(0,parseFloat(i.value)||0))});const el=$('mxScorePreview');if(el)el.textContent=sum;}
+async function releaseMock(){const a=mx.selected;if(!a)return;const marks={},questionFeedback={};let score=0,bad=false;document.querySelectorAll('[data-mxpart]').forEach(i=>{const raw=i.value.trim(),v=Number(raw),max=Number(i.dataset.max);if(raw===''||!Number.isFinite(v)||v<0||v>max)bad=true;else{marks[i.dataset.mxpart]=v;score+=v}});if(bad){toast('Enter marks for every question within its maximum.');return}document.querySelectorAll('[data-mxpartfb]').forEach(i=>{if(i.value.trim())questionFeedback[i.dataset.mxpart]=i.value.trim().slice(0,1000)});const maxMarks=(a.answerRows||[]).reduce((n,q)=>n+(Number(q.marks)||1),0);const feedback=$('mxFeedback')?.value.trim()||'';try{await FB.updateDoc(FB.doc(db,'mockAttempts',a.id),{score,maxMarks,questionMarks:marks,questionFeedback,feedback,status:'released',releasedAt:Date.now(),releasedBy:user.email||''});toast('Marks released to '+(a.student||a.email));mx.selected=null;await loadMockAdmin()}catch(e){toast(adminError(e))}}
+async function loadDoubtAdmin(){if(view!=='doubts')return;try{const s=await FB.getDocs(FB.query(FB.collection(db,'commonDoubts'),FB.orderBy('createdAt','desc'),FB.limit(200)));mx.doubts=s.docs.map(d=>({id:d.id,...d.data()}))}catch(e){toast(adminError(e))}renderDoubtAdmin()}
+function renderDoubtAdmin(){if(view!=='doubts')return;appEl.innerHTML=ph('Common doubts','Questions posted by students across AA, F5 and F7. Your replies are visible to every student.')+(mx.doubts.length?mx.doubts.map(d=>`<div class="card"><div class="row" style="justify-content:space-between"><b>${esc(d.student||d.email)}</b><span class="pill">${esc(d.subject)}</span></div><h3>${esc(d.title)}</h3><p style="white-space:pre-wrap">${esc(d.body)}</p><small class="muted">${when(d.createdAt)}</small><label style="display:block;margin-top:12px">Tutor reply<textarea data-dreply="${d.id}" style="width:100%;min-height:75px">${esc(d.reply||'')}</textarea></label><button class="btn primary" style="margin-top:8px" data-doubt="reply" data-id="${d.id}">Publish reply to all students</button></div>`).join(''):'<div class="card empty">No student doubts posted yet.</div>')}
+async function replyDoubt(id){const d=mx.doubts.find(x=>x.id===id);const reply=document.querySelector(`[data-dreply="${CSS.escape(id)}"]`)?.value.trim();if(!reply){toast('Write a reply first.');return}try{await FB.updateDoc(FB.doc(db,'commonDoubts',id),{reply,repliedAt:Date.now(),repliedBy:user.email||'',status:'answered'});toast('Reply published for all students');await loadDoubtAdmin()}catch(e){toast(adminError(e))}}
+
+/* ---------- events ---------- */
+document.addEventListener('click',e=>{
+  const act=e.target.closest('[data-act]');
+  if(act){ const k=act.dataset.act; if(k==='out') FB.signOut(auth); else if(k==='theme') toggleTheme(); else if(k==='signin') signIn(act); return; }
+  const nv=e.target.closest('[data-nav]');
+  if(nv){ setNav(nv.dataset.nav); window.scrollTo(0,0); if(nv.dataset.nav==='students'){ adm.sel=null; loadStudents(); } else if(nv.dataset.nav==='marking'){ mk.sel=null; mk.back=''; loadMarking(); } else if(nv.dataset.nav==='plan'){ loadPlan(); } else if(nv.dataset.nav==='mocks'){ loadMockAdmin(); } else if(nv.dataset.nav==='doubts'){ loadDoubtAdmin(); } else loadPdfs(); return; }
+  const mxbtn=e.target.closest('[data-mx]'); if(mxbtn){const k=mxbtn.dataset.mx;if(k==='extract')extractMock();else if(k==='publish')publishMock();else if(k==='discard'){mx.draft=null;renderMockAdmin()}else if(k==='toggle')toggleMock(mxbtn.dataset.id);else if(k==='mark')markMock(mxbtn.dataset.id);else if(k==='back')loadMockAdmin();else if(k==='release')releaseMock();return;}
+  const dbt=e.target.closest('[data-doubt]');if(dbt){replyDoubt(dbt.dataset.id);return;}
+  const pl=e.target.closest('[data-plan]'); if(pl){ if(pl.dataset.plan==='save') savePlan(); else if(pl.dataset.plan==='reload') loadPlan(); return; }
+  const pd=e.target.closest('[data-pdf]');
+  if(pd){ const k=pd.dataset.pdf; if(k==='add') addPdf(); else if(k==='del') delPdf(pd.dataset.id); else if(k==='edit') editPdf(pd.dataset.id); else if(k==='save') savePdfEdit(); else if(k==='cancel'){ pdf.edit=null; renderPdfs(); } return; }
+  const b=e.target.closest('[data-adm]'); if(!b) return;
+  switch(b.dataset.adm){
+    case 'open': openStudent(b.dataset.id); break;
+    case 'grade': { const r=adm.rows.find(x=>x._id===b.dataset.id); if(r){ mk.back='student'; setNav('marking'); mk.grades=mk.grades||{}; mk.grades[r._id]=(adm.grades||{})[r._id]; openMark(r); } break; }
+    case 'mkopen': { const r=mk.items.find(x=>x._id===b.dataset.id); if(r) openMark(r); break; }
+    case 'mkback': if(mk.back==='student'){ mk.sel=null; setNav('students'); renderAdmin(); } else { mk.sel=null; renderMarking(); } window.scrollTo(0,0); break;
+    case 'mkrefresh': loadMarking(); break;
+    case 'mkfilter': mk.filter=b.dataset.v; renderMarking(); break;
+    case 'mksave': saveMark(); break;
+    case 'emailRep': emailReport(); break;
+    case 'copyRep': copyReport(); break;
+    case 'ban': setBan(true); break;
+    case 'unban': setBan(false); break;
+    case 'remove': removeStudent(); break;
+    case 'back': adm.sel=null; renderAdmin(); window.scrollTo(0,0); break;
+    case 'refresh': adm.sel?openStudent(adm.sel.id):loadStudents(); break;
+    case 'more': adm.limit+=200; renderRows(); break;
+    case 'csvAll': dl(`students_${new Date().toISOString().slice(0,10)}.csv`,[['Name','Email','Last login','Last active','Section A attempts','Section A correct','Section A time (s)','Section B submissions','Section B score','Section B max','Section B time (s)','Total time (s)']].concat(sortedStudents().map(s=>{const t=s.stats||{};return [sName(s),s.email,when(tsMs(s.lastLoginAt)),when(sActive(s)),t.aN||0,t.aOk||0,t.aSecs||0,t.bN||0,t.bScore||0,t.bMax||0,t.bSecs||0,t.totalSecs||0];}))); break;
+    case 'csvOne': dl(`${(sName(adm.sel)||'student').replace(/\W+/g,'_')}_attempts.csv`,[['Student','Email','Date/time','Section','Topic','Case / set','Question','Question style','Mode','Correct (A)','Score (B)','Out of (B)','Time taken (s)','Allowed (s)','Marks by part (B)']].concat(filteredRows().map(x=>[sName(adm.sel),adm.sel.email,new Date(x.t).toLocaleString(),x.section||'A',x.topic,x.title,x.qLabel,x.qType,x.mode,x.section==='B'?'':(x.correct?'Yes':'No'),x.section==='B'?x.score:'',x.section==='B'?x.max:'',x.secs,x.allowed||'',x.parts||'']))); break;
+  }
+});
+document.addEventListener('input',e=>{
+  if(e.target&&e.target.dataset&&e.target.dataset.mxpart!==undefined){updateMockTotal();return;}
+  const qedit=e.target&&e.target.dataset&&e.target.dataset.mxq;if(qedit!==undefined&&mx.draft){mx.draft.questions[+qedit].prompt=e.target.value;return;}const qm=e.target&&e.target.dataset&&e.target.dataset.mxmark;if(qm!==undefined&&mx.draft){mx.draft.questions[+qm].marks=Number(e.target.value)||1;return;}
+  const pe=e.target&&e.target.dataset&&e.target.dataset.pedit; if(pe&&pdf.edit){ pdf.edit[pe]=e.target.value; return; }
+  const k=e.target&&e.target.dataset&&e.target.dataset.admf; if(!k) return;
+  const v=e.target.value;
+  if(k==='q'){adm.q=v;renderList();} else if(k==='sort'){adm.sort=v;renderList();}
+  else if(k==='fq'){adm.f.q=v;adm.limit=100;renderRows();} else if(k==='fsec'){adm.f.sec=v;adm.limit=100;renderRows();} else if(k==='ftopic'){adm.f.topic=v;adm.limit=100;renderRows();}
+});
+
+/* ---------- start ---------- */
+try{
+  const base='https://www.gstatic.com/firebasejs/10.14.1/';
+  const [A,Au,Fs]=await Promise.all([import(base+'firebase-app.js'),import(base+'firebase-auth.js'),import(base+'firebase-firestore.js')]);
+  FB={...A,...Au,...Fs};
+  const app=FB.getApps().length?FB.getApps()[0]:FB.initializeApp(FIREBASE_CONFIG);
+  auth=FB.getAuth(app); db=FB.getFirestore(app);
+  FB.onAuthStateChanged(auth,onAuth);
+}catch(e){ console.error(e); gate('Could not connect','Firebase failed to load: '+friendlyError(e),''); }
+</script>
+</body>
+</html>

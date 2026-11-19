@@ -1,0 +1,117 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    // Keep this allow-list in sync with ADMIN_EMAILS in index.html and admin.html.
+    // Backend rules are authoritative; the frontend check is only a UI gate.
+    function isAdmin() {
+      return signedIn()
+        && request.auth.token.email_verified == true
+        && request.auth.token.email is string
+        && request.auth.token.email.lower() in [
+          'akshat.y.shah1725@gmail.com',
+          'yateseducationaccaresource@gmail.com'
+        ];
+    }
+
+    function owns(uid) {
+      return signedIn() && request.auth.uid == uid;
+    }
+
+    match /users/{uid} {
+      allow read: if owns(uid) || isAdmin();
+      allow create: if owns(uid)
+        && request.resource.data.uid == uid
+        && request.resource.data.keys().hasOnly([
+          'uid', 'email', 'displayName', 'photoURL',
+          'createdAtAuth', 'lastLoginAt', 'lastSeenAt',
+          'student', 'stats', 'lastActivityAt', 'statsAt'
+        ]);
+      allow update: if isAdmin() || (owns(uid)
+        && request.resource.data.uid == uid
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly([
+          'email', 'displayName', 'photoURL', 'createdAtAuth',
+          'lastLoginAt', 'lastSeenAt', 'student', 'stats',
+          'lastActivityAt', 'statsAt'
+        ]));
+      allow delete: if isAdmin();
+
+      match /aaStudyHubProgress/{documentId} {
+        allow read, write: if owns(uid) || isAdmin();
+      }
+
+      // FR and PM progress are isolated by subject and never overwrite the AA progress document.
+      match /subjectPractice/{subject} {
+        allow read, write: if (owns(uid) || isAdmin())
+          && subject in ['FR', 'PM'];
+      }
+    }
+
+    match /attempts/{attemptId} {
+      allow read: if isAdmin()
+        || (signedIn() && resource.data.uid == request.auth.uid);
+      allow create: if signedIn() && request.resource.data.uid == request.auth.uid;
+      allow update: if isAdmin()
+        || (signedIn() && resource.data.uid == request.auth.uid
+            && request.resource.data.uid == request.auth.uid);
+      allow delete: if isAdmin();
+    }
+
+    match /gradings/{gradingId} {
+      allow read: if isAdmin()
+        || (signedIn() && resource.data.uid == request.auth.uid);
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /pdfs/{pdfId} {
+      allow read: if signedIn();
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /config/{configId} {
+      allow read: if signedIn();
+      allow create, update, delete: if isAdmin();
+    }
+
+    // Admin-uploaded mock papers and question records. Students can read only published mock metadata.
+    match /mocks/{mockId} {
+      allow read: if signedIn() && (resource.data.status == 'published' || isAdmin());
+      allow create, update, delete: if isAdmin();
+      match /questions/{questionId} {
+        allow read: if signedIn() && (get(/databases/$(database)/documents/mocks/$(mockId)).data.status == 'published' || isAdmin());
+        allow create, update, delete: if isAdmin();
+      }
+    }
+
+    // Each student may submit/read their own mock attempts; only admins can grade/release.
+    match /mockAttempts/{attemptId} {
+      allow read: if isAdmin() || (signedIn() && resource.data.uid == request.auth.uid);
+      allow create: if signedIn() && request.resource.data.uid == request.auth.uid
+        && request.resource.data.status == 'submitted'
+        && get(/databases/$(database)/documents/mocks/$(request.resource.data.mockId)).data.status == 'published';
+      allow update: if isAdmin();
+      allow delete: if isAdmin();
+    }
+    match /mockAttempts/{attemptId}/answers/{answerId} {
+      allow read: if isAdmin() || (signedIn()
+        && get(/databases/$(database)/documents/mockAttempts/$(attemptId)).data.uid == request.auth.uid);
+      allow create: if signedIn()
+        && get(/databases/$(database)/documents/mockAttempts/$(attemptId)).data.uid == request.auth.uid
+        && get(/databases/$(database)/documents/mockAttempts/$(attemptId)).data.status == 'submitted';
+      allow update, delete: if isAdmin();
+    }
+
+    // Shared cross-subject doubt board: all signed-in students can read; authors create; admin replies.
+    match /commonDoubts/{doubtId} {
+      allow read: if signedIn();
+      allow create: if signedIn() && request.resource.data.uid == request.auth.uid;
+      allow update: if isAdmin();
+      allow delete: if isAdmin();
+    }
+
+    // No other collections are accessible unless explicitly added here.
+  }
+}

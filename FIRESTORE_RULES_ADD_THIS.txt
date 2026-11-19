@@ -1,0 +1,23 @@
+FIREBASE SECURITY RULES — DEPLOYMENT NOTE
+========================================
+
+The complete Firestore rules are in firestore.rules. They include the existing AA
+student records, FR/PM progress, published mock papers, student mock attempts and
+answer subcollections, and the shared Common Doubts board.
+
+DEPLOY FIRESTORE RULES
+1. Open Firebase Console → your project → Firestore Database → Rules.
+2. Back up the currently published rules.
+3. Replace the rules with the complete contents of firestore.rules.
+4. Confirm the two administrator email addresses match ADMIN_EMAILS in index.html/admin.html.
+5. Publish only after testing with separate admin and student accounts.
+
+DEPLOY STORAGE RULES
+1. Enable Firebase Storage for the project.
+2. Open Firebase Console → Storage → Rules.
+3. Replace the rules with the complete contents of storage.rules.
+4. Publish after confirming that only the allow-listed administrators can upload PDFs.
+
+The rules are a deployment candidate. They have not been deployed to the live Firebase
+project or tested with the Firebase Emulator in this environment. Verify all workflows
+before using the system with students.

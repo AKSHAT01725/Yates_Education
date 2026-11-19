@@ -1,0 +1,44 @@
+AA EXAM PRACTICE — SECTION A UPDATE REPORT
+===========================================
+
+What changed
+------------
+- Preserved the existing project and its original question records.
+- Added 40 NEWLY WRITTEN, original Section A-style multiple-choice questions.
+- Added 8 topic-based case groups (5 questions each).
+- New question numbers: Q236–Q275.
+- Each new question has four options, a keyed answer, and an explanation.
+- Section B records were left unchanged.
+
+New topic groups
+----------------
+1. Audit framework and assurance (Q236–Q240)
+2. Ethics and independence (Q241–Q245)
+3. Planning, materiality and risk (Q246–Q250)
+4. Internal controls (Q251–Q255)
+5. Audit evidence and procedures (Q256–Q260)
+6. Sampling and analytical procedures (Q261–Q265)
+7. Substantive procedures and assertions (Q266–Q270)
+8. Completion and auditor reporting (Q271–Q275)
+
+Validation performed
+--------------------
+- Embedded question-bank JSON parses successfully.
+- Total Section A question records: 275 (was 235; +40).
+- Total case/scenario records: 55 (was 47; +8).
+- Section B records: 67 (unchanged).
+- No exact duplicate normalized question stems detected in the current bank.
+- All inline JavaScript scripts pass Node syntax checks.
+- New question records have four options, a valid answer index, and an explanation.
+
+Important scope note
+--------------------
+The newly added 40 questions are original practice questions written for this project.
+They are NOT copied questions from the BPP Exam Kit. The uploaded BPP book is
+copyrighted, so this update does not reproduce its complete Section A questions and
+model answers. The source PDF's Section A cannot honestly be described as fully imported.
+
+Testing limitation
+------------------
+These are source-level checks, not a full live-browser or Firebase end-to-end test.
+Please test the ZIP locally before replacing the existing production deployment.
