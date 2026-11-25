@@ -152,3 +152,12 @@ test('shared mock exam workflow and cross-subject public doubt board are wired',
   assert.match(rules, /match \/commonDoubts\/\{doubtId\}/);
   assert.ok(fs.existsSync(path.join(root, 'storage.rules')));
 });
+
+test('new subject portal links to all three paper experiences', () => {
+  const portal = fs.readFileSync(path.join(root, 'subjects.html'), 'utf8');
+  assert.match(portal, /href="index\.html"/);
+  assert.match(portal, /href="fr-pm-practice\.html\?subject=FR"/);
+  assert.match(portal, /href="fr-pm-practice\.html\?subject=PM"/);
+  assert.match(portal, /data\/question-banks\/fr\.json/);
+  assert.match(portal, /data\/question-banks\/pm\.json/);
+});
